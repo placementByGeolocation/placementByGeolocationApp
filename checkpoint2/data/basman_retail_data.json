@@ -1,0 +1,170 @@
+[
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "105064, Москва, улица Земляной Вал, 26",
+    "coordinates": {
+      "longitude": 37.657113,
+      "latitude": 55.758123
+    }
+  },
+  {
+    "name": "Атриум",
+    "osm_type": "way",
+    "tags": {
+      "shop": "mall",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "105064, Москва, улица Земляной Вал, 33",
+    "coordinates": {
+      "longitude": 37.659092,
+      "latitude": 55.757232
+    }
+  },
+  {
+    "name": "Торговый центр \"Елоховский Пассаж\"",
+    "osm_type": "way",
+    "tags": {
+      "shop": "mall",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "Бауманская улица, 32 с2",
+    "coordinates": {
+      "longitude": 37.678159,
+      "latitude": 55.772182
+    }
+  },
+  {
+    "name": "Пятёрочка",
+    "osm_type": "way",
+    "tags": {
+      "shop": "supermarket",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "105082, Спартаковский переулок, 26",
+    "coordinates": {
+      "longitude": 37.68128,
+      "latitude": 55.77582
+    }
+  },
+  {
+    "name": "Азбука Вкуса",
+    "osm_type": "way",
+    "tags": {
+      "shop": "supermarket",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "105066, Москва, Старая Басманная улица, 28/2",
+    "coordinates": {
+      "longitude": 37.667718,
+      "latitude": 55.768101
+    }
+  },
+  {
+    "name": "ГастроFerma",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "food_court"
+    },
+    "address": "Нижняя Красносельская улица, 35 с59",
+    "coordinates": {
+      "longitude": 37.674744,
+      "latitude": 55.776605
+    }
+  },
+  {
+    "name": "Монастырская трапеза",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "fast_food"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64011,
+      "latitude": 55.755088
+    }
+  },
+  {
+    "name": "Городская усадьба И. А. Алабова",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": ""
+    },
+    "address": "Большой Спасоглинищевский переулок, 9/1 с16А",
+    "coordinates": {
+      "longitude": 37.637383,
+      "latitude": 55.754552
+    }
+  },
+  {
+    "name": "Татнефть",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "fuel"
+    },
+    "address": "Мрузовский переулок, 11А с1",
+    "coordinates": {
+      "longitude": 37.664994,
+      "latitude": 55.757086
+    }
+  },
+  {
+    "name": "Рынок выходного дня",
+    "osm_type": "way",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "marketplace"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680195,
+      "latitude": 55.769726
+    }
+  },
+  {
+    "name": "Шатёр",
+    "osm_type": "relation",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "restaurant"
+    },
+    "address": "Чистопрудный бульвар, 12А",
+    "coordinates": {
+      "longitude": 37.644659,
+      "latitude": 55.760741
+    }
+  },
+  {
+    "name": "Кислород",
+    "osm_type": "relation",
+    "tags": {
+      "shop": "",
+      "building": "retail",
+      "amenity": "cafe"
+    },
+    "address": "Бауманская улица, вл58",
+    "coordinates": {
+      "longitude": 37.679393,
+      "latitude": 55.767667
+    }
+  }
+]

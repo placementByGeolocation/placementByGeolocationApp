@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Школа №435",
+    "type": "school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.704853,
+      "latitude": 55.774614
+    }
+  },
+  {
+    "name": "АРРИС",
+    "type": "driving_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.67493,
+      "latitude": 55.774531
+    }
+  },
+  {
+    "name": "Центр эстетического воспитания детей ЦАО",
+    "type": "dancing_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646718,
+      "latitude": 55.756085
+    }
+  },
+  {
+    "name": "Свято-Филаретовский православно-христианский институт",
+    "type": "university",
+    "osm_type": "node",
+    "address": "улица Покровка",
+    "coordinates": {
+      "longitude": 37.648185,
+      "latitude": 55.760716
+    }
+  },
+  {
+    "name": "Институт Психологии и Психоанализа на Чистых прудах",
+    "type": "university",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64629,
+      "latitude": 55.760766
+    }
+  },
+  {
+    "name": "Московская театральная школа Олега Табакова",
+    "type": "college",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.649313,
+      "latitude": 55.761804
+    }
+  },
+  {
+    "name": "EF English First",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635691,
+      "latitude": 55.754088
+    }
+  },
+  {
+    "name": "Ивара",
+    "type": "dancing_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671572,
+      "latitude": 55.754443
+    }
+  },
+  {
+    "name": "Российский новый университет",
+    "type": "university",
+    "osm_type": "node",
+    "address": "улица Радио",
+    "coordinates": {
+      "longitude": 37.682171,
+      "latitude": 55.762665
+    }
+  },
+  {
+    "name": "Alibra School",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657585,
+      "latitude": 55.76246
+    }
+  },
+  {
+    "name": "Детская музыкальная школа им. Игумнова",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651235,
+      "latitude": 55.762334
+    }
+  },
+  {
+    "name": "Международный институт экономики и права",
+    "type": "university",
+    "osm_type": "node",
+    "address": "Рубцовская набережная",
+    "coordinates": {
+      "longitude": 37.699817,
+      "latitude": 55.776605
+    }
+  },
+  {
+    "name": "Евразия",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65279,
+      "latitude": 55.756262
+    }
+  },
+  {
+    "name": "Globus International",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.647509,
+      "latitude": 55.761619
+    }
+  },
+  {
+    "name": "Британская высшая школа дизайна",
+    "type": "university",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.669866,
+      "latitude": 55.751664
+    }
+  },
+  {
+    "name": "Биг Бэн",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.647287,
+      "latitude": 55.763153
+    }
+  },
+  {
+    "name": "Easy Way English",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63645,
+      "latitude": 55.763262
+    }
+  },
+  {
+    "name": "First Music Family",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63668,
+      "latitude": 55.759988
+    }
+  },
+  {
+    "name": "Studywork",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645968,
+      "latitude": 55.765705
+    }
+  },
+  {
+    "name": "Большой детский хор имени Виктора Сергеевича Попова",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663684,
+      "latitude": 55.769221
+    }
+  },
+  {
+    "name": "Music Story",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645911,
+      "latitude": 55.763275
+    }
+  },
+  {
+    "name": "Танцуй тут",
+    "type": "dancing_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664225,
+      "latitude": 55.760753
+    }
+  },
+  {
+    "name": "Language Lift",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634363,
+      "latitude": 55.76145
+    }
+  },
+  {
+    "name": "Lingvarex",
+    "type": "language_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644483,
+      "latitude": 55.764052
+    }
+  },
+  {
+    "name": "Московский художественно-промышленный институт",
+    "type": "university",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682392,
+      "latitude": 55.763634
+    }
+  },
+  {
+    "name": "Институт лингвистики и межкультурной коммуникации",
+    "type": "university",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.68418,
+      "latitude": 55.777762
+    }
+  },
+  {
+    "name": "Crazy Salsa",
+    "type": "dancing_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680402,
+      "latitude": 55.768489
+    }
+  },
+  {
+    "name": "Music club",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642442,
+      "latitude": 55.766829
+    }
+  },
+  {
+    "name": "Pole house",
+    "type": "dancing_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.675506,
+      "latitude": 55.770824
+    }
+  },
+  {
+    "name": "Lancman School",
+    "type": "prep_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640293,
+      "latitude": 55.758761
+    }
+  },
+  {
+    "name": "Go!Drums",
+    "type": "music_school",
+    "osm_type": "node",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.667284,
+      "latitude": 55.7551
+    }
+  },
+  {
+    "name": "МГТУ им. Н. Э. Баумана (Корпус Э)",
+    "type": "university",
+    "osm_type": "way",
+    "address": "Лефортовская набережная",
+    "coordinates": {
+      "longitude": 37.689622,
+      "latitude": 55.768852
+    }
+  },
+  {
+    "name": "Академия детского мюзикла",
+    "type": "music_school",
+    "osm_type": "way",
+    "address": "улица Жуковского",
+    "coordinates": {
+      "longitude": 37.646304,
+      "latitude": 55.762732
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\". Здание на Б. Трехсвятительском",
+    "type": "school",
+    "osm_type": "way",
+    "address": "Большой Трёхсвятительский переулок",
+    "coordinates": {
+      "longitude": 37.64604,
+      "latitude": 55.754963
+    }
+  },
+  {
+    "name": "Факультет права НИУ ВШЭ",
+    "type": "university",
+    "osm_type": "way",
+    "address": "Большой Трёхсвятительский переулок",
+    "coordinates": {
+      "longitude": 37.646431,
+      "latitude": 55.75543
+    }
+  },
+  {
+    "name": "Колледж лёгкой промышленности №5",
+    "type": "college",
+    "osm_type": "way",
+    "address": "Бакунинская улица",
+    "coordinates": {
+      "longitude": 37.688255,
+      "latitude": 55.77804
+    }
+  },
+  {
+    "name": "Школа №1429 имени Героя Советского Союза Н.А. Боброва",
+    "type": "school",
+    "osm_type": "way",
+    "address": "Переведеновский переулок",
+    "coordinates": {
+      "longitude": 37.686732,
+      "latitude": 55.77892
+    }
+  },
+  {
+    "name": "Государственный университет просвещения, ИФИ",
+    "type": "university",
+    "osm_type": "way",
+    "address": "улица Фридриха Энгельса",
+    "coordinates": {
+      "longitude": 37.682489,
+      "latitude": 55.77307
+    }
+  },
+  {
+    "name": "Московский технико-экономический колледж",
+    "type": "college",
+    "osm_type": "way",
+    "address": "Переведеновский переулок",
+    "coordinates": {
+      "longitude": 37.683355,
+      "latitude": 55.776153
+    }
+  },
+  {
+    "name": "Московский университет МВД",
+    "type": "university",
+    "osm_type": "way",
+    "address": "Малый Ивановский переулок",
+    "coordinates": {
+      "longitude": 37.639677,
+      "latitude": 55.754295
+    }
+  },
+  {
+    "name": "Свято-Владимирская школа",
+    "type": "school",
+    "osm_type": "way",
+    "address": "Малый Ивановский переулок",
+    "coordinates": {
+      "longitude": 37.640634,
+      "latitude": 55.753669
+    }
+  },
+  {
+    "name": "Московский институт иностранных языков",
+    "type": "university",
+    "osm_type": "way",
+    "address": "Ладожская улица",
+    "coordinates": {
+      "longitude": 37.68344,
+      "latitude": 55.77168
+    }
+  },
+  {
+    "name": "Структурное подразделение № 28 школы № 2124 «Центр развития и коррекции»",
+    "type": "school",
+    "osm_type": "way",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671951,
+      "latitude": 55.76555
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\", Отделение ОВЗ",
+    "type": "school",
+    "osm_type": "way",
+    "address": "Большой Трёхсвятительский переулок",
+    "coordinates": {
+      "longitude": 37.646414,
+      "latitude": 55.754818
+    }
+  },
+  {
+    "name": "Школа на Яузе",
+    "type": "school",
+    "osm_type": "way",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.708544,
+      "latitude": 55.77486
+    }
+  },
+  {
+    "name": "ГБОУ СОШ № 2105 \"Школа на Яузе\" корпус №1",
+    "type": "school",
+    "osm_type": "way",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.706242,
+      "latitude": 55.778975
+    }
+  },
+  {
+    "name": "Школа № 1247",
+    "type": "school",
+    "osm_type": "way",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.687932,
+      "latitude": 55.771067
+    }
+  },
+  {
+    "name": "МГТУ им. Н. Э. Баумана (Главный учебный корпус)",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "2-я Бауманская улица",
+    "coordinates": {
+      "longitude": 37.68499,
+      "latitude": 55.765941
+    }
+  },
+  {
+    "name": "МГТУ им. Н. Э. Баумана",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.687989,
+      "latitude": 55.769114
+    }
+  },
+  {
+    "name": "Государственный университет по землеустройству",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663699,
+      "latitude": 55.763202
+    }
+  },
+  {
+    "name": "Московский государственный университет геодезии и картографии",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662224,
+      "latitude": 55.76379
+    }
+  },
+  {
+    "name": "Высшая школа экономики. Факультет гуманитарных наук",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "Старая Басманная улица",
+    "coordinates": {
+      "longitude": 37.662949,
+      "latitude": 55.767367
+    }
+  },
+  {
+    "name": "Московская городская детская музыкальная школа имени С.С.Прокофьева",
+    "type": "music_school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.669128,
+      "latitude": 55.766518
+    }
+  },
+  {
+    "name": "Финансовый университет при Правительстве РФ",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.579836,
+      "latitude": 55.780617
+    }
+  },
+  {
+    "name": "Московский государственный юридический университет имени О. Е. Кутафина (МГЮА)",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.561682,
+      "latitude": 55.793597
+    }
+  },
+  {
+    "name": "Высшая школа экономики",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.623574,
+      "latitude": 55.763404
+    }
+  },
+  {
+    "name": "Государственный университет просвещения",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "ул. Радио",
+    "coordinates": {
+      "longitude": 37.675542,
+      "latitude": 55.762973
+    }
+  },
+  {
+    "name": "Московский городской педагогический университет",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642059,
+      "latitude": 55.749263
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\". Здание на Б. Казенном",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "Большой Казённый переулок",
+    "coordinates": {
+      "longitude": 37.655579,
+      "latitude": 55.760566
+    }
+  },
+  {
+    "name": "Инженерная школа № 1581. Корпус 2",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65502,
+      "latitude": 55.768521
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\". Здание на Покровке",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "улица Покровка",
+    "coordinates": {
+      "longitude": 37.644486,
+      "latitude": 55.758589
+    }
+  },
+  {
+    "name": "Центр образования №1480",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.665914,
+      "latitude": 55.764592
+    }
+  },
+  {
+    "name": "Школа № 2124 \"Центр развития и коррекции\" Здание №3",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636551,
+      "latitude": 55.761071
+    }
+  },
+  {
+    "name": "Лицей НИУ ВШЭ",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "Большой Харитоньевский переулок",
+    "coordinates": {
+      "longitude": 37.644021,
+      "latitude": 55.763624
+    }
+  },
+  {
+    "name": "Частная школа \"Бнот Менахем\"",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642948,
+      "latitude": 55.76644
+    }
+  },
+  {
+    "name": "Дипломатическая академия МИД",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645406,
+      "latitude": 55.76763
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\". Здание на Лялином",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "Лялин переулок",
+    "coordinates": {
+      "longitude": 37.651615,
+      "latitude": 55.758993
+    }
+  },
+  {
+    "name": "Школа \"Покровский квартал\"",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.648703,
+      "latitude": 55.763359
+    }
+  },
+  {
+    "name": "Московский техникум космического приборостроения",
+    "type": "college",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.685274,
+      "latitude": 55.772594
+    }
+  },
+  {
+    "name": "Школа № 1621 Древо Жизни",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.649376,
+      "latitude": 55.764853
+    }
+  },
+  {
+    "name": "Школа №354 имени Д.М. Карбышева ШО-1/1",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.668097,
+      "latitude": 55.769145
+    }
+  },
+  {
+    "name": "Московский автомобильно-дорожный колледж им. А.А. Николаева",
+    "type": "college",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.693198,
+      "latitude": 55.781315
+    }
+  },
+  {
+    "name": "Школа на Яузе корпус 7",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.707143,
+      "latitude": 55.773722
+    }
+  },
+  {
+    "name": "ЦО №354",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.677945,
+      "latitude": 55.769464
+    }
+  },
+  {
+    "name": "Театральный художественно-технический колледж",
+    "type": "college",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.672781,
+      "latitude": 55.763525
+    }
+  },
+  {
+    "name": "Лицей № 1581 имени Ивана Бунина",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.695503,
+      "latitude": 55.778939
+    }
+  },
+  {
+    "name": "Школа №1204",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.691401,
+      "latitude": 55.772832
+    }
+  },
+  {
+    "name": "Институт бизнес права МГЮА",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.684403,
+      "latitude": 55.769346
+    }
+  },
+  {
+    "name": "РадиоВТУЗ МАИ",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.66082,
+      "latitude": 55.768257
+    }
+  },
+  {
+    "name": "Центр образования №345",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.672463,
+      "latitude": 55.773149
+    }
+  },
+  {
+    "name": "Школа № 345 им. А. С. Пушкина",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.677585,
+      "latitude": 55.770713
+    }
+  },
+  {
+    "name": "Московский государственный строительный университет",
+    "type": "university",
+    "osm_type": "relation",
+    "address": "Спартаковская улица",
+    "coordinates": {
+      "longitude": 37.670927,
+      "latitude": 55.769846
+    }
+  },
+  {
+    "name": "Школа № 1203",
+    "type": "school",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.688049,
+      "latitude": 55.768816
+    }
+  },
+  {
+    "name": "Педагогический колледж №7 \"Маросейка\"",
+    "type": "college",
+    "osm_type": "relation",
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636312,
+      "latitude": 55.75945
+    }
+  }
+]

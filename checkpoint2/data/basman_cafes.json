@@ -1,0 +1,3343 @@
+[
+  {
+    "name": "Com",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644618,
+      "latitude": 55.76828
+    }
+  },
+  {
+    "name": "Шоколадница",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.631644,
+      "latitude": 55.757364
+    }
+  },
+  {
+    "name": "Кофе Хауз",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.658665,
+      "latitude": 55.757643
+    }
+  },
+  {
+    "name": "Алтаргана",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "buryat",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652294,
+      "latitude": 55.767346
+    }
+  },
+  {
+    "name": "Буржуй",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Нижняя Красносельская улица",
+    "cuisine": "russian",
+    "rating": "",
+    "website": "www.burjui-club.ru",
+    "coordinates": {
+      "longitude": 37.67189,
+      "latitude": 55.774863
+    }
+  },
+  {
+    "name": "Kalabasa",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679773,
+      "latitude": 55.762531
+    }
+  },
+  {
+    "name": "Погребок",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634187,
+      "latitude": 55.761781
+    }
+  },
+  {
+    "name": "Кафе на Басманной",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.668711,
+      "latitude": 55.768943
+    }
+  },
+  {
+    "name": "БлинБери",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "crepe",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639685,
+      "latitude": 55.764734
+    }
+  },
+  {
+    "name": "Тбилисо",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679352,
+      "latitude": 55.768274
+    }
+  },
+  {
+    "name": "Surf Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634897,
+      "latitude": 55.762409
+    }
+  },
+  {
+    "name": "Чайная высота",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64798,
+      "latitude": 55.759955
+    }
+  },
+  {
+    "name": "Black Milk",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642506,
+      "latitude": 55.762112
+    }
+  },
+  {
+    "name": "Булка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.646376,
+      "latitude": 55.759546
+    }
+  },
+  {
+    "name": "Бейрут",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "lebanese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653134,
+      "latitude": 55.764267
+    }
+  },
+  {
+    "name": "Prime",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.658445,
+      "latitude": 55.761639
+    }
+  },
+  {
+    "name": "Кафе-столовая",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.694608,
+      "latitude": 55.776492
+    }
+  },
+  {
+    "name": "Frank by Баста",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "beef",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635186,
+      "latitude": 55.762827
+    }
+  },
+  {
+    "name": "Брусника",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636339,
+      "latitude": 55.757627
+    }
+  },
+  {
+    "name": "Николай",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Старая Басманная улица",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657061,
+      "latitude": 55.764477
+    }
+  },
+  {
+    "name": "Maestrello",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645873,
+      "latitude": 55.758775
+    }
+  },
+  {
+    "name": "Рамен Клаб",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "ramen",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.632489,
+      "latitude": 55.760852
+    }
+  },
+  {
+    "name": "Волконский",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638946,
+      "latitude": 55.765075
+    }
+  },
+  {
+    "name": "Kiosk 1936",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642661,
+      "latitude": 55.761946
+    }
+  },
+  {
+    "name": "КК 12/10",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635784,
+      "latitude": 55.761911
+    }
+  },
+  {
+    "name": "Beats & Brew",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.667156,
+      "latitude": 55.754999
+    }
+  },
+  {
+    "name": "Академия вкуса",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.672822,
+      "latitude": 55.769155
+    }
+  },
+  {
+    "name": "Месье Круассан",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678783,
+      "latitude": 55.770846
+    }
+  },
+  {
+    "name": "Bubble Mania",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "bubble_tea",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636641,
+      "latitude": 55.757648
+    }
+  },
+  {
+    "name": "Patisserie Francois Bodrero",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636949,
+      "latitude": 55.757703
+    }
+  },
+  {
+    "name": "Stolovaya",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652025,
+      "latitude": 55.761887
+    }
+  },
+  {
+    "name": "Убежище",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Архангельский переулок",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://timeclub24.ru/vault",
+    "coordinates": {
+      "longitude": 37.637551,
+      "latitude": 55.761141
+    }
+  },
+  {
+    "name": "Pho U",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.68231,
+      "latitude": 55.771569
+    }
+  },
+  {
+    "name": "Меркато",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.659399,
+      "latitude": 55.768559
+    }
+  },
+  {
+    "name": "Котиссимо",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665554,
+      "latitude": 55.770043
+    }
+  },
+  {
+    "name": "Кофепровод",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.654213,
+      "latitude": 55.758697
+    }
+  },
+  {
+    "name": "Латте",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.660138,
+      "latitude": 55.767316
+    }
+  },
+  {
+    "name": "Главпирог",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pie",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.684233,
+      "latitude": 55.768555
+    }
+  },
+  {
+    "name": "Поварская лавка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.683465,
+      "latitude": 55.761363
+    }
+  },
+  {
+    "name": "Farro",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639324,
+      "latitude": 55.758452
+    }
+  },
+  {
+    "name": "Хинкали Point",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637679,
+      "latitude": 55.754601
+    }
+  },
+  {
+    "name": "Парос",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "armenian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.673891,
+      "latitude": 55.771766
+    }
+  },
+  {
+    "name": "Don Giulio Pasticceria",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648651,
+      "latitude": 55.760077
+    }
+  },
+  {
+    "name": "Папа Вейдер",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Большой Златоустинский переулок",
+    "cuisine": "international",
+    "rating": "",
+    "website": "http://papavader.ru",
+    "coordinates": {
+      "longitude": 37.632436,
+      "latitude": 55.75924
+    }
+  },
+  {
+    "name": "Питербургер",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "burger",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679583,
+      "latitude": 55.771469
+    }
+  },
+  {
+    "name": "Scrocchiarella",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639607,
+      "latitude": 55.758679
+    }
+  },
+  {
+    "name": "Кулинарная лавка братьев Караваевых",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.632693,
+      "latitude": 55.761243
+    }
+  },
+  {
+    "name": "Coffee Like",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.690534,
+      "latitude": 55.778645
+    }
+  },
+  {
+    "name": "Хвоя",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.660815,
+      "latitude": 55.766551
+    }
+  },
+  {
+    "name": "Буфет Паштет",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.651257,
+      "latitude": 55.760781
+    }
+  },
+  {
+    "name": "Чайных Дел Мастерская",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Армянский переулок",
+    "cuisine": "tea",
+    "rating": "",
+    "website": "https://teaworks.ru/",
+    "coordinates": {
+      "longitude": 37.635507,
+      "latitude": 55.760956
+    }
+  },
+  {
+    "name": "Paella Catalana",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.669696,
+      "latitude": 55.752173
+    }
+  },
+  {
+    "name": "Свои люди",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.68619,
+      "latitude": 55.774711
+    }
+  },
+  {
+    "name": "FOB's",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642894,
+      "latitude": 55.763465
+    }
+  },
+  {
+    "name": "Даблби",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.658444,
+      "latitude": 55.757959
+    }
+  },
+  {
+    "name": "IWant",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.673045,
+      "latitude": 55.772413
+    }
+  },
+  {
+    "name": "Burger Heroes",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "burger",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634036,
+      "latitude": 55.757356
+    }
+  },
+  {
+    "name": "Магнолия",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.6393,
+      "latitude": 55.7582
+    }
+  },
+  {
+    "name": "Токмакоff",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.670254,
+      "latitude": 55.765109
+    }
+  },
+  {
+    "name": "Грамотный Кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.646793,
+      "latitude": 55.760131
+    }
+  },
+  {
+    "name": "OneBucksCoffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.68234,
+      "latitude": 55.771413
+    }
+  },
+  {
+    "name": "Caffein Lab",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.696767,
+      "latitude": 55.781829
+    }
+  },
+  {
+    "name": "Financier",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.673651,
+      "latitude": 55.77443
+    }
+  },
+  {
+    "name": "Эль Кафе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665837,
+      "latitude": 55.759461
+    }
+  },
+  {
+    "name": "OMG!Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.66409,
+      "latitude": 55.760494
+    }
+  },
+  {
+    "name": "Вкус внутри",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.696807,
+      "latitude": 55.781962
+    }
+  },
+  {
+    "name": "Токпокки",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "korean",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679489,
+      "latitude": 55.767455
+    }
+  },
+  {
+    "name": "That place",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642981,
+      "latitude": 55.761558
+    }
+  },
+  {
+    "name": "Coffee&Milk",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.676473,
+      "latitude": 55.772491
+    }
+  },
+  {
+    "name": "West 4",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "улица Остоженка",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.670341,
+      "latitude": 55.774903
+    }
+  },
+  {
+    "name": "Cofix",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678691,
+      "latitude": 55.772666
+    }
+  },
+  {
+    "name": "Сыр & кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.643296,
+      "latitude": 55.753397
+    }
+  },
+  {
+    "name": "Общага",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.660807,
+      "latitude": 55.763397
+    }
+  },
+  {
+    "name": "Школьник",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65677,
+      "latitude": 55.761725
+    }
+  },
+  {
+    "name": "Les",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.674643,
+      "latitude": 55.776613
+    }
+  },
+  {
+    "name": "PhoBo",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.677863,
+      "latitude": 55.766659
+    }
+  },
+  {
+    "name": "WakeCup Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Нижняя Сыромятническая улица",
+    "cuisine": "",
+    "rating": "",
+    "website": "https://www.wakecup.ru/",
+    "coordinates": {
+      "longitude": 37.66876,
+      "latitude": 55.752726
+    }
+  },
+  {
+    "name": "Другая кофейня",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.662572,
+      "latitude": 55.766397
+    }
+  },
+  {
+    "name": "Кофик",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "http://kofik.ru/",
+    "coordinates": {
+      "longitude": 37.679193,
+      "latitude": 55.763018
+    }
+  },
+  {
+    "name": "Jeffrey's Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.683047,
+      "latitude": 55.77134
+    }
+  },
+  {
+    "name": "Bloom-n-brew",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.673291,
+      "latitude": 55.774651
+    }
+  },
+  {
+    "name": "Svoё cafe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Рубцовская набережная",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "http://svoecafe.ru",
+    "coordinates": {
+      "longitude": 37.699999,
+      "latitude": 55.776606
+    }
+  },
+  {
+    "name": "Дела кофейные",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648218,
+      "latitude": 55.762568
+    }
+  },
+  {
+    "name": "Casa Leone",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.632365,
+      "latitude": 55.756638
+    }
+  },
+  {
+    "name": "Red Brick",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644066,
+      "latitude": 55.755864
+    }
+  },
+  {
+    "name": "Япоkofe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.654527,
+      "latitude": 55.762789
+    }
+  },
+  {
+    "name": "Грабли",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "russian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637814,
+      "latitude": 55.753779
+    }
+  },
+  {
+    "name": "Котофейня",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637162,
+      "latitude": 55.757464
+    }
+  },
+  {
+    "name": "Грамотный кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653164,
+      "latitude": 55.756973
+    }
+  },
+  {
+    "name": "Пересвет",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.655552,
+      "latitude": 55.755974
+    }
+  },
+  {
+    "name": "Гнездо",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://timeclub24.ru/gnezdo",
+    "coordinates": {
+      "longitude": 37.651049,
+      "latitude": 55.760129
+    }
+  },
+  {
+    "name": "ABC coffee roasters",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642162,
+      "latitude": 55.759009
+    }
+  },
+  {
+    "name": "Буфетрина",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake;coffee_shop;sandwich",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.671029,
+      "latitude": 55.753062
+    }
+  },
+  {
+    "name": "Чихо",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "asian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.669389,
+      "latitude": 55.752858
+    }
+  },
+  {
+    "name": "Пицца Паоло",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.659711,
+      "latitude": 55.759714
+    }
+  },
+  {
+    "name": "Мох / Волна",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://t.me/moxveganfood",
+    "coordinates": {
+      "longitude": 37.668951,
+      "latitude": 55.75215
+    }
+  },
+  {
+    "name": "Lancheria",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.670161,
+      "latitude": 55.752032
+    }
+  },
+  {
+    "name": "Гоген",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.667551,
+      "latitude": 55.753225
+    }
+  },
+  {
+    "name": "Джи Пи Вингс",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.646767,
+      "latitude": 55.767898
+    }
+  },
+  {
+    "name": "Red Black Family",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648933,
+      "latitude": 55.762007
+    }
+  },
+  {
+    "name": "Фо Вьет",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.63946,
+      "latitude": 55.765369
+    }
+  },
+  {
+    "name": "Инсайт",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.650868,
+      "latitude": 55.767405
+    }
+  },
+  {
+    "name": "Uon Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.656985,
+      "latitude": 55.761328
+    }
+  },
+  {
+    "name": "Senti Menti",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637593,
+      "latitude": 55.754345
+    }
+  },
+  {
+    "name": "On Sight",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647514,
+      "latitude": 55.758772
+    }
+  },
+  {
+    "name": "smart_cafe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Спартаковская площадь",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://smartcafe.site",
+    "coordinates": {
+      "longitude": 37.679032,
+      "latitude": 55.776103
+    }
+  },
+  {
+    "name": "Ладо",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637411,
+      "latitude": 55.762802
+    }
+  },
+  {
+    "name": "Ни свет ни заря",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.651801,
+      "latitude": 55.762156
+    }
+  },
+  {
+    "name": "Лепим и варим",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "russian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634997,
+      "latitude": 55.757728
+    }
+  },
+  {
+    "name": "Jeffreys coffeeshop",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649733,
+      "latitude": 55.754081
+    }
+  },
+  {
+    "name": "Охотка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "seafood",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.63666,
+      "latitude": 55.757533
+    }
+  },
+  {
+    "name": "Film.bar",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.640484,
+      "latitude": 55.761635
+    }
+  },
+  {
+    "name": "Coffee Cona",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636498,
+      "latitude": 55.754442
+    }
+  },
+  {
+    "name": "Hav.Palass",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653935,
+      "latitude": 55.764696
+    }
+  },
+  {
+    "name": "Тхань",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Новорязанская улица",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664266,
+      "latitude": 55.772401
+    }
+  },
+  {
+    "name": "Дринкит",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.663753,
+      "latitude": 55.760622
+    }
+  },
+  {
+    "name": "Corner Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64779,
+      "latitude": 55.755079
+    }
+  },
+  {
+    "name": "CofeFest",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.671802,
+      "latitude": 55.775743
+    }
+  },
+  {
+    "name": "Taco Time",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "mexican",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.684103,
+      "latitude": 55.768271
+    }
+  },
+  {
+    "name": "Старик Хинкалыч",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.646708,
+      "latitude": 55.767646
+    }
+  },
+  {
+    "name": "Kitsune",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.684169,
+      "latitude": 55.768416
+    }
+  },
+  {
+    "name": "Сыто Piano",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641482,
+      "latitude": 55.758645
+    }
+  },
+  {
+    "name": "Загорами",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.681821,
+      "latitude": 55.773945
+    }
+  },
+  {
+    "name": "Stim",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Спартаковская улица",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678289,
+      "latitude": 55.776047
+    }
+  },
+  {
+    "name": "Crosby Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665366,
+      "latitude": 55.773507
+    }
+  },
+  {
+    "name": "Вспышка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://vspyshka.coffee/",
+    "coordinates": {
+      "longitude": 37.672458,
+      "latitude": 55.775998
+    }
+  },
+  {
+    "name": "Шашлычок",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.674006,
+      "latitude": 55.77715
+    }
+  },
+  {
+    "name": "Pear-6",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Покровский бульвар",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.650169,
+      "latitude": 55.754027
+    }
+  },
+  {
+    "name": "Лунго",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.650634,
+      "latitude": 55.767341
+    }
+  },
+  {
+    "name": "Пороселло",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678795,
+      "latitude": 55.770781
+    }
+  },
+  {
+    "name": "SeDelice",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647678,
+      "latitude": 55.768015
+    }
+  },
+  {
+    "name": "Fettucciamo",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.632377,
+      "latitude": 55.760892
+    }
+  },
+  {
+    "name": "StandUp Cafe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645636,
+      "latitude": 55.759099
+    }
+  },
+  {
+    "name": "Taam hummus bar",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "jewish",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647012,
+      "latitude": 55.7598
+    }
+  },
+  {
+    "name": "Я тебя люля",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645989,
+      "latitude": 55.758617
+    }
+  },
+  {
+    "name": "Dragon Bubble Tea",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680693,
+      "latitude": 55.771326
+    }
+  },
+  {
+    "name": "Tintoretto",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65277,
+      "latitude": 55.759922
+    }
+  },
+  {
+    "name": "Публика",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.663504,
+      "latitude": 55.766469
+    }
+  },
+  {
+    "name": "Полдень",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647203,
+      "latitude": 55.76053
+    }
+  },
+  {
+    "name": "Coffee Moose",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Старая Басманная улица",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://coffee-moose.com/",
+    "coordinates": {
+      "longitude": 37.665201,
+      "latitude": 55.767537
+    }
+  },
+  {
+    "name": "Грот",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680221,
+      "latitude": 55.761304
+    }
+  },
+  {
+    "name": "Ramen Ten",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "ramen",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641202,
+      "latitude": 55.758598
+    }
+  },
+  {
+    "name": "Хинкали у Нино",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641092,
+      "latitude": 55.75858
+    }
+  },
+  {
+    "name": "Kafe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.691007,
+      "latitude": 55.778415
+    }
+  },
+  {
+    "name": "Jinju",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "bubble_tea",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642807,
+      "latitude": 55.759095
+    }
+  },
+  {
+    "name": "KOM",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652862,
+      "latitude": 55.759982
+    }
+  },
+  {
+    "name": "РомБаба",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641842,
+      "latitude": 55.75871
+    }
+  },
+  {
+    "name": "Мегрули",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.654662,
+      "latitude": 55.763259
+    }
+  },
+  {
+    "name": "Kebab Ø18",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "kebab",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645935,
+      "latitude": 55.758689
+    }
+  },
+  {
+    "name": "J'pan",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "japanese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634148,
+      "latitude": 55.762008
+    }
+  },
+  {
+    "name": "Skrepka!",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639718,
+      "latitude": 55.758848
+    }
+  },
+  {
+    "name": "CVC",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "chinese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642219,
+      "latitude": 55.762326
+    }
+  },
+  {
+    "name": "Vivian's",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "breakfast;burger;coffee_shop;pasta",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634617,
+      "latitude": 55.754709
+    }
+  },
+  {
+    "name": "Белые Облака",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "https://cafebelyeoblaka.ru/",
+    "coordinates": {
+      "longitude": 37.641562,
+      "latitude": 55.758661
+    }
+  },
+  {
+    "name": "Papa Grill",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.696925,
+      "latitude": 55.780489
+    }
+  },
+  {
+    "name": "Гриль & Сувлаки",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "greek",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.697053,
+      "latitude": 55.780501
+    }
+  },
+  {
+    "name": "Эклерная Клер",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.675779,
+      "latitude": 55.77241
+    }
+  },
+  {
+    "name": "Soul Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65425,
+      "latitude": 55.765048
+    }
+  },
+  {
+    "name": "La Virgen",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "mexican",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.629507,
+      "latitude": 55.758643
+    }
+  },
+  {
+    "name": "Табак & кофейня",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.655664,
+      "latitude": 55.764933
+    }
+  },
+  {
+    "name": "Сахара Экспресс",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "kebab",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665015,
+      "latitude": 55.767415
+    }
+  },
+  {
+    "name": "Лаванда кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.672625,
+      "latitude": 55.775135
+    }
+  },
+  {
+    "name": "Mnoga кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.676394,
+      "latitude": 55.776308
+    }
+  },
+  {
+    "name": "Чикен пита",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.696797,
+      "latitude": 55.78152
+    }
+  },
+  {
+    "name": "Ngon",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.675013,
+      "latitude": 55.776477
+    }
+  },
+  {
+    "name": "Картофан",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.674977,
+      "latitude": 55.776464
+    }
+  },
+  {
+    "name": "Bels",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "chicken",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.674936,
+      "latitude": 55.776445
+    }
+  },
+  {
+    "name": "Agile",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.684204,
+      "latitude": 55.768491
+    }
+  },
+  {
+    "name": "Bitter drop",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Нижняя Сыромятническая улица",
+    "cuisine": "coffee_shop;international",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.67044,
+      "latitude": 55.752255
+    }
+  },
+  {
+    "name": "Yumms",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636355,
+      "latitude": 55.761375
+    }
+  },
+  {
+    "name": "Закуток",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644655,
+      "latitude": 55.755026
+    }
+  },
+  {
+    "name": "Эклер",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644804,
+      "latitude": 55.75502
+    }
+  },
+  {
+    "name": "Квартира 37",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644698,
+      "latitude": 55.755076
+    }
+  },
+  {
+    "name": "Аренда",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644432,
+      "latitude": 55.755067
+    }
+  },
+  {
+    "name": "Правда кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.67948,
+      "latitude": 55.772683
+    }
+  },
+  {
+    "name": "Чифанька",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "chinese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642995,
+      "latitude": 55.755063
+    }
+  },
+  {
+    "name": "Cups & Hugs",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Большая Почтовая улица",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.691423,
+      "latitude": 55.775726
+    }
+  },
+  {
+    "name": "Север-Метрополь",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "улица Фридриха Энгельса",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680457,
+      "latitude": 55.771577
+    }
+  },
+  {
+    "name": "Korean Chick",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "asian",
+    "rating": "",
+    "website": "https://koreanchick.ru/",
+    "coordinates": {
+      "longitude": 37.683669,
+      "latitude": 55.770217
+    }
+  },
+  {
+    "name": "Шоколадное ателье",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "cake",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652193,
+      "latitude": 55.761958
+    }
+  },
+  {
+    "name": "Skuratov Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.672176,
+      "latitude": 55.775562
+    }
+  },
+  {
+    "name": "Ra'men",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "ramen",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665474,
+      "latitude": 55.755278
+    }
+  },
+  {
+    "name": "Ter.mos",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.698838,
+      "latitude": 55.779939
+    }
+  },
+  {
+    "name": "Bodro Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.662489,
+      "latitude": 55.760801
+    }
+  },
+  {
+    "name": "Drozdov coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665069,
+      "latitude": 55.755975
+    }
+  },
+  {
+    "name": "Coffee Frisbee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665549,
+      "latitude": 55.756091
+    }
+  },
+  {
+    "name": "Circle",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.683535,
+      "latitude": 55.763984
+    }
+  },
+  {
+    "name": "Tary",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.683238,
+      "latitude": 55.775918
+    }
+  },
+  {
+    "name": "Хаусбот кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.69152,
+      "latitude": 55.777805
+    }
+  },
+  {
+    "name": "Френдс",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649617,
+      "latitude": 55.760588
+    }
+  },
+  {
+    "name": "Ø36",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "kebab",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642922,
+      "latitude": 55.754983
+    }
+  },
+  {
+    "name": "Viet quan",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641713,
+      "latitude": 55.758684
+    }
+  },
+  {
+    "name": "Siyai",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634969,
+      "latitude": 55.757539
+    }
+  },
+  {
+    "name": "Sare art",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647985,
+      "latitude": 55.765894
+    }
+  },
+  {
+    "name": "Буханка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.700318,
+      "latitude": 55.780042
+    }
+  },
+  {
+    "name": "Smart Coffee lab",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636165,
+      "latitude": 55.75806
+    }
+  },
+  {
+    "name": "Davs tea",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "bubble_tea",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.682421,
+      "latitude": 55.771571
+    }
+  },
+  {
+    "name": "Erna Hoffman",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657596,
+      "latitude": 55.764391
+    }
+  },
+  {
+    "name": "Pho-house",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657739,
+      "latitude": 55.764439
+    }
+  },
+  {
+    "name": "Soul.mo",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65768,
+      "latitude": 55.763032
+    }
+  },
+  {
+    "name": "Nofilters",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.629735,
+      "latitude": 55.758385
+    }
+  },
+  {
+    "name": "Дайсы, миплы, два стола",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657354,
+      "latitude": 55.768843
+    }
+  },
+  {
+    "name": "Пита & Сувлаки",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "greek",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634462,
+      "latitude": 55.754884
+    }
+  },
+  {
+    "name": "Блины у камина",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "crepe",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649196,
+      "latitude": 55.759234
+    }
+  },
+  {
+    "name": "Ланч плэйс",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "breakfast;russian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.63741,
+      "latitude": 55.759448
+    }
+  },
+  {
+    "name": "Остров Пасхи",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648909,
+      "latitude": 55.759838
+    }
+  },
+  {
+    "name": "Лан Ма",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.640216,
+      "latitude": 55.758665
+    }
+  },
+  {
+    "name": "Stars Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.63979,
+      "latitude": 55.764679
+    }
+  },
+  {
+    "name": "Friends Place",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.684039,
+      "latitude": 55.773367
+    }
+  },
+  {
+    "name": "Coffee Time",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664384,
+      "latitude": 55.772249
+    }
+  },
+  {
+    "name": "Bagel",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634724,
+      "latitude": 55.756005
+    }
+  },
+  {
+    "name": "Rockstar Dogs",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "hot_dog",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638389,
+      "latitude": 55.754022
+    }
+  },
+  {
+    "name": "Агадир",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.670116,
+      "latitude": 55.771217
+    }
+  },
+  {
+    "name": "Мастерская",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645491,
+      "latitude": 55.755074
+    }
+  },
+  {
+    "name": "Салатница",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.698579,
+      "latitude": 55.779934
+    }
+  },
+  {
+    "name": "Tricky",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642327,
+      "latitude": 55.766849
+    }
+  },
+  {
+    "name": "Самолёт кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638125,
+      "latitude": 55.753588
+    }
+  },
+  {
+    "name": "Fibonacci",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.675965,
+      "latitude": 55.776555
+    }
+  },
+  {
+    "name": "Хондэ",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678433,
+      "latitude": 55.7761
+    }
+  },
+  {
+    "name": "Арка маркет",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.700424,
+      "latitude": 55.780249
+    }
+  },
+  {
+    "name": "Легенда",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "georgian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.700387,
+      "latitude": 55.779659
+    }
+  },
+  {
+    "name": "Coffee Point",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.668895,
+      "latitude": 55.77477
+    }
+  },
+  {
+    "name": "Пан круассан",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.662809,
+      "latitude": 55.761261
+    }
+  },
+  {
+    "name": "Pir&Rog",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pie",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649056,
+      "latitude": 55.754872
+    }
+  },
+  {
+    "name": "Masa Madre",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638672,
+      "latitude": 55.754134
+    }
+  },
+  {
+    "name": "Shuttle Coffee",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.681941,
+      "latitude": 55.771839
+    }
+  },
+  {
+    "name": "Мама варит кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64237,
+      "latitude": 55.758801
+    }
+  },
+  {
+    "name": "Окофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642642,
+      "latitude": 55.758847
+    }
+  },
+  {
+    "name": "Лицей",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.651406,
+      "latitude": 55.760228
+    }
+  },
+  {
+    "name": "Meteorite",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635475,
+      "latitude": 55.76226
+    }
+  },
+  {
+    "name": "Много кофе",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644399,
+      "latitude": 55.754633
+    }
+  },
+  {
+    "name": "Фо Оань",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "vietnamese",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.632194,
+      "latitude": 55.757187
+    }
+  },
+  {
+    "name": "Kulek",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "italian",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639516,
+      "latitude": 55.758506
+    }
+  },
+  {
+    "name": "Nova",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "bubble_tea",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647647,
+      "latitude": 55.759743
+    }
+  },
+  {
+    "name": "Мякоть",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "kebab",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.662175,
+      "latitude": 55.76034
+    }
+  },
+  {
+    "name": "Amov",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.660165,
+      "latitude": 55.763486
+    }
+  },
+  {
+    "name": "Kokoro",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635479,
+      "latitude": 55.75757
+    }
+  },
+  {
+    "name": "Lafferia",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "arab",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.686323,
+      "latitude": 55.771496
+    }
+  },
+  {
+    "name": "Crazy Cook",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "pizza",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.650666,
+      "latitude": 55.760949
+    }
+  },
+  {
+    "name": "One special",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Нижний Сусальный переулок",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.666366,
+      "latitude": 55.760848
+    }
+  },
+  {
+    "name": "CoffeeNat",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664151,
+      "latitude": 55.760761
+    }
+  },
+  {
+    "name": "Автомойка",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639769,
+      "latitude": 55.757443
+    }
+  },
+  {
+    "name": "Aspeen",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.686258,
+      "latitude": 55.77141
+    }
+  },
+  {
+    "name": "Рябчик",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.647353,
+      "latitude": 55.760697
+    }
+  },
+  {
+    "name": "Aaark",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649602,
+      "latitude": 55.761618
+    }
+  },
+  {
+    "name": "Чапа",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645231,
+      "latitude": 55.764289
+    }
+  },
+  {
+    "name": "Coffee Way",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "Бауманская",
+    "cuisine": "",
+    "rating": "",
+    "website": "https://coffeeway.ru/",
+    "coordinates": {
+      "longitude": 37.679116,
+      "latitude": 55.769562
+    }
+  },
+  {
+    "name": "Sonder Cafe",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680695,
+      "latitude": 55.773128
+    }
+  },
+  {
+    "name": "Культурный код",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "european",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679422,
+      "latitude": 55.76798
+    }
+  },
+  {
+    "name": "Москвич",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657213,
+      "latitude": 55.757185
+    }
+  },
+  {
+    "name": "Коврижечная",
+    "type": "cafe",
+    "osm_type": "node",
+    "address": "",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "https://kovrizhka-zaraysk.ru/",
+    "coordinates": {
+      "longitude": 37.680924,
+      "latitude": 55.771765
+    }
+  },
+  {
+    "name": "Local Time",
+    "type": "cafe",
+    "osm_type": "way",
+    "address": "Новорязанская улица",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.669739,
+      "latitude": 55.773416
+    }
+  },
+  {
+    "name": "Fruits & Veges",
+    "type": "cafe",
+    "osm_type": "way",
+    "address": "Нижняя Сыромятническая улица",
+    "cuisine": "falafel;smoothie;salad;coffee_shop;diet;healthy",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.66847,
+      "latitude": 55.752679
+    }
+  },
+  {
+    "name": "Кооператив «Чёрный»",
+    "type": "cafe",
+    "osm_type": "way",
+    "address": "Лялин переулок",
+    "cuisine": "coffee_shop",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.651832,
+      "latitude": 55.76002
+    }
+  },
+  {
+    "name": "Столовая СМ-Энерго",
+    "type": "cafe",
+    "osm_type": "way",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.690859,
+      "latitude": 55.769485
+    }
+  },
+  {
+    "name": "Sito",
+    "type": "cafe",
+    "osm_type": "way",
+    "address": "",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.66088,
+      "latitude": 55.766124
+    }
+  },
+  {
+    "name": "Кислород",
+    "type": "cafe",
+    "osm_type": "relation",
+    "address": "Бауманская улица",
+    "cuisine": "",
+    "rating": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679393,
+      "latitude": 55.767667
+    }
+  }
+]

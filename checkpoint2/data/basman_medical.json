@@ -1,0 +1,1286 @@
+[
+  {
+    "name": "Поликлиника.ру",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.656726,
+      "latitude": 55.768701
+    }
+  },
+  {
+    "name": "Детский центр диагностики и лечения им. Н.А. Семашко",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.687457,
+      "latitude": 55.773526
+    }
+  },
+  {
+    "name": "Детская городская поликлиника №104 Филиал №3",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "Семёновская набережная",
+    "phone": "",
+    "website": "https://dgp104.ru/filial3/",
+    "coordinates": {
+      "longitude": 37.708742,
+      "latitude": 55.778878
+    }
+  },
+  {
+    "name": "Lique Deluxe",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "Лялин переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652201,
+      "latitude": 55.758317
+    }
+  },
+  {
+    "name": "Филиал №7 МНПЦ борьбы с туберкулезом по ЦАО",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680932,
+      "latitude": 55.76284
+    }
+  },
+  {
+    "name": "Городская поликлиника 129 филиал 2",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.708212,
+      "latitude": 55.772924
+    }
+  },
+  {
+    "name": "Abc-медицина",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.643698,
+      "latitude": 55.760826
+    }
+  },
+  {
+    "name": "ЭФиС",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "https://www.efis.ru/",
+    "coordinates": {
+      "longitude": 37.653363,
+      "latitude": 55.765402
+    }
+  },
+  {
+    "name": "Женская консультация №6",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635484,
+      "latitude": 55.758655
+    }
+  },
+  {
+    "name": "Клиника на Потаповскомъ",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641007,
+      "latitude": 55.760121
+    }
+  },
+  {
+    "name": "Доктор Пластик",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639058,
+      "latitude": 55.765681
+    }
+  },
+  {
+    "name": "Медисан",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637279,
+      "latitude": 55.757045
+    }
+  },
+  {
+    "name": "Grand Clinic",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "Гусятников переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.6428,
+      "latitude": 55.763864
+    }
+  },
+  {
+    "name": "Лечебно-восстановительный комплекс МЦ ЗАО \"Коопвнешторг\"",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "Лубянский проезд",
+    "phone": "+7 495 6243903",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.633006,
+      "latitude": 55.756819
+    }
+  },
+  {
+    "name": "Клиника здоровья",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 495 6282205",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.633022,
+      "latitude": 55.757165
+    }
+  },
+  {
+    "name": "Триактив",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638534,
+      "latitude": 55.765437
+    }
+  },
+  {
+    "name": "Ниармедик",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635247,
+      "latitude": 55.757187
+    }
+  },
+  {
+    "name": "Медосмотры.Ру",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 495 9258878;+7 916 1577247",
+    "website": "https://medosmotri.ru",
+    "coordinates": {
+      "longitude": 37.663578,
+      "latitude": 55.770245
+    }
+  },
+  {
+    "name": "Бонамедика",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 499 7068303",
+    "website": "http://bonamedica.ru",
+    "coordinates": {
+      "longitude": 37.652752,
+      "latitude": 55.76695
+    }
+  },
+  {
+    "name": "Центр современной восстановительной медицины",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.696805,
+      "latitude": 55.780831
+    }
+  },
+  {
+    "name": "Детская городская поликлиника № 104. Филиал № 1",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64726,
+      "latitude": 55.754416
+    }
+  },
+  {
+    "name": "Dr. Kramar",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.641027,
+      "latitude": 55.753698
+    }
+  },
+  {
+    "name": "Медицинский центр Управления делами Мэра и Правительства Москвы",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635791,
+      "latitude": 55.754814
+    }
+  },
+  {
+    "name": "Dr. Deryabina",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.634853,
+      "latitude": 55.756364
+    }
+  },
+  {
+    "name": "Клятва Гиппократа",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.633741,
+      "latitude": 55.7558
+    }
+  },
+  {
+    "name": "Частная практика",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636393,
+      "latitude": 55.761283
+    }
+  },
+  {
+    "name": "ЧинФан",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.63909,
+      "latitude": 55.756561
+    }
+  },
+  {
+    "name": "Центр медицины плода",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639325,
+      "latitude": 55.765479
+    }
+  },
+  {
+    "name": "Total Charm",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.646352,
+      "latitude": 55.760591
+    }
+  },
+  {
+    "name": "Семейный доктор",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 495 7757566",
+    "website": "https://www.familydoctor.ru",
+    "coordinates": {
+      "longitude": 37.67953,
+      "latitude": 55.767213
+    }
+  },
+  {
+    "name": "Эпилайк",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.650876,
+      "latitude": 55.757353
+    }
+  },
+  {
+    "name": "Premium Aesthetics",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65094,
+      "latitude": 55.757282
+    }
+  },
+  {
+    "name": "Научно-исследовательская лечебная клиника хиропрактики и остеопатии",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652834,
+      "latitude": 55.755969
+    }
+  },
+  {
+    "name": "Frau Klinik",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652055,
+      "latitude": 55.756158
+    }
+  },
+  {
+    "name": "Градиент",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644205,
+      "latitude": 55.762554
+    }
+  },
+  {
+    "name": "МедЦентрСервис",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.655669,
+      "latitude": 55.755297
+    }
+  },
+  {
+    "name": "Dr. Эстетик",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653927,
+      "latitude": 55.755389
+    }
+  },
+  {
+    "name": "The Platinental",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653565,
+      "latitude": 55.757756
+    }
+  },
+  {
+    "name": "Real Trans Hair",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.654674,
+      "latitude": 55.758466
+    }
+  },
+  {
+    "name": "Soins de Beaute",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.653412,
+      "latitude": 55.758353
+    }
+  },
+  {
+    "name": "Сан Медик",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638688,
+      "latitude": 55.753864
+    }
+  },
+  {
+    "name": "Центральная поликлиника № 3 МВД России",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "Хомутовский тупик",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.655102,
+      "latitude": 55.766765
+    }
+  },
+  {
+    "name": "Клиника на Чистых прудах",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636471,
+      "latitude": 55.761309
+    }
+  },
+  {
+    "name": "Совершенство",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.635699,
+      "latitude": 55.762519
+    }
+  },
+  {
+    "name": "Психиатрическое отделение неотложной помощи",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636768,
+      "latitude": 55.760708
+    }
+  },
+  {
+    "name": "Исцеление",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648145,
+      "latitude": 55.764886
+    }
+  },
+  {
+    "name": "Janelle",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649725,
+      "latitude": 55.761774
+    }
+  },
+  {
+    "name": "Гемокод",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.655929,
+      "latitude": 55.761323
+    }
+  },
+  {
+    "name": "Внуки Гиппократа",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.656589,
+      "latitude": 55.759672
+    }
+  },
+  {
+    "name": "Центр системной гомеопатии",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665387,
+      "latitude": 55.767602
+    }
+  },
+  {
+    "name": "Семейный Доктор",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.676804,
+      "latitude": 55.768552
+    }
+  },
+  {
+    "name": "Luz de La Luna",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638288,
+      "latitude": 55.762412
+    }
+  },
+  {
+    "name": "Медгород",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636854,
+      "latitude": 55.762608
+    }
+  },
+  {
+    "name": "City med",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657669,
+      "latitude": 55.764682
+    }
+  },
+  {
+    "name": "Платный КВД",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.656104,
+      "latitude": 55.759922
+    }
+  },
+  {
+    "name": "Exte",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.6542,
+      "latitude": 55.766337
+    }
+  },
+  {
+    "name": "Rehab family",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.640606,
+      "latitude": 55.753409
+    }
+  },
+  {
+    "name": "Remedy Lab",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652418,
+      "latitude": 55.764143
+    }
+  },
+  {
+    "name": "Leo Beauty",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.652356,
+      "latitude": 55.753951
+    }
+  },
+  {
+    "name": "Клиника доктора Трубникова",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65458,
+      "latitude": 55.764695
+    }
+  },
+  {
+    "name": "Центр восстановительной медицины",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.677262,
+      "latitude": 55.767485
+    }
+  },
+  {
+    "name": "VIP Clinic",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644997,
+      "latitude": 55.761885
+    }
+  },
+  {
+    "name": "За рождение центр репродуктивного здоровья",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678427,
+      "latitude": 55.774589
+    }
+  },
+  {
+    "name": "Клиника гнатологии",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.656907,
+      "latitude": 55.769196
+    }
+  },
+  {
+    "name": "Real Clinic",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.683547,
+      "latitude": 55.773
+    }
+  },
+  {
+    "name": "НВ-Медика",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.642517,
+      "latitude": 55.753809
+    }
+  },
+  {
+    "name": "Ясный взор",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.693469,
+      "latitude": 55.779857
+    }
+  },
+  {
+    "name": "МНЦ Равновесие",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664827,
+      "latitude": 55.75289
+    }
+  },
+  {
+    "name": "СМ-Клиника",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.680249,
+      "latitude": 55.761144
+    }
+  },
+  {
+    "name": "Городская поликлиника 46 единое окно, отделение платных услуг",
+    "type": "clinic",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665342,
+      "latitude": 55.763588
+    }
+  },
+  {
+    "name": "Prior",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "Потаповский переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639761,
+      "latitude": 55.761583
+    }
+  },
+  {
+    "name": "Поликлиника №46",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "улица Казакова",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.666382,
+      "latitude": 55.763763
+    }
+  },
+  {
+    "name": "Поликлиника №2 ФСБ России",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "Хитровский переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.644193,
+      "latitude": 55.753921
+    }
+  },
+  {
+    "name": "Психоневрологический диспансер №15",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "Армянский переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636874,
+      "latitude": 55.760776
+    }
+  },
+  {
+    "name": "Поликлиника №160 при МГТУ им. Н.Э.Баумана",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "Бригадирский переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.682132,
+      "latitude": 55.764937
+    }
+  },
+  {
+    "name": "Московский научно-практический центр медицинской реабилитации, восстановительной и спортивной медицины, Филиал №5",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "3-й Сыромятнический переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664164,
+      "latitude": 55.753518
+    }
+  },
+  {
+    "name": "Поликлиника №129",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "",
+    "phone": "+7 499 2619871",
+    "website": "https://www.mosgorzdrav.ru/gp129",
+    "coordinates": {
+      "longitude": 37.681746,
+      "latitude": 55.771168
+    }
+  },
+  {
+    "name": "Детская городская поликлиника № 104",
+    "type": "clinic",
+    "osm_type": "way",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64748,
+      "latitude": 55.766951
+    }
+  },
+  {
+    "name": "Медицинский центр Елены Малышевой",
+    "type": "clinic",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.685364,
+      "latitude": 55.777242
+    }
+  },
+  {
+    "name": "Городская поликлиника №5",
+    "type": "clinic",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.645557,
+      "latitude": 55.77267
+    }
+  },
+  {
+    "name": "Онкологический диспансер №1",
+    "type": "clinic",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679109,
+      "latitude": 55.775385
+    }
+  },
+  {
+    "name": "Травматологический пункт",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "Переведеновский переулок",
+    "phone": "+7 499 2616047",
+    "website": "https://www.mosgorzdrav.ru/gp129",
+    "coordinates": {
+      "longitude": 37.681882,
+      "latitude": 55.771104
+    }
+  },
+  {
+    "name": "Репромед",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "улица Покровка",
+    "phone": "+7 495 6234515",
+    "website": "https://repromed.ru/",
+    "coordinates": {
+      "longitude": 37.648901,
+      "latitude": 55.758689
+    }
+  },
+  {
+    "name": "Центр медицины и косметологиии \"Здоровье\"",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 916 1275567",
+    "website": "https://www.helix.ru/",
+    "coordinates": {
+      "longitude": 37.704865,
+      "latitude": 55.780151
+    }
+  },
+  {
+    "name": "МобилМед",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65285,
+      "latitude": 55.753969
+    }
+  },
+  {
+    "name": "Секрет Красоты",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.637422,
+      "latitude": 55.757542
+    }
+  },
+  {
+    "name": "Fair Way",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648883,
+      "latitude": 55.764225
+    }
+  },
+  {
+    "name": "Городская поликлиника № 5. Филиал 1",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.64539,
+      "latitude": 55.764163
+    }
+  },
+  {
+    "name": "Bodyo",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.649391,
+      "latitude": 55.764189
+    }
+  },
+  {
+    "name": "Экзомассаж",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.662825,
+      "latitude": 55.761756
+    }
+  },
+  {
+    "name": "Vita",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.666975,
+      "latitude": 55.755483
+    }
+  },
+  {
+    "name": "Клиника им. О.А.Кульневича",
+    "type": "doctor",
+    "osm_type": "node",
+    "address": "",
+    "phone": "+7 499 2617474",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.678658,
+      "latitude": 55.770858
+    }
+  },
+  {
+    "name": "СанМедЭксперт",
+    "type": "doctor",
+    "osm_type": "way",
+    "address": "Плетешковский переулок",
+    "phone": "",
+    "website": "https://sunmedexpert.ru/",
+    "coordinates": {
+      "longitude": 37.674068,
+      "latitude": 55.770786
+    }
+  },
+  {
+    "name": "Медикал Детокс",
+    "type": "doctors",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.664255,
+      "latitude": 55.765484
+    }
+  },
+  {
+    "name": "Главный военный клинический госпиталь им. Н.Н. Бурденко",
+    "type": "hospital",
+    "osm_type": "node",
+    "address": "Госпитальная площадь",
+    "phone": "+7 499 2635410",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.699158,
+      "latitude": 55.770096
+    }
+  },
+  {
+    "name": "НПЦ интервенционной кардиоангиологии",
+    "type": "hospital",
+    "osm_type": "way",
+    "address": "Сверчков переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.639483,
+      "latitude": 55.760812
+    }
+  },
+  {
+    "name": "Больница №6",
+    "type": "hospital",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.665501,
+      "latitude": 55.768775
+    }
+  },
+  {
+    "name": "Московский областной научно-исследовательский институт акушерства и гинекологии",
+    "type": "hospital",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.648708,
+      "latitude": 55.758652
+    }
+  },
+  {
+    "name": "574 военный клинический госпиталь Московского военного округа",
+    "type": "hospital",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "http://www.574vkg.ru/",
+    "coordinates": {
+      "longitude": 37.654711,
+      "latitude": 55.757702
+    }
+  },
+  {
+    "name": "Национальный медицинский исследовательский центр профилактической медицины",
+    "type": "hospital",
+    "osm_type": "relation",
+    "address": "Петроверигский переулок",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.638118,
+      "latitude": 55.756336
+    }
+  },
+  {
+    "name": "Национальный медицинский исследовательский центр глазных болезней им. Гельмгольца",
+    "type": "hospital",
+    "osm_type": "relation",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.65208,
+      "latitude": 55.765772
+    }
+  },
+  {
+    "name": "Инвитро",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.657466,
+      "latitude": 55.764043
+    }
+  },
+  {
+    "name": "Гемотест",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.68296,
+      "latitude": 55.771356
+    }
+  },
+  {
+    "name": "ДНКОМ",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.636851,
+      "latitude": 55.762585
+    }
+  },
+  {
+    "name": "Labquest",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.681488,
+      "latitude": 55.772029
+    }
+  },
+  {
+    "name": "CMD",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.679921,
+      "latitude": 55.772498
+    }
+  },
+  {
+    "name": "Пикассо",
+    "type": "laboratory",
+    "osm_type": "node",
+    "address": "",
+    "phone": "",
+    "website": "",
+    "coordinates": {
+      "longitude": 37.658427,
+      "latitude": 55.76285
+    }
+  }
+]

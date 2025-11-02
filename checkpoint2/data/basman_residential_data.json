@@ -1,0 +1,8078 @@
+[
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 24/32",
+    "coordinates": {
+      "longitude": 37.65582,
+      "latitude": 55.757839
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 34 с3А",
+    "coordinates": {
+      "longitude": 37.657016,
+      "latitude": 55.756836
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к4",
+    "coordinates": {
+      "longitude": 37.704555,
+      "latitude": 55.778325
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Лялин переулок, 23-29 с1",
+    "coordinates": {
+      "longitude": 37.654122,
+      "latitude": 55.756842
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Земляной Вал, 39 с1",
+    "coordinates": {
+      "longitude": 37.657878,
+      "latitude": 55.755254
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105120, Москва, Сыромятнический проезд, 7/14",
+    "coordinates": {
+      "longitude": 37.668623,
+      "latitude": 55.75537
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105120, Москва, 4-й Сыромятнический переулок, 3/5 с4",
+    "coordinates": {
+      "longitude": 37.667569,
+      "latitude": 55.75562
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105120, Москва, набережная Академика Туполева, 1/7 с2",
+    "coordinates": {
+      "longitude": 37.669078,
+      "latitude": 55.756031
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "переулок Огородная Слобода, 12",
+    "coordinates": {
+      "longitude": 37.643663,
+      "latitude": 55.765504
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 9 с1",
+    "coordinates": {
+      "longitude": 37.643642,
+      "latitude": 55.762894
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Козловский переулок, 6",
+    "coordinates": {
+      "longitude": 37.648167,
+      "latitude": 55.764792
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "107078, Большой Козловский переулок, 11 с1",
+    "coordinates": {
+      "longitude": 37.647845,
+      "latitude": 55.766438
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 11 с2",
+    "coordinates": {
+      "longitude": 37.64827,
+      "latitude": 55.766508
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 11 с4",
+    "coordinates": {
+      "longitude": 37.645058,
+      "latitude": 55.762971
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 15 с2",
+    "coordinates": {
+      "longitude": 37.645434,
+      "latitude": 55.762371
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 5 с1А",
+    "coordinates": {
+      "longitude": 37.647279,
+      "latitude": 55.761714
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 19 с1",
+    "coordinates": {
+      "longitude": 37.648087,
+      "latitude": 55.761966
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 2/13",
+    "coordinates": {
+      "longitude": 37.649473,
+      "latitude": 55.762411
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 9",
+    "coordinates": {
+      "longitude": 37.644796,
+      "latitude": 55.764847
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 7 с1",
+    "coordinates": {
+      "longitude": 37.645361,
+      "latitude": 55.765981
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 40А",
+    "coordinates": {
+      "longitude": 37.640657,
+      "latitude": 55.766468
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Златоустинский переулок, 3А с2",
+    "coordinates": {
+      "longitude": 37.633129,
+      "latitude": 55.759835
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Златоустинский переулок, 3/5 с1",
+    "coordinates": {
+      "longitude": 37.632793,
+      "latitude": 55.759092
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Армянский переулок, 1/8 с1",
+    "coordinates": {
+      "longitude": 37.63455,
+      "latitude": 55.76115
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хомутовский тупик, 4 к2",
+    "coordinates": {
+      "longitude": 37.655868,
+      "latitude": 55.766337
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 11/2",
+    "coordinates": {
+      "longitude": 37.654065,
+      "latitude": 55.766113
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 16-18 с1",
+    "coordinates": {
+      "longitude": 37.653819,
+      "latitude": 55.765102
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 24",
+    "coordinates": {
+      "longitude": 37.65283,
+      "latitude": 55.765194
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 22 к6 с3",
+    "coordinates": {
+      "longitude": 37.666823,
+      "latitude": 55.767025
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 22 к6 с2",
+    "coordinates": {
+      "longitude": 37.666359,
+      "latitude": 55.76693
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 4",
+    "coordinates": {
+      "longitude": 37.671028,
+      "latitude": 55.76854
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 21",
+    "coordinates": {
+      "longitude": 37.668014,
+      "latitude": 55.76624
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к2",
+    "coordinates": {
+      "longitude": 37.666117,
+      "latitude": 55.766174
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 11-13",
+    "coordinates": {
+      "longitude": 37.665931,
+      "latitude": 55.76539
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Денисовский переулок, 3/5",
+    "coordinates": {
+      "longitude": 37.671391,
+      "latitude": 55.766172
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Денисовский переулок, 9",
+    "coordinates": {
+      "longitude": 37.672629,
+      "latitude": 55.766388
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Денисовский переулок, 8/14",
+    "coordinates": {
+      "longitude": 37.672842,
+      "latitude": 55.766038
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 16 к2",
+    "coordinates": {
+      "longitude": 37.673556,
+      "latitude": 55.765422
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 16 к3",
+    "coordinates": {
+      "longitude": 37.674109,
+      "latitude": 55.764938
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 14 к2",
+    "coordinates": {
+      "longitude": 37.674087,
+      "latitude": 55.766128
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 12",
+    "coordinates": {
+      "longitude": 37.673522,
+      "latitude": 55.766757
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 8",
+    "coordinates": {
+      "longitude": 37.672415,
+      "latitude": 55.767507
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 13-15",
+    "coordinates": {
+      "longitude": 37.67015,
+      "latitude": 55.766522
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 12-16",
+    "coordinates": {
+      "longitude": 37.673898,
+      "latitude": 55.770196
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 13-15",
+    "coordinates": {
+      "longitude": 37.677644,
+      "latitude": 55.768813
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 17 с1",
+    "coordinates": {
+      "longitude": 37.675546,
+      "latitude": 55.769365
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 18-20 к2",
+    "coordinates": {
+      "longitude": 37.674593,
+      "latitude": 55.7695
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старокирочный переулок, 16/2 с1",
+    "coordinates": {
+      "longitude": 37.683962,
+      "latitude": 55.768141
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старокирочный переулок, 16/2 с5",
+    "coordinates": {
+      "longitude": 37.683596,
+      "latitude": 55.76872
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 5/12 с2",
+    "coordinates": {
+      "longitude": 37.685365,
+      "latitude": 55.771239
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 5/12 с1",
+    "coordinates": {
+      "longitude": 37.685241,
+      "latitude": 55.770971
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Посланников переулок, 11/14",
+    "coordinates": {
+      "longitude": 37.684037,
+      "latitude": 55.77071
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 10 с4",
+    "coordinates": {
+      "longitude": 37.673204,
+      "latitude": 55.76757
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "1-й Басманный переулок, 8",
+    "coordinates": {
+      "longitude": 37.663858,
+      "latitude": 55.771173
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 30",
+    "coordinates": {
+      "longitude": 37.667788,
+      "latitude": 55.771477
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 36",
+    "coordinates": {
+      "longitude": 37.669258,
+      "latitude": 55.771327
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 38",
+    "coordinates": {
+      "longitude": 37.670124,
+      "latitude": 55.771197
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 25 с5",
+    "coordinates": {
+      "longitude": 37.665272,
+      "latitude": 55.767611
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 25 с1",
+    "coordinates": {
+      "longitude": 37.665866,
+      "latitude": 55.767908
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 31",
+    "coordinates": {
+      "longitude": 37.667103,
+      "latitude": 55.768572
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Новая Басманная улица, 16 с1",
+    "coordinates": {
+      "longitude": 37.659792,
+      "latitude": 55.769524
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к1",
+    "coordinates": {
+      "longitude": 37.665186,
+      "latitude": 55.766903
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 3-5",
+    "coordinates": {
+      "longitude": 37.669273,
+      "latitude": 55.768102
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 24/1 с1",
+    "coordinates": {
+      "longitude": 37.664257,
+      "latitude": 55.769576
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 28 с1",
+    "coordinates": {
+      "longitude": 37.666601,
+      "latitude": 55.769478
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 30А",
+    "coordinates": {
+      "longitude": 37.667648,
+      "latitude": 55.770635
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Басманный тупик, 6А с2",
+    "coordinates": {
+      "longitude": 37.65834,
+      "latitude": 55.767182
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Малый Казённый переулок, 16",
+    "coordinates": {
+      "longitude": 37.655427,
+      "latitude": 55.761123
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 44",
+    "coordinates": {
+      "longitude": 37.673558,
+      "latitude": 55.773862
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Денисовский переулок, 22",
+    "coordinates": {
+      "longitude": 37.675275,
+      "latitude": 55.76654
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 21/2-4 с3",
+    "coordinates": {
+      "longitude": 37.658908,
+      "latitude": 55.760936
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 25",
+    "coordinates": {
+      "longitude": 37.658236,
+      "latitude": 55.75975
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 27 с1",
+    "coordinates": {
+      "longitude": 37.658295,
+      "latitude": 55.759016
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 27 с2",
+    "coordinates": {
+      "longitude": 37.658851,
+      "latitude": 55.758731
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с5",
+    "coordinates": {
+      "longitude": 37.709766,
+      "latitude": 55.77426
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 с1",
+    "coordinates": {
+      "longitude": 37.710649,
+      "latitude": 55.774347
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с7",
+    "coordinates": {
+      "longitude": 37.70968,
+      "latitude": 55.774864
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с7А",
+    "coordinates": {
+      "longitude": 37.70808,
+      "latitude": 55.774072
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с4",
+    "coordinates": {
+      "longitude": 37.708938,
+      "latitude": 55.774428
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, набережная Академика Туполева, 15",
+    "coordinates": {
+      "longitude": 37.680464,
+      "latitude": 55.760578
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с12",
+    "coordinates": {
+      "longitude": 37.706022,
+      "latitude": 55.773155
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 с2",
+    "coordinates": {
+      "longitude": 37.709015,
+      "latitude": 55.773403
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 с3",
+    "coordinates": {
+      "longitude": 37.70902,
+      "latitude": 55.77392
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 26/30 с1",
+    "coordinates": {
+      "longitude": 37.685174,
+      "latitude": 55.774812
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Бакунинская улица, 17/28",
+    "coordinates": {
+      "longitude": 37.682142,
+      "latitude": 55.774898
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к2",
+    "coordinates": {
+      "longitude": 37.708085,
+      "latitude": 55.778585
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к3",
+    "coordinates": {
+      "longitude": 37.706132,
+      "latitude": 55.778144
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Рубцовская набережная, 4 к1",
+    "coordinates": {
+      "longitude": 37.697536,
+      "latitude": 55.775168
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцовская набережная, 4 к2",
+    "coordinates": {
+      "longitude": 37.698794,
+      "latitude": 55.77564
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Рубцовская набережная, 4 к3",
+    "coordinates": {
+      "longitude": 37.698834,
+      "latitude": 55.775973
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 10 с7",
+    "coordinates": {
+      "longitude": 37.645511,
+      "latitude": 55.755996
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.650903,
+      "latitude": 55.755947
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 8 с3",
+    "coordinates": {
+      "longitude": 37.651144,
+      "latitude": 55.755291
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Воронцово Поле, 5-7 с8",
+    "coordinates": {
+      "longitude": 37.652638,
+      "latitude": 55.754031
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 24",
+    "coordinates": {
+      "longitude": 37.652662,
+      "latitude": 55.756009
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 22",
+    "coordinates": {
+      "longitude": 37.652794,
+      "latitude": 55.756331
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 10 с2",
+    "coordinates": {
+      "longitude": 37.651428,
+      "latitude": 55.756746
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 10 с1",
+    "coordinates": {
+      "longitude": 37.651034,
+      "latitude": 55.75666
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 8",
+    "coordinates": {
+      "longitude": 37.650639,
+      "latitude": 55.756497
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 4 с2",
+    "coordinates": {
+      "longitude": 37.649857,
+      "latitude": 55.75638
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 4 с1",
+    "coordinates": {
+      "longitude": 37.649515,
+      "latitude": 55.756321
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 4 с3",
+    "coordinates": {
+      "longitude": 37.649785,
+      "latitude": 55.755862
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Дурасовский переулок, 9",
+    "coordinates": {
+      "longitude": 37.651143,
+      "latitude": 55.754817
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 6 с5",
+    "coordinates": {
+      "longitude": 37.650297,
+      "latitude": 55.756161
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 18/5",
+    "coordinates": {
+      "longitude": 37.651533,
+      "latitude": 55.757207
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "109028, Казарменный переулок, 3-5 с2",
+    "coordinates": {
+      "longitude": 37.651284,
+      "latitude": 55.756977
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Казарменный переулок, 3 с6",
+    "coordinates": {
+      "longitude": 37.650696,
+      "latitude": 55.757232
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 14",
+    "coordinates": {
+      "longitude": 37.650783,
+      "latitude": 55.75769
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 12 с1",
+    "coordinates": {
+      "longitude": 37.650669,
+      "latitude": 55.757917
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 14 с2",
+    "coordinates": {
+      "longitude": 37.650249,
+      "latitude": 55.757553
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 12 с2",
+    "coordinates": {
+      "longitude": 37.650108,
+      "latitude": 55.757752
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 8А с2",
+    "coordinates": {
+      "longitude": 37.650202,
+      "latitude": 55.758021
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.650022,
+      "latitude": 55.758261
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 6",
+    "coordinates": {
+      "longitude": 37.650107,
+      "latitude": 55.758636
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 8 с3",
+    "coordinates": {
+      "longitude": 37.649681,
+      "latitude": 55.758445
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 20/1",
+    "coordinates": {
+      "longitude": 37.647428,
+      "latitude": 55.758401
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 19/28",
+    "coordinates": {
+      "longitude": 37.653306,
+      "latitude": 55.756441
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 24-26 с2",
+    "coordinates": {
+      "longitude": 37.65316,
+      "latitude": 55.756814
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 13",
+    "coordinates": {
+      "longitude": 37.65213,
+      "latitude": 55.75743
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 22",
+    "coordinates": {
+      "longitude": 37.652578,
+      "latitude": 55.757583
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 20",
+    "coordinates": {
+      "longitude": 37.652464,
+      "latitude": 55.757806
+    }
+  },
+  {
+    "name": "il Ricco",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 11",
+    "coordinates": {
+      "longitude": 37.651588,
+      "latitude": 55.757598
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105062, Подсосенский переулок, 9",
+    "coordinates": {
+      "longitude": 37.65161,
+      "latitude": 55.757998
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 14 с2",
+    "coordinates": {
+      "longitude": 37.651549,
+      "latitude": 55.758529
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подсосенский переулок, 3",
+    "coordinates": {
+      "longitude": 37.650964,
+      "latitude": 55.758924
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 34 с4",
+    "coordinates": {
+      "longitude": 37.656509,
+      "latitude": 55.756314
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 19 к2",
+    "coordinates": {
+      "longitude": 37.653286,
+      "latitude": 55.758019
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 10 с2",
+    "coordinates": {
+      "longitude": 37.656391,
+      "latitude": 55.759918
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.655943,
+      "latitude": 55.75978
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Яковоапостольский переулок, 17",
+    "coordinates": {
+      "longitude": 37.656208,
+      "latitude": 55.75937
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Яковоапостольский переулок, 15",
+    "coordinates": {
+      "longitude": 37.655812,
+      "latitude": 55.759099
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Яковоапостольский переулок, 11-13 с1",
+    "coordinates": {
+      "longitude": 37.655235,
+      "latitude": 55.758981
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Яковоапостольский переулок, 9 с3",
+    "coordinates": {
+      "longitude": 37.654745,
+      "latitude": 55.75887
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105062, Яковоапостольский переулок, 9 с1",
+    "coordinates": {
+      "longitude": 37.654269,
+      "latitude": 55.758751
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Яковоапостольский переулок, 9 с2",
+    "coordinates": {
+      "longitude": 37.654136,
+      "latitude": 55.758956
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 9 с3",
+    "coordinates": {
+      "longitude": 37.653199,
+      "latitude": 55.759093
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 11-13/1 с1",
+    "coordinates": {
+      "longitude": 37.652553,
+      "latitude": 55.758941
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 11-13/1 с2",
+    "coordinates": {
+      "longitude": 37.652676,
+      "latitude": 55.758594
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 9",
+    "coordinates": {
+      "longitude": 37.652315,
+      "latitude": 55.759177
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 7/2",
+    "coordinates": {
+      "longitude": 37.652445,
+      "latitude": 55.759522
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 4",
+    "coordinates": {
+      "longitude": 37.653854,
+      "latitude": 55.759619
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 6 с1",
+    "coordinates": {
+      "longitude": 37.654979,
+      "latitude": 55.759784
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 10 с1",
+    "coordinates": {
+      "longitude": 37.656329,
+      "latitude": 55.760115
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 1/2",
+    "coordinates": {
+      "longitude": 37.653097,
+      "latitude": 55.759937
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Казённый переулок, 2/1 с2",
+    "coordinates": {
+      "longitude": 37.653113,
+      "latitude": 55.760105
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Казённый переулок, 4-6 с1",
+    "coordinates": {
+      "longitude": 37.653646,
+      "latitude": 55.760357
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Казённый переулок, 8",
+    "coordinates": {
+      "longitude": 37.653924,
+      "latitude": 55.760455
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, Малый Казённый переулок, 12 с1",
+    "coordinates": {
+      "longitude": 37.654719,
+      "latitude": 55.76092
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Большой Казённый переулок, 5",
+    "coordinates": {
+      "longitude": 37.654494,
+      "latitude": 55.760226
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 7",
+    "coordinates": {
+      "longitude": 37.65492,
+      "latitude": 55.760192
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Казённый переулок, 5А",
+    "coordinates": {
+      "longitude": 37.654076,
+      "latitude": 55.760075
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 10",
+    "coordinates": {
+      "longitude": 37.656696,
+      "latitude": 55.761881
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 12/7 с1",
+    "coordinates": {
+      "longitude": 37.6566,
+      "latitude": 55.761717
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 48 с1",
+    "coordinates": {
+      "longitude": 37.654808,
+      "latitude": 55.763276
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 2",
+    "coordinates": {
+      "longitude": 37.656193,
+      "latitude": 55.763182
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 6 с1",
+    "coordinates": {
+      "longitude": 37.656452,
+      "latitude": 55.762403
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 19 с2",
+    "coordinates": {
+      "longitude": 37.648193,
+      "latitude": 55.762156
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 16",
+    "coordinates": {
+      "longitude": 37.648307,
+      "latitude": 55.762443
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 10",
+    "coordinates": {
+      "longitude": 37.647247,
+      "latitude": 55.763125
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 8 с1",
+    "coordinates": {
+      "longitude": 37.646702,
+      "latitude": 55.763459
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 5",
+    "coordinates": {
+      "longitude": 37.645401,
+      "latitude": 55.763804
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 5А",
+    "coordinates": {
+      "longitude": 37.645668,
+      "latitude": 55.763551
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 7",
+    "coordinates": {
+      "longitude": 37.645962,
+      "latitude": 55.763302
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 9",
+    "coordinates": {
+      "longitude": 37.646349,
+      "latitude": 55.763096
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 11",
+    "coordinates": {
+      "longitude": 37.646803,
+      "latitude": 55.76286
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105062, Москва, улица Макаренко, 1/19",
+    "coordinates": {
+      "longitude": 37.646266,
+      "latitude": 55.761182
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Чистопрудный бульвар, 15 с1",
+    "coordinates": {
+      "longitude": 37.644792,
+      "latitude": 55.762182
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 13 с1",
+    "coordinates": {
+      "longitude": 37.644633,
+      "latitude": 55.762346
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 7/2",
+    "coordinates": {
+      "longitude": 37.642913,
+      "latitude": 55.763325
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 11 с1",
+    "coordinates": {
+      "longitude": 37.644422,
+      "latitude": 55.762655
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 11 с2",
+    "coordinates": {
+      "longitude": 37.644823,
+      "latitude": 55.762636
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 13 с3",
+    "coordinates": {
+      "longitude": 37.644765,
+      "latitude": 55.762519
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 13 с2",
+    "coordinates": {
+      "longitude": 37.645133,
+      "latitude": 55.762561
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 4 с3",
+    "coordinates": {
+      "longitude": 37.644084,
+      "latitude": 55.763188
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 2",
+    "coordinates": {
+      "longitude": 37.644754,
+      "latitude": 55.7639
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 4 с1",
+    "coordinates": {
+      "longitude": 37.645182,
+      "latitude": 55.763445
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Жуковского, 6 с2",
+    "coordinates": {
+      "longitude": 37.64555,
+      "latitude": 55.763155
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 2/21 с2",
+    "coordinates": {
+      "longitude": 37.647158,
+      "latitude": 55.761026
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 2/21 с1",
+    "coordinates": {
+      "longitude": 37.646569,
+      "latitude": 55.760772
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 23 с1",
+    "coordinates": {
+      "longitude": 37.646787,
+      "latitude": 55.760323
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 25 с2",
+    "coordinates": {
+      "longitude": 37.647349,
+      "latitude": 55.760129
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 21-23/25 с1",
+    "coordinates": {
+      "longitude": 37.64718,
+      "latitude": 55.759813
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 31 с1",
+    "coordinates": {
+      "longitude": 37.64955,
+      "latitude": 55.760727
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 31 с2",
+    "coordinates": {
+      "longitude": 37.649316,
+      "latitude": 55.761116
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 31 с3",
+    "coordinates": {
+      "longitude": 37.648952,
+      "latitude": 55.760938
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 8",
+    "coordinates": {
+      "longitude": 37.648378,
+      "latitude": 55.761639
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 4 с2",
+    "coordinates": {
+      "longitude": 37.647992,
+      "latitude": 55.760996
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 8 с1",
+    "coordinates": {
+      "longitude": 37.651309,
+      "latitude": 55.759847
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.651193,
+      "latitude": 55.760145
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 34",
+    "coordinates": {
+      "longitude": 37.650737,
+      "latitude": 55.760852
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хомутовский тупик, 4 к1",
+    "coordinates": {
+      "longitude": 37.655138,
+      "latitude": 55.766152
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 3 с4",
+    "coordinates": {
+      "longitude": 37.658168,
+      "latitude": 55.763487
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 3 с1",
+    "coordinates": {
+      "longitude": 37.658468,
+      "latitude": 55.763113
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ладожская улица, 7",
+    "coordinates": {
+      "longitude": 37.682542,
+      "latitude": 55.771636
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 34/20",
+    "coordinates": {
+      "longitude": 37.677396,
+      "latitude": 55.77217
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 7-21",
+    "coordinates": {
+      "longitude": 37.681633,
+      "latitude": 55.772151
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 33/2 с8",
+    "coordinates": {
+      "longitude": 37.679952,
+      "latitude": 55.772401
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 15",
+    "coordinates": {
+      "longitude": 37.674569,
+      "latitude": 55.767059
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Бауманская улица, 43/1 с1",
+    "coordinates": {
+      "longitude": 37.679834,
+      "latitude": 55.770124
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 43 с2",
+    "coordinates": {
+      "longitude": 37.680025,
+      "latitude": 55.770582
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 4/6 с1",
+    "coordinates": {
+      "longitude": 37.681056,
+      "latitude": 55.772675
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 4/6 с2",
+    "coordinates": {
+      "longitude": 37.680543,
+      "latitude": 55.772528
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 3 к6",
+    "coordinates": {
+      "longitude": 37.70307,
+      "latitude": 55.77178
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Новая Дорога, 5",
+    "coordinates": {
+      "longitude": 37.70118,
+      "latitude": 55.771833
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Новая Дорога, 3",
+    "coordinates": {
+      "longitude": 37.701582,
+      "latitude": 55.771439
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Новая Дорога, 1",
+    "coordinates": {
+      "longitude": 37.702067,
+      "latitude": 55.771037
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 3 к3",
+    "coordinates": {
+      "longitude": 37.704405,
+      "latitude": 55.772509
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 к11",
+    "coordinates": {
+      "longitude": 37.707042,
+      "latitude": 55.773064
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 к13",
+    "coordinates": {
+      "longitude": 37.706348,
+      "latitude": 55.773495
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 10/1 с1",
+    "coordinates": {
+      "longitude": 37.637147,
+      "latitude": 55.757586
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 1/4 с1",
+    "coordinates": {
+      "longitude": 37.65752,
+      "latitude": 55.763606
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 3/1 с7",
+    "coordinates": {
+      "longitude": 37.657791,
+      "latitude": 55.763076
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 26 с1",
+    "coordinates": {
+      "longitude": 37.654033,
+      "latitude": 55.764518
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 26 с2",
+    "coordinates": {
+      "longitude": 37.654224,
+      "latitude": 55.76432
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 24",
+    "coordinates": {
+      "longitude": 37.653662,
+      "latitude": 55.764379
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 45 с4",
+    "coordinates": {
+      "longitude": 37.652643,
+      "latitude": 55.763181
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 45 с5",
+    "coordinates": {
+      "longitude": 37.65258,
+      "latitude": 55.763419
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 43А",
+    "coordinates": {
+      "longitude": 37.652204,
+      "latitude": 55.76327
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 41 с1",
+    "coordinates": {
+      "longitude": 37.651921,
+      "latitude": 55.762288
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 39 с1",
+    "coordinates": {
+      "longitude": 37.651502,
+      "latitude": 55.762057
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 37 с1",
+    "coordinates": {
+      "longitude": 37.651043,
+      "latitude": 55.761694
+    }
+  },
+  {
+    "name": "Дом политкаторжан",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 15 с5",
+    "coordinates": {
+      "longitude": 37.649819,
+      "latitude": 55.761902
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 37/15 с4",
+    "coordinates": {
+      "longitude": 37.65043,
+      "latitude": 55.762169
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 6 с2",
+    "coordinates": {
+      "longitude": 37.650566,
+      "latitude": 55.762725
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 41 с2",
+    "coordinates": {
+      "longitude": 37.651364,
+      "latitude": 55.762708
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 6 с1",
+    "coordinates": {
+      "longitude": 37.650105,
+      "latitude": 55.76293
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 41 с3",
+    "coordinates": {
+      "longitude": 37.650702,
+      "latitude": 55.763207
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 10 с2",
+    "coordinates": {
+      "longitude": 37.651263,
+      "latitude": 55.763421
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 10 с1",
+    "coordinates": {
+      "longitude": 37.651581,
+      "latitude": 55.763559
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 14",
+    "coordinates": {
+      "longitude": 37.651998,
+      "latitude": 55.763656
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 16",
+    "coordinates": {
+      "longitude": 37.652349,
+      "latitude": 55.763814
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 18",
+    "coordinates": {
+      "longitude": 37.652658,
+      "latitude": 55.763935
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 22",
+    "coordinates": {
+      "longitude": 37.653203,
+      "latitude": 55.764247
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 43 с7",
+    "coordinates": {
+      "longitude": 37.652062,
+      "latitude": 55.762968
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 5 с1",
+    "coordinates": {
+      "longitude": 37.65053,
+      "latitude": 55.763441
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 9/1",
+    "coordinates": {
+      "longitude": 37.651091,
+      "latitude": 55.763949
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 11 с1",
+    "coordinates": {
+      "longitude": 37.651585,
+      "latitude": 55.763851
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 17",
+    "coordinates": {
+      "longitude": 37.652938,
+      "latitude": 55.764452
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 21",
+    "coordinates": {
+      "longitude": 37.65379,
+      "latitude": 55.764691
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 18",
+    "coordinates": {
+      "longitude": 37.651768,
+      "latitude": 55.764769
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 20",
+    "coordinates": {
+      "longitude": 37.652157,
+      "latitude": 55.765039
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 16 с3",
+    "coordinates": {
+      "longitude": 37.651118,
+      "latitude": 55.7645
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 16 с1",
+    "coordinates": {
+      "longitude": 37.651108,
+      "latitude": 55.764741
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 10",
+    "coordinates": {
+      "longitude": 37.649657,
+      "latitude": 55.764215
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 22 с2",
+    "coordinates": {
+      "longitude": 37.652714,
+      "latitude": 55.764816
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, набережная Академика Туполева, 15",
+    "coordinates": {
+      "longitude": 37.68257,
+      "latitude": 55.76142
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Москва, набережная Академика Туполева, 15",
+    "coordinates": {
+      "longitude": 37.681219,
+      "latitude": 55.761468
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 14 с3",
+    "coordinates": {
+      "longitude": 37.644424,
+      "latitude": 55.759944
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 11",
+    "coordinates": {
+      "longitude": 37.643387,
+      "latitude": 55.759301
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 7/9-11 к1",
+    "coordinates": {
+      "longitude": 37.642203,
+      "latitude": 55.759617
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 12 к2",
+    "coordinates": {
+      "longitude": 37.643085,
+      "latitude": 55.760558
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 12 к5",
+    "coordinates": {
+      "longitude": 37.642449,
+      "latitude": 55.760993
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 12 к3",
+    "coordinates": {
+      "longitude": 37.642061,
+      "latitude": 55.761251
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 12 с6",
+    "coordinates": {
+      "longitude": 37.642121,
+      "latitude": 55.761695
+    }
+  },
+  {
+    "name": "Чистые пруды",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 5 с4",
+    "coordinates": {
+      "longitude": 37.641472,
+      "latitude": 55.761686
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 12 к4",
+    "coordinates": {
+      "longitude": 37.642896,
+      "latitude": 55.761629
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 10 с1",
+    "coordinates": {
+      "longitude": 37.642133,
+      "latitude": 55.762242
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Москва, Кривоколенный переулок, 11/13 с1",
+    "coordinates": {
+      "longitude": 37.638547,
+      "latitude": 55.762471
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 24/7 с2",
+    "coordinates": {
+      "longitude": 37.636015,
+      "latitude": 55.763349
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Москва, Кривоколенный переулок, 9 с1",
+    "coordinates": {
+      "longitude": 37.637085,
+      "latitude": 55.762654
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Архангельский переулок, 8/2 с4",
+    "coordinates": {
+      "longitude": 37.639023,
+      "latitude": 55.761778
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 15",
+    "coordinates": {
+      "longitude": 37.65096,
+      "latitude": 55.765123
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "107078, Малый Козловский переулок, 10",
+    "coordinates": {
+      "longitude": 37.648663,
+      "latitude": 55.764473
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 3",
+    "coordinates": {
+      "longitude": 37.647796,
+      "latitude": 55.763702
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 5",
+    "coordinates": {
+      "longitude": 37.648119,
+      "latitude": 55.763852
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 7",
+    "coordinates": {
+      "longitude": 37.648468,
+      "latitude": 55.764018
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 1/12 с1",
+    "coordinates": {
+      "longitude": 37.645543,
+      "latitude": 55.764581
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 1/12 с2",
+    "coordinates": {
+      "longitude": 37.645826,
+      "latitude": 55.764823
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 12А",
+    "coordinates": {
+      "longitude": 37.646316,
+      "latitude": 55.764981
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 14",
+    "coordinates": {
+      "longitude": 37.646718,
+      "latitude": 55.764997
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 16-18",
+    "coordinates": {
+      "longitude": 37.647481,
+      "latitude": 55.765244
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 20/2",
+    "coordinates": {
+      "longitude": 37.647557,
+      "latitude": 55.764961
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гусятников переулок, 9",
+    "coordinates": {
+      "longitude": 37.641911,
+      "latitude": 55.764313
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гусятников переулок, 13/3",
+    "coordinates": {
+      "longitude": 37.642768,
+      "latitude": 55.763961
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "переулок Огородная Слобода, 10",
+    "coordinates": {
+      "longitude": 37.642933,
+      "latitude": 55.765702
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 8/18 с1",
+    "coordinates": {
+      "longitude": 37.644316,
+      "latitude": 55.766158
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "переулок Огородная Слобода, 14",
+    "coordinates": {
+      "longitude": 37.643803,
+      "latitude": 55.766026
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 13 с1",
+    "coordinates": {
+      "longitude": 37.659442,
+      "latitude": 55.765375
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 15 с2",
+    "coordinates": {
+      "longitude": 37.659988,
+      "latitude": 55.765544
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 20/31 с1",
+    "coordinates": {
+      "longitude": 37.670244,
+      "latitude": 55.764038
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 29 с2",
+    "coordinates": {
+      "longitude": 37.669503,
+      "latitude": 55.76408
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 16 с2",
+    "coordinates": {
+      "longitude": 37.669818,
+      "latitude": 55.764491
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 18/20 с1",
+    "coordinates": {
+      "longitude": 37.668855,
+      "latitude": 55.765137
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 10 с3",
+    "coordinates": {
+      "longitude": 37.669694,
+      "latitude": 55.765882
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старокирочный переулок, 16/2 с2",
+    "coordinates": {
+      "longitude": 37.683181,
+      "latitude": 55.7677
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к7",
+    "coordinates": {
+      "longitude": 37.706796,
+      "latitude": 55.779579
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Спасоглинищевский переулок, 8",
+    "coordinates": {
+      "longitude": 37.635001,
+      "latitude": 55.755983
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Спасоглинищевский переулок, 6/1",
+    "coordinates": {
+      "longitude": 37.634684,
+      "latitude": 55.756349
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 8/12 к1",
+    "coordinates": {
+      "longitude": 37.641312,
+      "latitude": 55.760267
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 16/10 с1",
+    "coordinates": {
+      "longitude": 37.647087,
+      "latitude": 55.754093
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Трёхсвятительский переулок, 8/2 с7",
+    "coordinates": {
+      "longitude": 37.645454,
+      "latitude": 55.754214
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Трёхсвятительский переулок, 8/2 с8",
+    "coordinates": {
+      "longitude": 37.646001,
+      "latitude": 55.754094
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хитровский переулок, 4",
+    "coordinates": {
+      "longitude": 37.645099,
+      "latitude": 55.753885
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 14/6",
+    "coordinates": {
+      "longitude": 37.647179,
+      "latitude": 55.754967
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 14/5",
+    "coordinates": {
+      "longitude": 37.647073,
+      "latitude": 55.754618
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Колпачный переулок, 6 с5",
+    "coordinates": {
+      "longitude": 37.640982,
+      "latitude": 55.757992
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 27",
+    "coordinates": {
+      "longitude": 37.668371,
+      "latitude": 55.763836
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Демидовский переулок, 3",
+    "coordinates": {
+      "longitude": 37.664699,
+      "latitude": 55.764153
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 17/1 с1",
+    "coordinates": {
+      "longitude": 37.665421,
+      "latitude": 55.763704
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 8",
+    "coordinates": {
+      "longitude": 37.664948,
+      "latitude": 55.764684
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бригадирский переулок, 3-5",
+    "coordinates": {
+      "longitude": 37.677673,
+      "latitude": 55.765876
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Трёхсвятительский переулок, 1",
+    "coordinates": {
+      "longitude": 37.645299,
+      "latitude": 55.755358
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 18 с1",
+    "coordinates": {
+      "longitude": 37.645458,
+      "latitude": 55.757214
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 14/2 с1",
+    "coordinates": {
+      "longitude": 37.645248,
+      "latitude": 55.758919
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 4/17 с7",
+    "coordinates": {
+      "longitude": 37.644283,
+      "latitude": 55.758046
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Колпачный переулок, 6",
+    "coordinates": {
+      "longitude": 37.642289,
+      "latitude": 55.757768
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 2/1 с2",
+    "coordinates": {
+      "longitude": 37.639636,
+      "latitude": 55.757905
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хитровский переулок, 3/1 с2",
+    "coordinates": {
+      "longitude": 37.64303,
+      "latitude": 55.753753
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подкопаевский переулок, 9 с1",
+    "coordinates": {
+      "longitude": 37.642121,
+      "latitude": 55.753698
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105094, улица Госпитальный Вал, 3 к7",
+    "coordinates": {
+      "longitude": 37.702703,
+      "latitude": 55.772479
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 3 к4",
+    "coordinates": {
+      "longitude": 37.703831,
+      "latitude": 55.773204
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 к8",
+    "coordinates": {
+      "longitude": 37.7079,
+      "latitude": 55.774911
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 к17",
+    "coordinates": {
+      "longitude": 37.706954,
+      "latitude": 55.774369
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 к18",
+    "coordinates": {
+      "longitude": 37.705653,
+      "latitude": 55.774725
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 к18",
+    "coordinates": {
+      "longitude": 37.704183,
+      "latitude": 55.773785
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 5 к18",
+    "coordinates": {
+      "longitude": 37.704577,
+      "latitude": 55.774404
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 к15",
+    "coordinates": {
+      "longitude": 37.705092,
+      "latitude": 55.773473
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Госпитальный Вал, 5 к16",
+    "coordinates": {
+      "longitude": 37.706068,
+      "latitude": 55.774005
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Елизаветинский переулок, 6 с1",
+    "coordinates": {
+      "longitude": 37.672693,
+      "latitude": 55.762694
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 18-20 с1",
+    "coordinates": {
+      "longitude": 37.67174,
+      "latitude": 55.763282
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 13/3 с1",
+    "coordinates": {
+      "longitude": 37.655538,
+      "latitude": 55.765098
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 13/3 с1",
+    "coordinates": {
+      "longitude": 37.654509,
+      "latitude": 55.765805
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 5 с1",
+    "coordinates": {
+      "longitude": 37.65694,
+      "latitude": 55.76452
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 9 к1",
+    "coordinates": {
+      "longitude": 37.657625,
+      "latitude": 55.765005
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 9 к2",
+    "coordinates": {
+      "longitude": 37.657084,
+      "latitude": 55.765836
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 12",
+    "coordinates": {
+      "longitude": 37.686853,
+      "latitude": 55.777805
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 6 с3",
+    "coordinates": {
+      "longitude": 37.684589,
+      "latitude": 55.776822
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Центросоюзный переулок, 8/9",
+    "coordinates": {
+      "longitude": 37.686343,
+      "latitude": 55.779502
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 33/2 с1",
+    "coordinates": {
+      "longitude": 37.678843,
+      "latitude": 55.772837
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 8",
+    "coordinates": {
+      "longitude": 37.680845,
+      "latitude": 55.773337
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Семёновская набережная, 2/1 с1",
+    "coordinates": {
+      "longitude": 37.705142,
+      "latitude": 55.777661
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 2/1",
+    "coordinates": {
+      "longitude": 37.704775,
+      "latitude": 55.776866
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 2/1 с2",
+    "coordinates": {
+      "longitude": 37.705659,
+      "latitude": 55.776633
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гольяновская улица, 1Б",
+    "coordinates": {
+      "longitude": 37.706894,
+      "latitude": 55.777183
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гольяновская улица, 3А к3",
+    "coordinates": {
+      "longitude": 37.707319,
+      "latitude": 55.776756
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "109028, Малый Ивановский переулок, 11/6 с1",
+    "coordinates": {
+      "longitude": 37.641003,
+      "latitude": 55.753481
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "109028, Малый Ивановский переулок, 11/6 с2",
+    "coordinates": {
+      "longitude": 37.641355,
+      "latitude": 55.753407
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 28-30 к1",
+    "coordinates": {
+      "longitude": 37.686417,
+      "latitude": 55.774213
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 28-30 к2",
+    "coordinates": {
+      "longitude": 37.686533,
+      "latitude": 55.773937
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 33/2 с3",
+    "coordinates": {
+      "longitude": 37.67942,
+      "latitude": 55.772764
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 3",
+    "coordinates": {
+      "longitude": 37.683543,
+      "latitude": 55.777214
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 4 с1",
+    "coordinates": {
+      "longitude": 37.683281,
+      "latitude": 55.776686
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 4 с2",
+    "coordinates": {
+      "longitude": 37.68358,
+      "latitude": 55.776548
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 9",
+    "coordinates": {
+      "longitude": 37.685884,
+      "latitude": 55.778362
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 7/7",
+    "coordinates": {
+      "longitude": 37.685025,
+      "latitude": 55.777906
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Налесный переулок, 9/11",
+    "coordinates": {
+      "longitude": 37.68508,
+      "latitude": 55.778345
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 10-12 с1",
+    "coordinates": {
+      "longitude": 37.681144,
+      "latitude": 55.773275
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 3-5 с1",
+    "coordinates": {
+      "longitude": 37.67982,
+      "latitude": 55.771557
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Нижняя Красносельская улица, 43",
+    "coordinates": {
+      "longitude": 37.675032,
+      "latitude": 55.773801
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 7-9 с1",
+    "coordinates": {
+      "longitude": 37.676561,
+      "latitude": 55.770729
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Радио, 10 с9",
+    "coordinates": {
+      "longitude": 37.677749,
+      "latitude": 55.762737
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к5",
+    "coordinates": {
+      "longitude": 37.665087,
+      "latitude": 55.765899
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 16 к1",
+    "coordinates": {
+      "longitude": 37.674449,
+      "latitude": 55.765366
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Гороховский переулок, 9 с1",
+    "coordinates": {
+      "longitude": 37.664999,
+      "latitude": 55.765405
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 15",
+    "coordinates": {
+      "longitude": 37.667043,
+      "latitude": 55.76551
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 6 с2",
+    "coordinates": {
+      "longitude": 37.658226,
+      "latitude": 55.763991
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 4 к5 с7",
+    "coordinates": {
+      "longitude": 37.663973,
+      "latitude": 55.764136
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Бакунинская улица, 49 с5",
+    "coordinates": {
+      "longitude": 37.685958,
+      "latitude": 55.777563
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к2",
+    "coordinates": {
+      "longitude": 37.693962,
+      "latitude": 55.776167
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к10",
+    "coordinates": {
+      "longitude": 37.693745,
+      "latitude": 55.774659
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 16",
+    "coordinates": {
+      "longitude": 37.688598,
+      "latitude": 55.779166
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 10",
+    "coordinates": {
+      "longitude": 37.675122,
+      "latitude": 55.770376
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 18-20 к1",
+    "coordinates": {
+      "longitude": 37.674621,
+      "latitude": 55.769916
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Спартаковская улица, 10/2",
+    "coordinates": {
+      "longitude": 37.674236,
+      "latitude": 55.771858
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Спартаковская улица, 6 с2",
+    "coordinates": {
+      "longitude": 37.67364,
+      "latitude": 55.771454
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 15",
+    "coordinates": {
+      "longitude": 37.675608,
+      "latitude": 55.76991
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 3А с1",
+    "coordinates": {
+      "longitude": 37.676253,
+      "latitude": 55.771281
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 6 с1",
+    "coordinates": {
+      "longitude": 37.675339,
+      "latitude": 55.770975
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подкопаевский переулок, 8/13/5",
+    "coordinates": {
+      "longitude": 37.640955,
+      "latitude": 55.753067
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Ивановский переулок, 6/5 с1",
+    "coordinates": {
+      "longitude": 37.64025,
+      "latitude": 55.753159
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 58 с1",
+    "coordinates": {
+      "longitude": 37.689155,
+      "latitude": 55.777104
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская площадь, 26/1",
+    "coordinates": {
+      "longitude": 37.685376,
+      "latitude": 55.774388
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 10/1 с3",
+    "coordinates": {
+      "longitude": 37.637346,
+      "latitude": 55.757192
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Петроверигский переулок, 3",
+    "coordinates": {
+      "longitude": 37.638147,
+      "latitude": 55.757012
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 35/1",
+    "coordinates": {
+      "longitude": 37.679134,
+      "latitude": 55.771732
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 8",
+    "coordinates": {
+      "longitude": 37.647132,
+      "latitude": 55.766529
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 12",
+    "coordinates": {
+      "longitude": 37.647504,
+      "latitude": 55.765858
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 7 с2",
+    "coordinates": {
+      "longitude": 37.645817,
+      "latitude": 55.765913
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 7 с4",
+    "coordinates": {
+      "longitude": 37.646148,
+      "latitude": 55.766152
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 7 с3",
+    "coordinates": {
+      "longitude": 37.64557,
+      "latitude": 55.766195
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 44 с3",
+    "coordinates": {
+      "longitude": 37.644153,
+      "latitude": 55.767487
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 7",
+    "coordinates": {
+      "longitude": 37.647244,
+      "latitude": 55.767318
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 3/2",
+    "coordinates": {
+      "longitude": 37.646898,
+      "latitude": 55.767777
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 1/4 с2",
+    "coordinates": {
+      "longitude": 37.657652,
+      "latitude": 55.763974
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 22 с1",
+    "coordinates": {
+      "longitude": 37.652452,
+      "latitude": 55.765074
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Козловский переулок, 8",
+    "coordinates": {
+      "longitude": 37.64818,
+      "latitude": 55.764541
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Харитоньевский переулок, 9/13 с4",
+    "coordinates": {
+      "longitude": 37.646166,
+      "latitude": 55.76573
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 9 с1",
+    "coordinates": {
+      "longitude": 37.648485,
+      "latitude": 55.761926
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 18",
+    "coordinates": {
+      "longitude": 37.648794,
+      "latitude": 55.762039
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 30/2 с3",
+    "coordinates": {
+      "longitude": 37.639148,
+      "latitude": 55.765292
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "переулок Огородная Слобода, 3/36 с7",
+    "coordinates": {
+      "longitude": 37.640675,
+      "latitude": 55.765356
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гусятников переулок, 3/1 с1",
+    "coordinates": {
+      "longitude": 37.640179,
+      "latitude": 55.765209
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 32 с2",
+    "coordinates": {
+      "longitude": 37.639608,
+      "latitude": 55.765398
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Забелина, 5 с2",
+    "coordinates": {
+      "longitude": 37.637537,
+      "latitude": 55.755726
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 22 с1",
+    "coordinates": {
+      "longitude": 37.63465,
+      "latitude": 55.76196
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Кривоколенный переулок, 5 с2",
+    "coordinates": {
+      "longitude": 37.634964,
+      "latitude": 55.76172
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Архангельский переулок, 7",
+    "coordinates": {
+      "longitude": 37.637606,
+      "latitude": 55.76124
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Кривоколенный переулок, 14 с1",
+    "coordinates": {
+      "longitude": 37.637367,
+      "latitude": 55.762313
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Москва, Архангельский переулок, 11/16 с1",
+    "coordinates": {
+      "longitude": 37.638185,
+      "latitude": 55.76215
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Москва, Архангельский переулок, 11/16 с4",
+    "coordinates": {
+      "longitude": 37.638123,
+      "latitude": 55.761798
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "101000, Москва, Архангельский переулок, 9",
+    "coordinates": {
+      "longitude": 37.637798,
+      "latitude": 55.761524
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 14",
+    "coordinates": {
+      "longitude": 37.641361,
+      "latitude": 55.759506
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 8/12 с4",
+    "coordinates": {
+      "longitude": 37.640977,
+      "latitude": 55.760394
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Сверчков переулок, 10",
+    "coordinates": {
+      "longitude": 37.640139,
+      "latitude": 55.76046
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 10",
+    "coordinates": {
+      "longitude": 37.641129,
+      "latitude": 55.760047
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Казённый переулок, 12 с2",
+    "coordinates": {
+      "longitude": 37.654441,
+      "latitude": 55.760744
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Казённый переулок, 10",
+    "coordinates": {
+      "longitude": 37.65417,
+      "latitude": 55.760632
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 23",
+    "coordinates": {
+      "longitude": 37.658679,
+      "latitude": 55.7602
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 21/2 с1",
+    "coordinates": {
+      "longitude": 37.658645,
+      "latitude": 55.760767
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 18-22 с1",
+    "coordinates": {
+      "longitude": 37.657087,
+      "latitude": 55.759417
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 18-22 с2",
+    "coordinates": {
+      "longitude": 37.65689,
+      "latitude": 55.759799
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 21/2-4 с2",
+    "coordinates": {
+      "longitude": 37.658961,
+      "latitude": 55.760534
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Земляной Вал, 24/30 с1",
+    "coordinates": {
+      "longitude": 37.65715,
+      "latitude": 55.758707
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 24/30 с1А",
+    "coordinates": {
+      "longitude": 37.656845,
+      "latitude": 55.758451
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 11 с1",
+    "coordinates": {
+      "longitude": 37.643547,
+      "latitude": 55.757138
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 4/17 с6",
+    "coordinates": {
+      "longitude": 37.64422,
+      "latitude": 55.75775
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 8 с2",
+    "coordinates": {
+      "longitude": 37.646286,
+      "latitude": 55.75693
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Покровский бульвар, 8 с2А",
+    "coordinates": {
+      "longitude": 37.646117,
+      "latitude": 55.757224
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 2/1 с3",
+    "coordinates": {
+      "longitude": 37.639984,
+      "latitude": 55.758077
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лубянский проезд, 17",
+    "coordinates": {
+      "longitude": 37.633311,
+      "latitude": 55.756056
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "2-й Ирининский переулок, 4",
+    "coordinates": {
+      "longitude": 37.689236,
+      "latitude": 55.774729
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 5",
+    "coordinates": {
+      "longitude": 37.690169,
+      "latitude": 55.775028
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к7",
+    "coordinates": {
+      "longitude": 37.694957,
+      "latitude": 55.775028
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 6",
+    "coordinates": {
+      "longitude": 37.689154,
+      "latitude": 55.773759
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцов переулок, 16 с1",
+    "coordinates": {
+      "longitude": 37.692652,
+      "latitude": 55.772624
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к9",
+    "coordinates": {
+      "longitude": 37.693816,
+      "latitude": 55.77525
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к15",
+    "coordinates": {
+      "longitude": 37.693252,
+      "latitude": 55.774271
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к11",
+    "coordinates": {
+      "longitude": 37.691639,
+      "latitude": 55.774742
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 1/33 с1",
+    "coordinates": {
+      "longitude": 37.687924,
+      "latitude": 55.773801
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 16",
+    "coordinates": {
+      "longitude": 37.69276,
+      "latitude": 55.775839
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чешихинский проезд, 4 с1",
+    "coordinates": {
+      "longitude": 37.690085,
+      "latitude": 55.772979
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к4",
+    "coordinates": {
+      "longitude": 37.694623,
+      "latitude": 55.775754
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к17",
+    "coordinates": {
+      "longitude": 37.691415,
+      "latitude": 55.773878
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к12",
+    "coordinates": {
+      "longitude": 37.692006,
+      "latitude": 55.775118
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к18",
+    "coordinates": {
+      "longitude": 37.690614,
+      "latitude": 55.774667
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к18А",
+    "coordinates": {
+      "longitude": 37.690241,
+      "latitude": 55.774326
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к8",
+    "coordinates": {
+      "longitude": 37.694577,
+      "latitude": 55.774671
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Рубцов переулок, 4",
+    "coordinates": {
+      "longitude": 37.690396,
+      "latitude": 55.773563
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 2/4",
+    "coordinates": {
+      "longitude": 37.688564,
+      "latitude": 55.773313
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к6",
+    "coordinates": {
+      "longitude": 37.695788,
+      "latitude": 55.775218
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 35 с1",
+    "coordinates": {
+      "longitude": 37.672045,
+      "latitude": 55.776258
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 35 с49",
+    "coordinates": {
+      "longitude": 37.672038,
+      "latitude": 55.77568
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 35 с48",
+    "coordinates": {
+      "longitude": 37.672987,
+      "latitude": 55.774993
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старокирочный переулок, 6",
+    "coordinates": {
+      "longitude": 37.682467,
+      "latitude": 55.768075
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 39",
+    "coordinates": {
+      "longitude": 37.679263,
+      "latitude": 55.770759
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Земляной Вал, 38-40",
+    "coordinates": {
+      "longitude": 37.65592,
+      "latitude": 55.755248
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 45/17",
+    "coordinates": {
+      "longitude": 37.676324,
+      "latitude": 55.773146
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Радио, 5 с5",
+    "coordinates": {
+      "longitude": 37.672208,
+      "latitude": 55.764581
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 62/68 с1",
+    "coordinates": {
+      "longitude": 37.690914,
+      "latitude": 55.7775
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 22",
+    "coordinates": {
+      "longitude": 37.692685,
+      "latitude": 55.780869
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к3",
+    "coordinates": {
+      "longitude": 37.695423,
+      "latitude": 55.776134
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к5",
+    "coordinates": {
+      "longitude": 37.696433,
+      "latitude": 55.775542
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Новая Дорога, 17 к2",
+    "coordinates": {
+      "longitude": 37.697912,
+      "latitude": 55.776117
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 98А с1",
+    "coordinates": {
+      "longitude": 37.695269,
+      "latitude": 55.779511
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Гольяновская улица, 7 к1",
+    "coordinates": {
+      "longitude": 37.70983,
+      "latitude": 55.775514
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гольяновская улица, 7А к4",
+    "coordinates": {
+      "longitude": 37.711415,
+      "latitude": 55.776049
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105094, Гольяновский проезд, 4А с1",
+    "coordinates": {
+      "longitude": 37.709762,
+      "latitude": 55.776931
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Гольяновская улица, 7 к3",
+    "coordinates": {
+      "longitude": 37.709807,
+      "latitude": 55.77603
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Гольяновская улица, 7 к2",
+    "coordinates": {
+      "longitude": 37.70886,
+      "latitude": 55.775781
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гороховский переулок, 16",
+    "coordinates": {
+      "longitude": 37.668718,
+      "latitude": 55.764615
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105094, Москва, Семёновская набережная, 3/1 к6",
+    "coordinates": {
+      "longitude": 37.705589,
+      "latitude": 55.780019
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к16",
+    "coordinates": {
+      "longitude": 37.692883,
+      "latitude": 55.773899
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105062, Подсосенский переулок, 5А",
+    "coordinates": {
+      "longitude": 37.65096,
+      "latitude": 55.758161
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 19 с3А",
+    "coordinates": {
+      "longitude": 37.676809,
+      "latitude": 55.774245
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 19 с2",
+    "coordinates": {
+      "longitude": 37.676474,
+      "latitude": 55.773668
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 28/25",
+    "coordinates": {
+      "longitude": 37.67802,
+      "latitude": 55.773732
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 10",
+    "coordinates": {
+      "longitude": 37.68699,
+      "latitude": 55.771887
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Госпитальный переулок, 8",
+    "coordinates": {
+      "longitude": 37.689219,
+      "latitude": 55.770257
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ладожская улица, 15",
+    "coordinates": {
+      "longitude": 37.685798,
+      "latitude": 55.771903
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Лефортовский переулок, 5/7 с4",
+    "coordinates": {
+      "longitude": 37.677037,
+      "latitude": 55.770182
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105082, Спартаковский переулок, 26",
+    "coordinates": {
+      "longitude": 37.681709,
+      "latitude": 55.775581
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, улица Фридриха Энгельса, 36 с1",
+    "coordinates": {
+      "longitude": 37.68905,
+      "latitude": 55.775763
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 16 с1",
+    "coordinates": {
+      "longitude": 37.67027,
+      "latitude": 55.764379
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к4",
+    "coordinates": {
+      "longitude": 37.666879,
+      "latitude": 55.766015
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к3",
+    "coordinates": {
+      "longitude": 37.666166,
+      "latitude": 55.765779
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 30/1",
+    "coordinates": {
+      "longitude": 37.668897,
+      "latitude": 55.768494
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 3/22",
+    "coordinates": {
+      "longitude": 37.673847,
+      "latitude": 55.768829
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковский переулок, 26 с2",
+    "coordinates": {
+      "longitude": 37.680388,
+      "latitude": 55.775421
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковский переулок, 24 с1",
+    "coordinates": {
+      "longitude": 37.680798,
+      "latitude": 55.776015
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 19",
+    "coordinates": {
+      "longitude": 37.678477,
+      "latitude": 55.774844
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 26",
+    "coordinates": {
+      "longitude": 37.677706,
+      "latitude": 55.774171
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к9 с6А",
+    "coordinates": {
+      "longitude": 37.694038,
+      "latitude": 55.775483
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 31/35",
+    "coordinates": {
+      "longitude": 37.685997,
+      "latitude": 55.774769
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 37-41 кА",
+    "coordinates": {
+      "longitude": 37.687101,
+      "latitude": 55.775291
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 50 с3",
+    "coordinates": {
+      "longitude": 37.688877,
+      "latitude": 55.776441
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Фридриха Энгельса, 43-45",
+    "coordinates": {
+      "longitude": 37.688022,
+      "latitude": 55.775784
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18",
+    "coordinates": {
+      "longitude": 37.694746,
+      "latitude": 55.776638
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 11-13",
+    "coordinates": {
+      "longitude": 37.674034,
+      "latitude": 55.767411
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 66/11",
+    "coordinates": {
+      "longitude": 37.679773,
+      "latitude": 55.765649
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 46",
+    "coordinates": {
+      "longitude": 37.678771,
+      "latitude": 55.770223
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 56/17",
+    "coordinates": {
+      "longitude": 37.679025,
+      "latitude": 55.768792
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 8 с1",
+    "coordinates": {
+      "longitude": 37.675479,
+      "latitude": 55.7705
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 8 с1",
+    "coordinates": {
+      "longitude": 37.675623,
+      "latitude": 55.770713
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "2-я Бауманская улица, 1 к1",
+    "coordinates": {
+      "longitude": 37.687078,
+      "latitude": 55.76891
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 25/2",
+    "coordinates": {
+      "longitude": 37.663446,
+      "latitude": 55.769987
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "1-й Басманный переулок, 12",
+    "coordinates": {
+      "longitude": 37.664081,
+      "latitude": 55.771655
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "1-й Басманный переулок, 2А",
+    "coordinates": {
+      "longitude": 37.66358,
+      "latitude": 55.770279
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 32",
+    "coordinates": {
+      "longitude": 37.668416,
+      "latitude": 55.771425
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "1-й Басманный переулок, 6",
+    "coordinates": {
+      "longitude": 37.663761,
+      "latitude": 55.770849
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Новая Басманная улица, 27 с1",
+    "coordinates": {
+      "longitude": 37.664081,
+      "latitude": 55.769928
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Новорязанская улица, 22/14",
+    "coordinates": {
+      "longitude": 37.664177,
+      "latitude": 55.771927
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 13/3 с1",
+    "coordinates": {
+      "longitude": 37.656609,
+      "latitude": 55.764427
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 12 с2",
+    "coordinates": {
+      "longitude": 37.657234,
+      "latitude": 55.769082
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 12 с3",
+    "coordinates": {
+      "longitude": 37.657528,
+      "latitude": 55.768631
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 12 с4",
+    "coordinates": {
+      "longitude": 37.657446,
+      "latitude": 55.769213
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Новая Басманная улица, 18 с5",
+    "coordinates": {
+      "longitude": 37.660787,
+      "latitude": 55.769126
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Гусятников переулок, 4 с4",
+    "coordinates": {
+      "longitude": 37.639482,
+      "latitude": 55.765127
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Макаренко, 2/21 с3",
+    "coordinates": {
+      "longitude": 37.647227,
+      "latitude": 55.760686
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 26",
+    "coordinates": {
+      "longitude": 37.668256,
+      "latitude": 55.767306
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 20 к12",
+    "coordinates": {
+      "longitude": 37.667109,
+      "latitude": 55.766411
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Спартаковская улица, 3 с1",
+    "coordinates": {
+      "longitude": 37.670418,
+      "latitude": 55.770277
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Спартаковская улица, 3 с3",
+    "coordinates": {
+      "longitude": 37.6707,
+      "latitude": 55.770509
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 38 с1",
+    "coordinates": {
+      "longitude": 37.670015,
+      "latitude": 55.769378
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 20 с2",
+    "coordinates": {
+      "longitude": 37.677203,
+      "latitude": 55.775237
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 27",
+    "coordinates": {
+      "longitude": 37.678747,
+      "latitude": 55.774035
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к1",
+    "coordinates": {
+      "longitude": 37.708201,
+      "latitude": 55.779106
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 3/22",
+    "coordinates": {
+      "longitude": 37.67412,
+      "latitude": 55.768521
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Доброслободская улица, 10 с3",
+    "coordinates": {
+      "longitude": 37.673617,
+      "latitude": 55.767304
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 6",
+    "coordinates": {
+      "longitude": 37.673302,
+      "latitude": 55.771045
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 3А",
+    "coordinates": {
+      "longitude": 37.675751,
+      "latitude": 55.771172
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Плетешковский переулок, 3А с1А",
+    "coordinates": {
+      "longitude": 37.676846,
+      "latitude": 55.771527
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Спартаковская улица, 8",
+    "coordinates": {
+      "longitude": 37.673821,
+      "latitude": 55.771672
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 20 с3",
+    "coordinates": {
+      "longitude": 37.677208,
+      "latitude": 55.774995
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 22/33 с2",
+    "coordinates": {
+      "longitude": 37.649897,
+      "latitude": 55.761334
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Земляной Вал, 3/1 с6",
+    "coordinates": {
+      "longitude": 37.657606,
+      "latitude": 55.763326
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Новая Басманная улица, 29 с3",
+    "coordinates": {
+      "longitude": 37.665059,
+      "latitude": 55.769993
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 32",
+    "coordinates": {
+      "longitude": 37.656979,
+      "latitude": 55.757125
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Земляной Вал, 14-16/11 с1",
+    "coordinates": {
+      "longitude": 37.656302,
+      "latitude": 55.760876
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 16 с4",
+    "coordinates": {
+      "longitude": 37.688615,
+      "latitude": 55.778987
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Переведеновский переулок, 6А",
+    "coordinates": {
+      "longitude": 37.683792,
+      "latitude": 55.776907
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 24-26 с2А",
+    "coordinates": {
+      "longitude": 37.652898,
+      "latitude": 55.757262
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105120, Москва, 4-й Сыромятнический переулок, 3/5 с4А",
+    "coordinates": {
+      "longitude": 37.667077,
+      "latitude": 55.755366
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105120, Москва, 4-й Сыромятнический переулок, 3/5 с3",
+    "coordinates": {
+      "longitude": 37.66731,
+      "latitude": 55.75511
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 15",
+    "coordinates": {
+      "longitude": 37.678432,
+      "latitude": 55.768894
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 12 с1",
+    "coordinates": {
+      "longitude": 37.650379,
+      "latitude": 55.764424
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 16 к2",
+    "coordinates": {
+      "longitude": 37.675751,
+      "latitude": 55.771802
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105066, Спартаковская улица, 18",
+    "coordinates": {
+      "longitude": 37.676448,
+      "latitude": 55.772042
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 58А",
+    "coordinates": {
+      "longitude": 37.678531,
+      "latitude": 55.768085
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 3 к5",
+    "coordinates": {
+      "longitude": 37.703962,
+      "latitude": 55.771054
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Госпитальный Вал, 3 к2",
+    "coordinates": {
+      "longitude": 37.70526,
+      "latitude": 55.771716
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Бауманская улица, 38 с2",
+    "coordinates": {
+      "longitude": 37.677759,
+      "latitude": 55.771292
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 8/2",
+    "coordinates": {
+      "longitude": 37.676351,
+      "latitude": 55.767976
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Аптекарский переулок, 10/1",
+    "coordinates": {
+      "longitude": 37.677502,
+      "latitude": 55.768118
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ладожская улица, 13",
+    "coordinates": {
+      "longitude": 37.685147,
+      "latitude": 55.771859
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 62-66",
+    "coordinates": {
+      "longitude": 37.678845,
+      "latitude": 55.765969
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 38-42 с1",
+    "coordinates": {
+      "longitude": 37.6868,
+      "latitude": 55.775934
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Волховский переулок, 2",
+    "coordinates": {
+      "longitude": 37.684089,
+      "latitude": 55.772659
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ладожская улица, 10",
+    "coordinates": {
+      "longitude": 37.684135,
+      "latitude": 55.771276
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 44/48 с1",
+    "coordinates": {
+      "longitude": 37.687686,
+      "latitude": 55.77633
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 32-36 к1",
+    "coordinates": {
+      "longitude": 37.685935,
+      "latitude": 55.775442
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 28/2",
+    "coordinates": {
+      "longitude": 37.667758,
+      "latitude": 55.768023
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 24",
+    "coordinates": {
+      "longitude": 37.666906,
+      "latitude": 55.767585
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105066, Москва, Нижняя Красносельская улица, 35 с2",
+    "coordinates": {
+      "longitude": 37.672459,
+      "latitude": 55.77592
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 32 к8",
+    "coordinates": {
+      "longitude": 37.699242,
+      "latitude": 55.780367
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Москва, Бауманская улица, вл 47",
+    "coordinates": {
+      "longitude": 37.680385,
+      "latitude": 55.769181
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 12",
+    "coordinates": {
+      "longitude": 37.689855,
+      "latitude": 55.771827
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 12",
+    "coordinates": {
+      "longitude": 37.688469,
+      "latitude": 55.772273
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малая Почтовая улица, 12",
+    "coordinates": {
+      "longitude": 37.689294,
+      "latitude": 55.772587
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Рубцовская набережная, 2 к5",
+    "coordinates": {
+      "longitude": 37.69359,
+      "latitude": 55.773062
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцовская набережная, 2 к1",
+    "coordinates": {
+      "longitude": 37.696461,
+      "latitude": 55.774451
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцовская набережная, 2 к4",
+    "coordinates": {
+      "longitude": 37.694506,
+      "latitude": 55.773177
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцовская набережная, 2 к3",
+    "coordinates": {
+      "longitude": 37.694933,
+      "latitude": 55.773688
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Рубцовская набережная, 2 к2",
+    "coordinates": {
+      "longitude": 37.69591,
+      "latitude": 55.77394
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 60/2",
+    "coordinates": {
+      "longitude": 37.690003,
+      "latitude": 55.777199
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Центросоюзный переулок, 4",
+    "coordinates": {
+      "longitude": 37.685496,
+      "latitude": 55.778996
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 19 с3",
+    "coordinates": {
+      "longitude": 37.676925,
+      "latitude": 55.773738
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 14 с1",
+    "coordinates": {
+      "longitude": 37.658206,
+      "latitude": 55.768815
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 14 с1",
+    "coordinates": {
+      "longitude": 37.658664,
+      "latitude": 55.768832
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 18/20 к9А",
+    "coordinates": {
+      "longitude": 37.694157,
+      "latitude": 55.774982
+    }
+  },
+  {
+    "name": "Chkalov",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "площадь Курского Вокзала, 1",
+    "coordinates": {
+      "longitude": 37.659435,
+      "latitude": 55.755913
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 23",
+    "coordinates": {
+      "longitude": 37.67846,
+      "latitude": 55.774356
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бауманская улица, 68/8 с1",
+    "coordinates": {
+      "longitude": 37.679527,
+      "latitude": 55.765268
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "way",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 24",
+    "coordinates": {
+      "longitude": 37.701269,
+      "latitude": 55.778446
+    }
+  },
+  {
+    "name": "апарт-комплекс «Современник»",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 13 с1",
+    "coordinates": {
+      "longitude": 37.652159,
+      "latitude": 55.764271
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 10 с1",
+    "coordinates": {
+      "longitude": 37.656198,
+      "latitude": 55.769003
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 29",
+    "coordinates": {
+      "longitude": 37.648605,
+      "latitude": 55.760525
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 19",
+    "coordinates": {
+      "longitude": 37.64646,
+      "latitude": 55.75981
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Армянский переулок, 7",
+    "coordinates": {
+      "longitude": 37.63653,
+      "latitude": 55.76022
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Солянка, 1/2 с2",
+    "coordinates": {
+      "longitude": 37.638849,
+      "latitude": 55.75405
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Солянка, 1/2 с1",
+    "coordinates": {
+      "longitude": 37.637964,
+      "latitude": 55.754165
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Токмаков переулок, 12/20",
+    "coordinates": {
+      "longitude": 37.669813,
+      "latitude": 55.765261
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 21/4 с2",
+    "coordinates": {
+      "longitude": 37.662639,
+      "latitude": 55.766471
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Семёновская набережная, 3/1 к5",
+    "coordinates": {
+      "longitude": 37.704807,
+      "latitude": 55.779094
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская площадь, 1/2",
+    "coordinates": {
+      "longitude": 37.681347,
+      "latitude": 55.777341
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Златоустинский переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.63524,
+      "latitude": 55.759359
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Златоустинский переулок, 8 с1",
+    "coordinates": {
+      "longitude": 37.634767,
+      "latitude": 55.759188
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 13 с2",
+    "coordinates": {
+      "longitude": 37.636458,
+      "latitude": 55.758447
+    }
+  },
+  {
+    "name": "Малороссийское подворье",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 11/4 с1",
+    "coordinates": {
+      "longitude": 37.63555,
+      "latitude": 55.758006
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 9/13/2 с7",
+    "coordinates": {
+      "longitude": 37.634263,
+      "latitude": 55.758202
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 9 с8",
+    "coordinates": {
+      "longitude": 37.634951,
+      "latitude": 55.757794
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 9 с1",
+    "coordinates": {
+      "longitude": 37.634353,
+      "latitude": 55.757757
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 9/2 с6",
+    "coordinates": {
+      "longitude": 37.633717,
+      "latitude": 55.757993
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Забелина, 3 с3",
+    "coordinates": {
+      "longitude": 37.637529,
+      "latitude": 55.755054
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Спасоглинищевский переулок, 3 с3",
+    "coordinates": {
+      "longitude": 37.635203,
+      "latitude": 55.756856
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Спасоглинищевский переулок, 3 с2",
+    "coordinates": {
+      "longitude": 37.635401,
+      "latitude": 55.757027
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 3 с1",
+    "coordinates": {
+      "longitude": 37.641009,
+      "latitude": 55.755403
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 9/2 с8",
+    "coordinates": {
+      "longitude": 37.634764,
+      "latitude": 55.75815
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Бакунинская улица, 43-55",
+    "coordinates": {
+      "longitude": 37.686875,
+      "latitude": 55.776817
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 42 с6",
+    "coordinates": {
+      "longitude": 37.653881,
+      "latitude": 55.762047
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 44",
+    "coordinates": {
+      "longitude": 37.654016,
+      "latitude": 55.762805
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 15",
+    "coordinates": {
+      "longitude": 37.645122,
+      "latitude": 55.757373
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 1А",
+    "coordinates": {
+      "longitude": 37.639848,
+      "latitude": 55.764761
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 14 с1",
+    "coordinates": {
+      "longitude": 37.651902,
+      "latitude": 55.758656
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Подсосенский переулок, 3",
+    "coordinates": {
+      "longitude": 37.650478,
+      "latitude": 55.759022
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лялин переулок, 5 с1",
+    "coordinates": {
+      "longitude": 37.652038,
+      "latitude": 55.760095
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 38 с1",
+    "coordinates": {
+      "longitude": 37.651362,
+      "latitude": 55.761265
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Харитоньевский переулок, 5-7 с1",
+    "coordinates": {
+      "longitude": 37.643676,
+      "latitude": 55.764443
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старосадский переулок, 6/12",
+    "coordinates": {
+      "longitude": 37.63918,
+      "latitude": 55.756564
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Петроверигский переулок, 6-8-10 с4",
+    "coordinates": {
+      "longitude": 37.638826,
+      "latitude": 55.756537
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старосадский переулок, 8А",
+    "coordinates": {
+      "longitude": 37.639228,
+      "latitude": 55.755837
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старосадский переулок, 10",
+    "coordinates": {
+      "longitude": 37.638956,
+      "latitude": 55.755561
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Девяткин переулок, 2",
+    "coordinates": {
+      "longitude": 37.638598,
+      "latitude": 55.759421
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Девяткин переулок, 4",
+    "coordinates": {
+      "longitude": 37.638991,
+      "latitude": 55.759151
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лучников переулок, 7/4 с5",
+    "coordinates": {
+      "longitude": 37.630864,
+      "latitude": 55.75887
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Лучников переулок, 7/4 с6",
+    "coordinates": {
+      "longitude": 37.630952,
+      "latitude": 55.759204
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Колпачный переулок, 10/7 с8",
+    "coordinates": {
+      "longitude": 37.640023,
+      "latitude": 55.756957
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старосадский переулок, 9",
+    "coordinates": {
+      "longitude": 37.640155,
+      "latitude": 55.75648
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Мясницкая улица, 24/7 с1",
+    "coordinates": {
+      "longitude": 37.635747,
+      "latitude": 55.762511
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "109028, Москва, Покровский бульвар, 5",
+    "coordinates": {
+      "longitude": 37.649181,
+      "latitude": 55.755972
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 1/5",
+    "coordinates": {
+      "longitude": 37.647345,
+      "latitude": 55.763535
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Чаплыгина, 1А",
+    "coordinates": {
+      "longitude": 37.64609,
+      "latitude": 55.764408
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Машкова, 1",
+    "coordinates": {
+      "longitude": 37.648862,
+      "latitude": 55.76268
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 8 с2",
+    "coordinates": {
+      "longitude": 37.649153,
+      "latitude": 55.763974
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Фурманный переулок, 6",
+    "coordinates": {
+      "longitude": 37.648543,
+      "latitude": 55.763733
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 27 с1",
+    "coordinates": {
+      "longitude": 37.648154,
+      "latitude": 55.760173
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Посланников переулок, 3 с5",
+    "coordinates": {
+      "longitude": 37.681014,
+      "latitude": 55.770716
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ладожская улица, 2/37",
+    "coordinates": {
+      "longitude": 37.679822,
+      "latitude": 55.771073
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подкопаевский переулок, 11 с1",
+    "coordinates": {
+      "longitude": 37.641807,
+      "latitude": 55.753393
+    }
+  },
+  {
+    "name": "Дом Ярошенко",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Подколокольный переулок, 11",
+    "coordinates": {
+      "longitude": 37.642409,
+      "latitude": 55.752939
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хоромный тупик, 2/6",
+    "coordinates": {
+      "longitude": 37.648157,
+      "latitude": 55.767861
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большой Козловский переулок, 10 с1",
+    "coordinates": {
+      "longitude": 37.647341,
+      "latitude": 55.766185
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Малый Златоустинский переулок, 10",
+    "coordinates": {
+      "longitude": 37.63564,
+      "latitude": 55.7595
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 31 с1",
+    "coordinates": {
+      "longitude": 37.665648,
+      "latitude": 55.770028
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 31 с2",
+    "coordinates": {
+      "longitude": 37.666205,
+      "latitude": 55.77011
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 31 с3",
+    "coordinates": {
+      "longitude": 37.665819,
+      "latitude": 55.77043
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Садовая-Черногрязская улица, 3Б с1",
+    "coordinates": {
+      "longitude": 37.652824,
+      "latitude": 55.76719
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "107078, Садовая-Черногрязская улица, 5/9",
+    "coordinates": {
+      "longitude": 37.653505,
+      "latitude": 55.766613
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 4-6 с3",
+    "coordinates": {
+      "longitude": 37.653997,
+      "latitude": 55.768451
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 12",
+    "coordinates": {
+      "longitude": 37.641138,
+      "latitude": 55.759756
+    }
+  },
+  {
+    "name": "Дом кооператива «Обрабстрой»",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Басманный тупик, 10/12",
+    "coordinates": {
+      "longitude": 37.657105,
+      "latitude": 55.767802
+    }
+  },
+  {
+    "name": "Жилой комплекс \"Дом на Покровском бульваре\"",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Казарменный переулок, 3",
+    "coordinates": {
+      "longitude": 37.649534,
+      "latitude": 55.757494
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 4 с1",
+    "coordinates": {
+      "longitude": 37.641035,
+      "latitude": 55.758519
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Маросейка, 13 с3",
+    "coordinates": {
+      "longitude": 37.636302,
+      "latitude": 55.75878
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Спартаковская улица, 6",
+    "coordinates": {
+      "longitude": 37.674933,
+      "latitude": 55.771316
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105064, Москва, улица Казакова, 7",
+    "coordinates": {
+      "longitude": 37.659915,
+      "latitude": 55.763712
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Потаповский переулок, 6 с1",
+    "coordinates": {
+      "longitude": 37.640309,
+      "latitude": 55.761342
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новая Басманная улица, 20 с1",
+    "coordinates": {
+      "longitude": 37.661429,
+      "latitude": 55.769556
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105005, Москва, Бакунинская улица, 5",
+    "coordinates": {
+      "longitude": 37.679648,
+      "latitude": 55.773962
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105094, Москва, улица Новая Дорога, 9",
+    "coordinates": {
+      "longitude": 37.70084,
+      "latitude": 55.772799
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 32 к2",
+    "coordinates": {
+      "longitude": 37.698935,
+      "latitude": 55.780006
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105082, Москва, Большая Почтовая улица, 32",
+    "coordinates": {
+      "longitude": 37.700112,
+      "latitude": 55.780008
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 32 к1",
+    "coordinates": {
+      "longitude": 37.698378,
+      "latitude": 55.780191
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 32 к9",
+    "coordinates": {
+      "longitude": 37.699663,
+      "latitude": 55.780006
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105082, Москва, Большая Почтовая улица, 30 с1",
+    "coordinates": {
+      "longitude": 37.700808,
+      "latitude": 55.779328
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105082, Москва, Большая Почтовая улица, 28",
+    "coordinates": {
+      "longitude": 37.698746,
+      "latitude": 55.779373
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "residential"
+    },
+    "address": "Спартаковская улица, 2 к2",
+    "coordinates": {
+      "longitude": 37.671107,
+      "latitude": 55.770214
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ольховская улица, 2А",
+    "coordinates": {
+      "longitude": 37.664511,
+      "latitude": 55.772906
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Красносельская улица, 34/16",
+    "coordinates": {
+      "longitude": 37.670853,
+      "latitude": 55.775724
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Ольховская улица, 16",
+    "coordinates": {
+      "longitude": 37.670406,
+      "latitude": 55.775285
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Новорязанская улица, 31/7 с5",
+    "coordinates": {
+      "longitude": 37.670751,
+      "latitude": 55.771505
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Дурасовский переулок, 3 с1",
+    "coordinates": {
+      "longitude": 37.649667,
+      "latitude": 55.755028
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Хохловский переулок, 7-9 с1",
+    "coordinates": {
+      "longitude": 37.642877,
+      "latitude": 55.755665
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Москва, Бакунинская улица, 23-41",
+    "coordinates": {
+      "longitude": 37.684469,
+      "latitude": 55.775867
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "105082, Москва, Бакунинская улица, 23-41",
+    "coordinates": {
+      "longitude": 37.684506,
+      "latitude": 55.775863
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Покровка, 15/16 с1",
+    "coordinates": {
+      "longitude": 37.6448,
+      "latitude": 55.759505
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Чистопрудный бульвар, 2",
+    "coordinates": {
+      "longitude": 37.63847,
+      "latitude": 55.764321
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Большая Почтовая улица, 61-67 с1",
+    "coordinates": {
+      "longitude": 37.696636,
+      "latitude": 55.779361
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижний Сусальный переулок, 3",
+    "coordinates": {
+      "longitude": 37.663929,
+      "latitude": 55.762105
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 10 с5",
+    "coordinates": {
+      "longitude": 37.659953,
+      "latitude": 55.764281
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Старая Басманная улица, 12 с5",
+    "coordinates": {
+      "longitude": 37.660386,
+      "latitude": 55.764238
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "улица Казакова, 8А",
+    "coordinates": {
+      "longitude": 37.660949,
+      "latitude": 55.762582
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Сыромятническая улица, 5 с3",
+    "coordinates": {
+      "longitude": 37.668811,
+      "latitude": 55.753287
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "relation",
+    "tags": {
+      "building": "apartments"
+    },
+    "address": "Нижняя Сыромятническая улица, 5 с3А",
+    "coordinates": {
+      "longitude": 37.669131,
+      "latitude": 55.75374
+    }
+  }
+]

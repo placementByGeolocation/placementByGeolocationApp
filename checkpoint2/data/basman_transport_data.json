@@ -1,0 +1,1007 @@
+[
+  {
+    "name": "Москва-Пассажирская-Курская",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662788,
+      "latitude": 55.757678
+    }
+  },
+  {
+    "name": "Бауманская",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680549,
+      "latitude": 55.773039
+    }
+  },
+  {
+    "name": "Малый Демидовский переулок, школа акварели",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664926,
+      "latitude": 55.765005
+    }
+  },
+  {
+    "name": "Токмаков переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670462,
+      "latitude": 55.765234
+    }
+  },
+  {
+    "name": "Спартаковская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.668386,
+      "latitude": 55.771744
+    }
+  },
+  {
+    "name": "Технический переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682138,
+      "latitude": 55.763481
+    }
+  },
+  {
+    "name": "Метро «Бауманская»",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679268,
+      "latitude": 55.773276
+    }
+  },
+  {
+    "name": "Балакиревский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.690096,
+      "latitude": 55.777846
+    }
+  },
+  {
+    "name": "Спартаковский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.686428,
+      "latitude": 55.775918
+    }
+  },
+  {
+    "name": "Доброслободская улица — Театр",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.673962,
+      "latitude": 55.764327
+    }
+  },
+  {
+    "name": "Доброслободская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.673087,
+      "latitude": 55.764019
+    }
+  },
+  {
+    "name": "Курская",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659332,
+      "latitude": 55.757198
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "",
+      "railway": "",
+      "highway": "",
+      "amenity": "parking"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.70663,
+      "latitude": 55.77272
+    }
+  },
+  {
+    "name": "Метро «Лубянка» – Политехнический музей",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.628655,
+      "latitude": 55.759124
+    }
+  },
+  {
+    "name": "Метро «Красные Ворота»",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.648866,
+      "latitude": 55.768597
+    }
+  },
+  {
+    "name": "Бакунинская улица, 84",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.691532,
+      "latitude": 55.779208
+    }
+  },
+  {
+    "name": "Бакунинская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.69653,
+      "latitude": 55.780623
+    }
+  },
+  {
+    "name": "Переведеновский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.695631,
+      "latitude": 55.780939
+    }
+  },
+  {
+    "name": "Спартаковская площадь",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682965,
+      "latitude": 55.775921
+    }
+  },
+  {
+    "name": "Елоховская площадь",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.674922,
+      "latitude": 55.772242
+    }
+  },
+  {
+    "name": "Сад имени Баумана",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659393,
+      "latitude": 55.769628
+    }
+  },
+  {
+    "name": "1-й Басманный переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664395,
+      "latitude": 55.769641
+    }
+  },
+  {
+    "name": "Сервисный центр «Московский транспорт» – Улица Александра Лукьянова",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663847,
+      "latitude": 55.766879
+    }
+  },
+  {
+    "name": "Лялин переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651877,
+      "latitude": 55.761828
+    }
+  },
+  {
+    "name": "Площадь Цезаря Куникова",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.654476,
+      "latitude": 55.763231
+    }
+  },
+  {
+    "name": "Курский вокзал",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657925,
+      "latitude": 55.756484
+    }
+  },
+  {
+    "name": "Метро «Курская»",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658045,
+      "latitude": 55.758846
+    }
+  },
+  {
+    "name": "Площадь Земляной Вал",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.655862,
+      "latitude": 55.764688
+    }
+  },
+  {
+    "name": "Институт глазных болезней",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.653231,
+      "latitude": 55.766436
+    }
+  },
+  {
+    "name": "Улица Казакова",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657502,
+      "latitude": 55.762405
+    }
+  },
+  {
+    "name": "Кинотеатр «Звезда»",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657252,
+      "latitude": 55.760605
+    }
+  },
+  {
+    "name": "Армянский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640348,
+      "latitude": 55.758503
+    }
+  },
+  {
+    "name": "улица Новая Дорога",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.694687,
+      "latitude": 55.777072
+    }
+  },
+  {
+    "name": "Улица Радио",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679052,
+      "latitude": 55.763244
+    }
+  },
+  {
+    "name": "МГТУ им. Баумана",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.683134,
+      "latitude": 55.76574
+    }
+  },
+  {
+    "name": "Лефортовская площадь",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.684399,
+      "latitude": 55.768451
+    }
+  },
+  {
+    "name": "Госпитальный переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.685932,
+      "latitude": 55.770519
+    }
+  },
+  {
+    "name": "Рубцов переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.689852,
+      "latitude": 55.774456
+    }
+  },
+  {
+    "name": "улица Фридриха Энгельса",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696561,
+      "latitude": 55.778083
+    }
+  },
+  {
+    "name": "Театр имени Н.В. Гоголя",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662136,
+      "latitude": 55.762655
+    }
+  },
+  {
+    "name": "Покровские Ворота",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645864,
+      "latitude": 55.759433
+    }
+  },
+  {
+    "name": "Аптекарский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671928,
+      "latitude": 55.768637
+    }
+  },
+  {
+    "name": "Ильинские Ворота",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632815,
+      "latitude": 55.75738
+    }
+  },
+  {
+    "name": "Площадь Разгуляй",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670418,
+      "latitude": 55.769907
+    }
+  },
+  {
+    "name": "Малый Демидовский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.665626,
+      "latitude": 55.763377
+    }
+  },
+  {
+    "name": "Китай-город",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633565,
+      "latitude": 55.755652
+    }
+  },
+  {
+    "name": "Чкаловская",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.656998,
+      "latitude": 55.756702
+    }
+  },
+  {
+    "name": "Денисовский переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.675049,
+      "latitude": 55.765988
+    }
+  },
+  {
+    "name": "Ольховская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671546,
+      "latitude": 55.775367
+    }
+  },
+  {
+    "name": "Нижняя Красносельская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.672598,
+      "latitude": 55.774627
+    }
+  },
+  {
+    "name": "Электрозаводская",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "station",
+      "railway": "station",
+      "highway": "",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.702993,
+      "latitude": 55.780285
+    }
+  },
+  {
+    "name": "Госпитальная улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696479,
+      "latitude": 55.767217
+    }
+  },
+  {
+    "name": "Учебно-лабораторный корпус МГТУ имени Н.Э. Баумана",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.690701,
+      "latitude": 55.770196
+    }
+  },
+  {
+    "name": "Бакунинская улица, 7",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682265,
+      "latitude": 55.774092
+    }
+  },
+  {
+    "name": "Гольяновская улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.705723,
+      "latitude": 55.776456
+    }
+  },
+  {
+    "name": "Метро «Электрозаводская»",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.702807,
+      "latitude": 55.779799
+    }
+  },
+  {
+    "name": "3-й Сыромятнический переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663783,
+      "latitude": 55.753515
+    }
+  },
+  {
+    "name": "Лефортовская набережная",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682741,
+      "latitude": 55.762698
+    }
+  },
+  {
+    "name": "Рубцовская набережная",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696466,
+      "latitude": 55.775036
+    }
+  },
+  {
+    "name": "Госпитальная набережная",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.693606,
+      "latitude": 55.768873
+    }
+  },
+  {
+    "name": "Басманный двор",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.677746,
+      "latitude": 55.775224
+    }
+  },
+  {
+    "name": "Поликлиника",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.67361,
+      "latitude": 55.777081
+    }
+  },
+  {
+    "name": "Верхняя Сыромятническая улица",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659768,
+      "latitude": 55.754626
+    }
+  },
+  {
+    "name": "4-й Сыромятнический переулок",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671301,
+      "latitude": 55.754745
+    }
+  },
+  {
+    "name": "Набережная Академика Туполева",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.66956,
+      "latitude": 55.757707
+    }
+  },
+  {
+    "name": "Школа на Яузе",
+    "osm_type": "node",
+    "tags": {
+      "public_transport": "platform",
+      "railway": "",
+      "highway": "bus_stop",
+      "amenity": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.69381,
+      "latitude": 55.772706
+    }
+  },
+  {
+    "name": "Гаражный комплекс «Гудок»",
+    "osm_type": "way",
+    "tags": {
+      "public_transport": "",
+      "railway": "",
+      "highway": "",
+      "amenity": "parking"
+    },
+    "address": "Путейский тупик",
+    "coordinates": {
+      "longitude": 37.659769,
+      "latitude": 55.760281
+    }
+  }
+]

@@ -1,0 +1,4496 @@
+[
+  {
+    "name": "Salden's Taphouse",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Мясницкая улица, 32/1 с1",
+    "coordinates": {
+      "longitude": 37.638976,
+      "latitude": 55.765574
+    }
+  },
+  {
+    "name": "IL Патио",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658484,
+      "latitude": 55.757368
+    }
+  },
+  {
+    "name": "Fridays",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658459,
+      "latitude": 55.757494
+    }
+  },
+  {
+    "name": "Каро Фильм",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "cinema",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658887,
+      "latitude": 55.757895
+    }
+  },
+  {
+    "name": "Корчма",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Бакунинская улица, 23/41",
+    "coordinates": {
+      "longitude": 37.68452,
+      "latitude": 55.775509
+    }
+  },
+  {
+    "name": "2007",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Бакунинская улица, 4/6 с1",
+    "coordinates": {
+      "longitude": 37.681322,
+      "latitude": 55.772472
+    }
+  },
+  {
+    "name": "Пилзнер",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644873,
+      "latitude": 55.759335
+    }
+  },
+  {
+    "name": "Милк",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "улица Покровка, 16/16 с1",
+    "coordinates": {
+      "longitude": 37.646257,
+      "latitude": 55.758592
+    }
+  },
+  {
+    "name": "Па-паэлья",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635047,
+      "latitude": 55.762141
+    }
+  },
+  {
+    "name": "Ткемали",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.641161,
+      "latitude": 55.754094
+    }
+  },
+  {
+    "name": "Verdi",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671741,
+      "latitude": 55.76448
+    }
+  },
+  {
+    "name": "Чайхана Павлин-Мавлин",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Бакунинская улица, 71",
+    "coordinates": {
+      "longitude": 37.691984,
+      "latitude": 55.779705
+    }
+  },
+  {
+    "name": "Траттория Semplice",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646019,
+      "latitude": 55.763926
+    }
+  },
+  {
+    "name": "Музей В.В. Маяковского",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.62948,
+      "latitude": 55.759489
+    }
+  },
+  {
+    "name": "ReStart",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671399,
+      "latitude": 55.773765
+    }
+  },
+  {
+    "name": "Цурцум",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "4-й Сыромятнический переулок",
+    "coordinates": {
+      "longitude": 37.664731,
+      "latitude": 55.75574
+    }
+  },
+  {
+    "name": "Якитория",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Спартаковская улица, 25/28",
+    "coordinates": {
+      "longitude": 37.678259,
+      "latitude": 55.773249
+    }
+  },
+  {
+    "name": "Ян Примус",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Спартаковская улица, 25/28",
+    "coordinates": {
+      "longitude": 37.67798,
+      "latitude": 55.773168
+    }
+  },
+  {
+    "name": "Pro.Хинкали",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679335,
+      "latitude": 55.771147
+    }
+  },
+  {
+    "name": "Разгуляй",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.673074,
+      "latitude": 55.772256
+    }
+  },
+  {
+    "name": "Кофемания",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646134,
+      "latitude": 55.759209
+    }
+  },
+  {
+    "name": "Forbest",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645187,
+      "latitude": 55.753007
+    }
+  },
+  {
+    "name": "По Чесноку",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Бакунинская улица, 69 с1",
+    "coordinates": {
+      "longitude": 37.691457,
+      "latitude": 55.779271
+    }
+  },
+  {
+    "name": "Андерсон",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.683161,
+      "latitude": 55.761561
+    }
+  },
+  {
+    "name": "ПивТрест",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64449,
+      "latitude": 55.768219
+    }
+  },
+  {
+    "name": "Chang",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635222,
+      "latitude": 55.762047
+    }
+  },
+  {
+    "name": "Этаж Прojект",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659571,
+      "latitude": 55.756865
+    }
+  },
+  {
+    "name": "Shanti",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645453,
+      "latitude": 55.768302
+    }
+  },
+  {
+    "name": "Пороселло",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634741,
+      "latitude": 55.754557
+    }
+  },
+  {
+    "name": "Китайский летчик Джао Да",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634519,
+      "latitude": 55.754827
+    }
+  },
+  {
+    "name": "Экспромт",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637562,
+      "latitude": 55.753923
+    }
+  },
+  {
+    "name": "Bourbon Street",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632626,
+      "latitude": 55.758698
+    }
+  },
+  {
+    "name": "Сибирячка и Снегирь",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636421,
+      "latitude": 55.754736
+    }
+  },
+  {
+    "name": "Кубдари",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636608,
+      "latitude": 55.754593
+    }
+  },
+  {
+    "name": "Белорусская хата",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643013,
+      "latitude": 55.75912
+    }
+  },
+  {
+    "name": "Andy's Friends",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642421,
+      "latitude": 55.763603
+    }
+  },
+  {
+    "name": "Ю-Мэ",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651686,
+      "latitude": 55.761651
+    }
+  },
+  {
+    "name": "Florentini",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Москва, Старая Басманная улица, 9 с1",
+    "coordinates": {
+      "longitude": 37.657761,
+      "latitude": 55.764832
+    }
+  },
+  {
+    "name": "Saperavi",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640945,
+      "latitude": 55.758795
+    }
+  },
+  {
+    "name": "Крапива",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640772,
+      "latitude": 55.761467
+    }
+  },
+  {
+    "name": "Sculpt",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640214,
+      "latitude": 55.76176
+    }
+  },
+  {
+    "name": "Lumberjack",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635208,
+      "latitude": 55.756315
+    }
+  },
+  {
+    "name": "Светлый",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65074,
+      "latitude": 55.766186
+    }
+  },
+  {
+    "name": "Старый Сычуань",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634665,
+      "latitude": 55.75465
+    }
+  },
+  {
+    "name": "Бардак",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634374,
+      "latitude": 55.757361
+    }
+  },
+  {
+    "name": "Джаганнат",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63411,
+      "latitude": 55.757387
+    }
+  },
+  {
+    "name": "Unlock",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633441,
+      "latitude": 55.75576
+    }
+  },
+  {
+    "name": "Бутчер",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632263,
+      "latitude": 55.756714
+    }
+  },
+  {
+    "name": "Marea",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63213,
+      "latitude": 55.756823
+    }
+  },
+  {
+    "name": "We Cidreria",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632942,
+      "latitude": 55.756247
+    }
+  },
+  {
+    "name": "Музей книги",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640668,
+      "latitude": 55.760429
+    }
+  },
+  {
+    "name": "Хинкальная №1",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657283,
+      "latitude": 55.764553
+    }
+  },
+  {
+    "name": "Brasserie Lambic",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.654012,
+      "latitude": 55.754574
+    }
+  },
+  {
+    "name": "Старик и море",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643918,
+      "latitude": 55.760681
+    }
+  },
+  {
+    "name": "Luciano",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658757,
+      "latitude": 55.757097
+    }
+  },
+  {
+    "name": "Авокадо",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643498,
+      "latitude": 55.761047
+    }
+  },
+  {
+    "name": "Хитрые люди",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.665723,
+      "latitude": 55.755696
+    }
+  },
+  {
+    "name": "Римон",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635082,
+      "latitude": 55.75556
+    }
+  },
+  {
+    "name": "Beer Harbour",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646935,
+      "latitude": 55.759922
+    }
+  },
+  {
+    "name": "Аддис-Абеба",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65671,
+      "latitude": 55.76236
+    }
+  },
+  {
+    "name": "Одесса-мама",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63569,
+      "latitude": 55.761797
+    }
+  },
+  {
+    "name": "Научно-мемориальный музей профессора Н.Е. Жуковского",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679104,
+      "latitude": 55.763582
+    }
+  },
+  {
+    "name": "Хачапури",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635896,
+      "latitude": 55.76168
+    }
+  },
+  {
+    "name": "De Laura",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642199,
+      "latitude": 55.758771
+    }
+  },
+  {
+    "name": "Viva x Adventura",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639125,
+      "latitude": 55.758401
+    }
+  },
+  {
+    "name": "Jimmy Poy",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632532,
+      "latitude": 55.756468
+    }
+  },
+  {
+    "name": "Натахтари",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635069,
+      "latitude": 55.757545
+    }
+  },
+  {
+    "name": "Fassbinder",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.667635,
+      "latitude": 55.752876
+    }
+  },
+  {
+    "name": "Mono Bar",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646423,
+      "latitude": 55.757518
+    }
+  },
+  {
+    "name": "Freya",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65046,
+      "latitude": 55.758897
+    }
+  },
+  {
+    "name": "Булошная",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.652035,
+      "latitude": 55.759611
+    }
+  },
+  {
+    "name": "La Familia",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.690067,
+      "latitude": 55.778395
+    }
+  },
+  {
+    "name": "ExtraVirgin",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645532,
+      "latitude": 55.759425
+    }
+  },
+  {
+    "name": "Музей уникальных кукол",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644509,
+      "latitude": 55.759307
+    }
+  },
+  {
+    "name": "Тануки",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.631654,
+      "latitude": 55.75979
+    }
+  },
+  {
+    "name": "Flør",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646825,
+      "latitude": 55.76054
+    }
+  },
+  {
+    "name": "10 by Ten",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636845,
+      "latitude": 55.757901
+    }
+  },
+  {
+    "name": "Зинзивер",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Покровский бульвар, 2/14",
+    "coordinates": {
+      "longitude": 37.64553,
+      "latitude": 55.758816
+    }
+  },
+  {
+    "name": "Дом-музей В.Л. Пушкина",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "Москва, Старая Басманная улица, 36",
+    "coordinates": {
+      "longitude": 37.668875,
+      "latitude": 55.769016
+    }
+  },
+  {
+    "name": "Beer&Brut",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.649198,
+      "latitude": 55.76007
+    }
+  },
+  {
+    "name": "Генерал Tso",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.678341,
+      "latitude": 55.774371
+    }
+  },
+  {
+    "name": "Музей Императорского православного палестинского общества",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638134,
+      "latitude": 55.755126
+    }
+  },
+  {
+    "name": "Музей Ю.В. Никулина",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633077,
+      "latitude": 55.7578
+    }
+  },
+  {
+    "name": "Музей-квартира А.М. Васнецова",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.648727,
+      "latitude": 55.763796
+    }
+  },
+  {
+    "name": "Kill Fish",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644325,
+      "latitude": 55.758959
+    }
+  },
+  {
+    "name": "ГлавПивМаг",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Пятницкий переулок, 2",
+    "coordinates": {
+      "longitude": 37.646085,
+      "latitude": 55.760844
+    }
+  },
+  {
+    "name": "Fit Fashion",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.681794,
+      "latitude": 55.761013
+    }
+  },
+  {
+    "name": "Лора Крафт",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638942,
+      "latitude": 55.758696
+    }
+  },
+  {
+    "name": "Оджахури",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.655204,
+      "latitude": 55.76433
+    }
+  },
+  {
+    "name": "Дикий",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65904,
+      "latitude": 55.757516
+    }
+  },
+  {
+    "name": "Восточная ночь",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.67947,
+      "latitude": 55.762946
+    }
+  },
+  {
+    "name": "Symposy",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "105064, Москва, Нижний Сусальный переулок, 5 с4",
+    "coordinates": {
+      "longitude": 37.662972,
+      "latitude": 55.759805
+    }
+  },
+  {
+    "name": "Апельсин",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680902,
+      "latitude": 55.762002
+    }
+  },
+  {
+    "name": "Ароматная река",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "набережная Академика Туполева, 15 с2",
+    "coordinates": {
+      "longitude": 37.680375,
+      "latitude": 55.762028
+    }
+  },
+  {
+    "name": "Широкую на Широкую",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636235,
+      "latitude": 55.76151
+    }
+  },
+  {
+    "name": "Beermood",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646466,
+      "latitude": 55.760487
+    }
+  },
+  {
+    "name": "X-Fit Чистые пруды",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "Москва, улица Жуковского, 14 с1",
+    "coordinates": {
+      "longitude": 37.646923,
+      "latitude": 55.762325
+    }
+  },
+  {
+    "name": "Los Bandidos",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632445,
+      "latitude": 55.757276
+    }
+  },
+  {
+    "name": "KillFish",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633444,
+      "latitude": 55.75728
+    }
+  },
+  {
+    "name": "Drunk Punk",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662471,
+      "latitude": 55.76055
+    }
+  },
+  {
+    "name": "Sölna",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635968,
+      "latitude": 55.7612
+    }
+  },
+  {
+    "name": "S-Sport",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.668965,
+      "latitude": 55.761248
+    }
+  },
+  {
+    "name": "Пробка",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635101,
+      "latitude": 55.762306
+    }
+  },
+  {
+    "name": "Хинкальная",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662411,
+      "latitude": 55.760468
+    }
+  },
+  {
+    "name": "Leda",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651083,
+      "latitude": 55.766259
+    }
+  },
+  {
+    "name": "Marion",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642178,
+      "latitude": 55.758671
+    }
+  },
+  {
+    "name": "Парламент",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.693253,
+      "latitude": 55.779758
+    }
+  },
+  {
+    "name": "Бакинский бульвар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.656787,
+      "latitude": 55.760219
+    }
+  },
+  {
+    "name": "Тонус",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663057,
+      "latitude": 55.766585
+    }
+  },
+  {
+    "name": "Пока никто не видит",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645188,
+      "latitude": 55.759844
+    }
+  },
+  {
+    "name": "Mind Body Studio",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64742,
+      "latitude": 55.765293
+    }
+  },
+  {
+    "name": "Sporco",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Большой Спасоглинищевский переулок, 9/1 с10",
+    "coordinates": {
+      "longitude": 37.637111,
+      "latitude": 55.755016
+    }
+  },
+  {
+    "name": "Svet",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642293,
+      "latitude": 55.754513
+    }
+  },
+  {
+    "name": "Officina",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637572,
+      "latitude": 55.754555
+    }
+  },
+  {
+    "name": "Veladora",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640041,
+      "latitude": 55.758247
+    }
+  },
+  {
+    "name": "Barrel",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664698,
+      "latitude": 55.755905
+    }
+  },
+  {
+    "name": "EMS Fit X Body",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639447,
+      "latitude": 55.758856
+    }
+  },
+  {
+    "name": "Punk Fiction",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670962,
+      "latitude": 55.774606
+    }
+  },
+  {
+    "name": "Козловна",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634046,
+      "latitude": 55.761949
+    }
+  },
+  {
+    "name": "Dizengof99",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Покровский бульвар, 8 с1",
+    "coordinates": {
+      "longitude": 37.646741,
+      "latitude": 55.757255
+    }
+  },
+  {
+    "name": "Дежурная",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680431,
+      "latitude": 55.77171
+    }
+  },
+  {
+    "name": "Пекинский сад",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696857,
+      "latitude": 55.780656
+    }
+  },
+  {
+    "name": "Metafora",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635875,
+      "latitude": 55.757594
+    }
+  },
+  {
+    "name": "Megobari",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63639,
+      "latitude": 55.75781
+    }
+  },
+  {
+    "name": "Волковская пивоварня",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.663311,
+      "latitude": 55.759223
+    }
+  },
+  {
+    "name": "Vinoqoor",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.681751,
+      "latitude": 55.773337
+    }
+  },
+  {
+    "name": "Bambule",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637751,
+      "latitude": 55.754406
+    }
+  },
+  {
+    "name": "Pizza22cm",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Москва, улица Солянка, 1/2",
+    "coordinates": {
+      "longitude": 37.638121,
+      "latitude": 55.754551
+    }
+  },
+  {
+    "name": "Крым",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.653849,
+      "latitude": 55.762858
+    }
+  },
+  {
+    "name": "Ketch Up",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644307,
+      "latitude": 55.759052
+    }
+  },
+  {
+    "name": "Fit-n-Go",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.655608,
+      "latitude": 55.756102
+    }
+  },
+  {
+    "name": "Bigati",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657493,
+      "latitude": 55.76371
+    }
+  },
+  {
+    "name": "Дело не в вине",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636325,
+      "latitude": 55.757979
+    }
+  },
+  {
+    "name": "Activum Style",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636903,
+      "latitude": 55.762873
+    }
+  },
+  {
+    "name": "Во сколько начинается аперитив?",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636096,
+      "latitude": 55.761526
+    }
+  },
+  {
+    "name": "Barre Addict",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637521,
+      "latitude": 55.762073
+    }
+  },
+  {
+    "name": "Свобода",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637452,
+      "latitude": 55.762524
+    }
+  },
+  {
+    "name": "Wine Door",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635322,
+      "latitude": 55.7626
+    }
+  },
+  {
+    "name": "Хачапури и вино",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.647399,
+      "latitude": 55.759693
+    }
+  },
+  {
+    "name": "Old Town",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.676975,
+      "latitude": 55.765805
+    }
+  },
+  {
+    "name": "Эрмитаж",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.650081,
+      "latitude": 55.754517
+    }
+  },
+  {
+    "name": "Вареничная №1",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63533,
+      "latitude": 55.762956
+    }
+  },
+  {
+    "name": "Колбаса",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637181,
+      "latitude": 55.7544
+    }
+  },
+  {
+    "name": "Пергамент",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "105120",
+    "coordinates": {
+      "longitude": 37.67118,
+      "latitude": 55.753151
+    }
+  },
+  {
+    "name": "Рюмочная мечты",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637245,
+      "latitude": 55.754952
+    }
+  },
+  {
+    "name": "Blanc",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643158,
+      "latitude": 55.755955
+    }
+  },
+  {
+    "name": "Beer Happens Junior",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634706,
+      "latitude": 55.754601
+    }
+  },
+  {
+    "name": "Рюмка",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639764,
+      "latitude": 55.765245
+    }
+  },
+  {
+    "name": "Michelada",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634182,
+      "latitude": 55.757264
+    }
+  },
+  {
+    "name": "Сосна и Липа",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636905,
+      "latitude": 55.763157
+    }
+  },
+  {
+    "name": "Bebo",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637401,
+      "latitude": 55.754054
+    }
+  },
+  {
+    "name": "Кебар нон-стоп",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639621,
+      "latitude": 55.765304
+    }
+  },
+  {
+    "name": "Дом, В Котором",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "101000, Москва, улица Покровка, 14/2 с3",
+    "coordinates": {
+      "longitude": 37.645377,
+      "latitude": 55.758571
+    }
+  },
+  {
+    "name": "351",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679845,
+      "latitude": 55.771501
+    }
+  },
+  {
+    "name": "Midsummer",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645521,
+      "latitude": 55.768372
+    }
+  },
+  {
+    "name": "Izumi",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64006,
+      "latitude": 55.766225
+    }
+  },
+  {
+    "name": "I Like Wine",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64585,
+      "latitude": 55.759231
+    }
+  },
+  {
+    "name": "Музей Златоустовского монастыря",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63411,
+      "latitude": 55.759046
+    }
+  },
+  {
+    "name": "Испанский стыд",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636019,
+      "latitude": 55.76155
+    }
+  },
+  {
+    "name": "Ля Ше'вре",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671741,
+      "latitude": 55.775789
+    }
+  },
+  {
+    "name": "Хаос",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.649481,
+      "latitude": 55.760204
+    }
+  },
+  {
+    "name": "La veranda",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64526,
+      "latitude": 55.768065
+    }
+  },
+  {
+    "name": "Слоны и мамонты",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636357,
+      "latitude": 55.758223
+    }
+  },
+  {
+    "name": "World Class",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658261,
+      "latitude": 55.76184
+    }
+  },
+  {
+    "name": "Bad Crown",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637344,
+      "latitude": 55.754466
+    }
+  },
+  {
+    "name": "Вова's бар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63692,
+      "latitude": 55.75746
+    }
+  },
+  {
+    "name": "Сюр",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642802,
+      "latitude": 55.754739
+    }
+  },
+  {
+    "name": "Coperto",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.648935,
+      "latitude": 55.75609
+    }
+  },
+  {
+    "name": "Айва",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640521,
+      "latitude": 55.758711
+    }
+  },
+  {
+    "name": "Зич",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635704,
+      "latitude": 55.762851
+    }
+  },
+  {
+    "name": "Artdynamics",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664276,
+      "latitude": 55.760676
+    }
+  },
+  {
+    "name": "Музей эмоций",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664606,
+      "latitude": 55.759026
+    }
+  },
+  {
+    "name": "Белов",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633419,
+      "latitude": 55.757984
+    }
+  },
+  {
+    "name": "Maple",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.673533,
+      "latitude": 55.774501
+    }
+  },
+  {
+    "name": "Суши GOOD",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679108,
+      "latitude": 55.769537
+    }
+  },
+  {
+    "name": "Джонджоли",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Москва, улица Маросейка, 4/2 с1",
+    "coordinates": {
+      "longitude": 37.633383,
+      "latitude": 55.757415
+    }
+  },
+  {
+    "name": "Masseter",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671872,
+      "latitude": 55.775691
+    }
+  },
+  {
+    "name": "Osteria Mario",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658102,
+      "latitude": 55.761326
+    }
+  },
+  {
+    "name": "15й шар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.660873,
+      "latitude": 55.762423
+    }
+  },
+  {
+    "name": "UFC GYM Атриум",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659249,
+      "latitude": 55.757888
+    }
+  },
+  {
+    "name": "Настоишная",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633576,
+      "latitude": 55.755649
+    }
+  },
+  {
+    "name": "Харизма Friends Hall",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.685666,
+      "latitude": 55.775393
+    }
+  },
+  {
+    "name": "Войти и разрешить",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.689473,
+      "latitude": 55.778919
+    }
+  },
+  {
+    "name": "Йорик убил Хамлета",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645733,
+      "latitude": 55.758981
+    }
+  },
+  {
+    "name": "Vasilchuki Chaihona №1",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658759,
+      "latitude": 55.756974
+    }
+  },
+  {
+    "name": "Земля, прощай!",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63699,
+      "latitude": 55.757932
+    }
+  },
+  {
+    "name": "Flâner",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63653,
+      "latitude": 55.76242
+    }
+  },
+  {
+    "name": "Ministry",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670635,
+      "latitude": 55.770497
+    }
+  },
+  {
+    "name": "MadWineBar",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635791,
+      "latitude": 55.762475
+    }
+  },
+  {
+    "name": "69 pints",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645217,
+      "latitude": 55.759804
+    }
+  },
+  {
+    "name": "Клуб",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646104,
+      "latitude": 55.757651
+    }
+  },
+  {
+    "name": "Практика",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64239,
+      "latitude": 55.762202
+    }
+  },
+  {
+    "name": "Jin Studio",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696849,
+      "latitude": 55.780693
+    }
+  },
+  {
+    "name": "Munterra",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651451,
+      "latitude": 55.766595
+    }
+  },
+  {
+    "name": "Верасы",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637626,
+      "latitude": 55.758814
+    }
+  },
+  {
+    "name": "Caffé Mandy’s",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646652,
+      "latitude": 55.759911
+    }
+  },
+  {
+    "name": "Hedonist",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64654,
+      "latitude": 55.757444
+    }
+  },
+  {
+    "name": "Tsingtao",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.679775,
+      "latitude": 55.77639
+    }
+  },
+  {
+    "name": "Temple Bar",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664008,
+      "latitude": 55.760154
+    }
+  },
+  {
+    "name": "Чайхона на Бауманской",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Москва, улица Фридриха Энгельса, 20 с1",
+    "coordinates": {
+      "longitude": 37.683292,
+      "latitude": 55.772511
+    }
+  },
+  {
+    "name": "Моряк и чайка",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63401,
+      "latitude": 55.75749
+    }
+  },
+  {
+    "name": "Мастерская вкуса",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636508,
+      "latitude": 55.757832
+    }
+  },
+  {
+    "name": "Mesto 20/1",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "улица Покровка, 20/1",
+    "coordinates": {
+      "longitude": 37.647271,
+      "latitude": 55.758329
+    }
+  },
+  {
+    "name": "Age",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.677389,
+      "latitude": 55.776417
+    }
+  },
+  {
+    "name": "Zionist",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639204,
+      "latitude": 55.757774
+    }
+  },
+  {
+    "name": "Études",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.651477,
+      "latitude": 55.761498
+    }
+  },
+  {
+    "name": "Музей Императора Николая II",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670716,
+      "latitude": 55.765556
+    }
+  },
+  {
+    "name": "Really",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634157,
+      "latitude": 55.758562
+    }
+  },
+  {
+    "name": "Слёзы Берёзы",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Бауманская улица, 15",
+    "coordinates": {
+      "longitude": 37.677761,
+      "latitude": 55.775639
+    }
+  },
+  {
+    "name": "Сансар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.678165,
+      "latitude": 55.776008
+    }
+  },
+  {
+    "name": "Alpaca",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.641441,
+      "latitude": 55.759395
+    }
+  },
+  {
+    "name": "Кривоколенный 9с3",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637818,
+      "latitude": 55.762913
+    }
+  },
+  {
+    "name": "Музей спорта",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.669568,
+      "latitude": 55.762968
+    }
+  },
+  {
+    "name": "Ясно",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642992,
+      "latitude": 55.754731
+    }
+  },
+  {
+    "name": "Hop Gun",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634679,
+      "latitude": 55.75694
+    }
+  },
+  {
+    "name": "Азбука бар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.673054,
+      "latitude": 55.774823
+    }
+  },
+  {
+    "name": "Адамак",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.671543,
+      "latitude": 55.769121
+    }
+  },
+  {
+    "name": "(без названия)",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "cinema",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65918,
+      "latitude": 55.768793
+    }
+  },
+  {
+    "name": "Silеncio",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638282,
+      "latitude": 55.753978
+    }
+  },
+  {
+    "name": "Пестики-тычинки",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Большой Спасоглинищевский переулок, 3 с5",
+    "coordinates": {
+      "longitude": 37.635242,
+      "latitude": 55.756433
+    }
+  },
+  {
+    "name": "Botafogo",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63794,
+      "latitude": 55.75444
+    }
+  },
+  {
+    "name": "Радио",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.683237,
+      "latitude": 55.763982
+    }
+  },
+  {
+    "name": "Горнист",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.641636,
+      "latitude": 55.753923
+    }
+  },
+  {
+    "name": "Il Letterato",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636863,
+      "latitude": 55.756435
+    }
+  },
+  {
+    "name": "РОСИЗО",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636648,
+      "latitude": 55.756723
+    }
+  },
+  {
+    "name": "Fish Культура",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.647147,
+      "latitude": 55.759655
+    }
+  },
+  {
+    "name": "Beer&Art",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638342,
+      "latitude": 55.753726
+    }
+  },
+  {
+    "name": "Тайная комната",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638025,
+      "latitude": 55.754434
+    }
+  },
+  {
+    "name": "Chow-Chow",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637841,
+      "latitude": 55.754666
+    }
+  },
+  {
+    "name": "Oblivion",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.683804,
+      "latitude": 55.77548
+    }
+  },
+  {
+    "name": "Post pub",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.698878,
+      "latitude": 55.779669
+    }
+  },
+  {
+    "name": "Золотой дракон",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662757,
+      "latitude": 55.761664
+    }
+  },
+  {
+    "name": "Мунк",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.665904,
+      "latitude": 55.754864
+    }
+  },
+  {
+    "name": "Невинные сплетни",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.676969,
+      "latitude": 55.776016
+    }
+  },
+  {
+    "name": "Tehnikum",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658791,
+      "latitude": 55.75779
+    }
+  },
+  {
+    "name": "Винфак",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "Москва, Большой Трёхсвятительский переулок, 2 c1",
+    "coordinates": {
+      "longitude": 37.645396,
+      "latitude": 55.75507
+    }
+  },
+  {
+    "name": "Origami",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645488,
+      "latitude": 55.754721
+    }
+  },
+  {
+    "name": "Музей рециклинга и экологичного образа жизни",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640338,
+      "latitude": 55.761847
+    }
+  },
+  {
+    "name": "Лахесис",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646935,
+      "latitude": 55.760137
+    }
+  },
+  {
+    "name": "Станция Маросейка",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.636607,
+      "latitude": 55.757491
+    }
+  },
+  {
+    "name": "Escapist",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645335,
+      "latitude": 55.754687
+    }
+  },
+  {
+    "name": "Бистро de Torino",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632059,
+      "latitude": 55.76081
+    }
+  },
+  {
+    "name": "8 шаров",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642963,
+      "latitude": 55.754792
+    }
+  },
+  {
+    "name": "Muchachos",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.683596,
+      "latitude": 55.763718
+    }
+  },
+  {
+    "name": "Довлатов",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.656078,
+      "latitude": 55.763568
+    }
+  },
+  {
+    "name": "Ginstitute",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637802,
+      "latitude": 55.754317
+    }
+  },
+  {
+    "name": "Дом 16",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646336,
+      "latitude": 55.7532
+    }
+  },
+  {
+    "name": "Tabi",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.637969,
+      "latitude": 55.754385
+    }
+  },
+  {
+    "name": "Avgust",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.676765,
+      "latitude": 55.776536
+    }
+  },
+  {
+    "name": "Было - не было",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634796,
+      "latitude": 55.758072
+    }
+  },
+  {
+    "name": "Sreda",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.684106,
+      "latitude": 55.771633
+    }
+  },
+  {
+    "name": "Клюква бар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.67545,
+      "latitude": 55.772317
+    }
+  },
+  {
+    "name": "Osteria by Mandy's",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642242,
+      "latitude": 55.761596
+    }
+  },
+  {
+    "name": "Коза",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.629429,
+      "latitude": 55.758795
+    }
+  },
+  {
+    "name": "Оптимисты",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.696789,
+      "latitude": 55.781884
+    }
+  },
+  {
+    "name": "If",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64531,
+      "latitude": 55.754768
+    }
+  },
+  {
+    "name": "Мотыга Йети",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670462,
+      "latitude": 55.774419
+    }
+  },
+  {
+    "name": "Модники",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63483,
+      "latitude": 55.757844
+    }
+  },
+  {
+    "name": "Репей",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644407,
+      "latitude": 55.75502
+    }
+  },
+  {
+    "name": "Сама невинность",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.6472,
+      "latitude": 55.768339
+    }
+  },
+  {
+    "name": "Вах вах!",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "улица Покровка, 20/1",
+    "coordinates": {
+      "longitude": 37.647329,
+      "latitude": 55.758187
+    }
+  },
+  {
+    "name": "Уе!бар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633975,
+      "latitude": 55.757455
+    }
+  },
+  {
+    "name": "Авантюрист",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.684192,
+      "latitude": 55.763931
+    }
+  },
+  {
+    "name": "Laowai",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64293,
+      "latitude": 55.755013
+    }
+  },
+  {
+    "name": "Life pub",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.682899,
+      "latitude": 55.772305
+    }
+  },
+  {
+    "name": "Lady Stretch",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.701231,
+      "latitude": 55.778986
+    }
+  },
+  {
+    "name": "Grafa",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.635048,
+      "latitude": 55.756096
+    }
+  },
+  {
+    "name": "Edoko",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.65844,
+      "latitude": 55.757573
+    }
+  },
+  {
+    "name": "Zafferano",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659705,
+      "latitude": 55.756751
+    }
+  },
+  {
+    "name": "P4",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640441,
+      "latitude": 55.758466
+    }
+  },
+  {
+    "name": "Парфюм",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.646076,
+      "latitude": 55.758604
+    }
+  },
+  {
+    "name": "Хиросима, моя любовь",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680047,
+      "latitude": 55.776489
+    }
+  },
+  {
+    "name": "Подкоп",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64167,
+      "latitude": 55.753652
+    }
+  },
+  {
+    "name": "Mates",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643305,
+      "latitude": 55.758777
+    }
+  },
+  {
+    "name": "Торро Гриль",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658518,
+      "latitude": 55.75787
+    }
+  },
+  {
+    "name": "Hanky 3/7",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.640216,
+      "latitude": 55.758787
+    }
+  },
+  {
+    "name": "Tre Santi",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645465,
+      "latitude": 55.755079
+    }
+  },
+  {
+    "name": "PennaCraft",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.689051,
+      "latitude": 55.780939
+    }
+  },
+  {
+    "name": "Nouge",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64358,
+      "latitude": 55.758978
+    }
+  },
+  {
+    "name": "The Line",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.6338,
+      "latitude": 55.757221
+    }
+  },
+  {
+    "name": "Белая Стрекоза",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63633,
+      "latitude": 55.75787
+    }
+  },
+  {
+    "name": "Сон Красной Панды",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.633966,
+      "latitude": 55.757919
+    }
+  },
+  {
+    "name": "Shulman Kitchen",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.644826,
+      "latitude": 55.755073
+    }
+  },
+  {
+    "name": "Настенька",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.634776,
+      "latitude": 55.754517
+    }
+  },
+  {
+    "name": "Мясницкий ряд",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.645725,
+      "latitude": 55.768172
+    }
+  },
+  {
+    "name": "The Бык",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658627,
+      "latitude": 55.757392
+    }
+  },
+  {
+    "name": "Жёлтый дом",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.667205,
+      "latitude": 55.754243
+    }
+  },
+  {
+    "name": "Pims",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.662227,
+      "latitude": 55.760378
+    }
+  },
+  {
+    "name": "Nomo",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659415,
+      "latitude": 55.761809
+    }
+  },
+  {
+    "name": "Japmen",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659273,
+      "latitude": 55.762156
+    }
+  },
+  {
+    "name": ".оригинал",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659094,
+      "latitude": 55.762721
+    }
+  },
+  {
+    "name": "Коктейльный спортбар",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657489,
+      "latitude": 55.762646
+    }
+  },
+  {
+    "name": "Пиzzа",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.667858,
+      "latitude": 55.753179
+    }
+  },
+  {
+    "name": "just fit",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "fitness_centre",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.664215,
+      "latitude": 55.759927
+    }
+  },
+  {
+    "name": "Brunnen",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659643,
+      "latitude": 55.761587
+    }
+  },
+  {
+    "name": "Ночные ведьмы",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639029,
+      "latitude": 55.75843
+    }
+  },
+  {
+    "name": "Neighborhood",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632205,
+      "latitude": 55.760616
+    }
+  },
+  {
+    "name": "Fitz",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.632276,
+      "latitude": 55.760781
+    }
+  },
+  {
+    "name": "Штейгер",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638621,
+      "latitude": 55.761986
+    }
+  },
+  {
+    "name": "Неон",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "bar",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.669781,
+      "latitude": 55.769205
+    }
+  },
+  {
+    "name": "Carniceria Vino",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638605,
+      "latitude": 55.754196
+    }
+  },
+  {
+    "name": "Вино & Хинкали",
+    "osm_type": "node",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.658456,
+      "latitude": 55.758093
+    }
+  },
+  {
+    "name": "Дом-музей Матвея Муравьева-Апостола",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "Старая Басманная улица, 23/9 с1",
+    "coordinates": {
+      "longitude": 37.664623,
+      "latitude": 55.76727
+    }
+  },
+  {
+    "name": "Чкаловский сквер",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.657254,
+      "latitude": 55.763481
+    }
+  },
+  {
+    "name": "Огни Москвы",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "",
+      "amenity": "",
+      "tourism": "museum"
+    },
+    "address": "Армянский переулок, 3",
+    "coordinates": {
+      "longitude": 37.635479,
+      "latitude": 55.760858
+    }
+  },
+  {
+    "name": "Сквер у Красных Ворот",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.649169,
+      "latitude": 55.768087
+    }
+  },
+  {
+    "name": "Сквер Генерала армии А.В.Хрулёва",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.648278,
+      "latitude": 55.765722
+    }
+  },
+  {
+    "name": "Сквер имени А.Н. Туполева",
+    "osm_type": "way",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.680919,
+      "latitude": 55.760056
+    }
+  },
+  {
+    "name": "Сад им. Н. Э. Баумана",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659655,
+      "latitude": 55.767567
+    }
+  },
+  {
+    "name": "Верхний Сыромятнический сквер",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.659604,
+      "latitude": 55.755092
+    }
+  },
+  {
+    "name": "Морозовский сад",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.643889,
+      "latitude": 55.755548
+    }
+  },
+  {
+    "name": "Сквер Полководцев",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.639072,
+      "latitude": 55.762242
+    }
+  },
+  {
+    "name": "Парк \"Горка\"",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.63606,
+      "latitude": 55.755937
+    }
+  },
+  {
+    "name": "Сквер Мандельштама",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.638928,
+      "latitude": 55.755133
+    }
+  },
+  {
+    "name": "Милютинский парк",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.64694,
+      "latitude": 55.756283
+    }
+  },
+  {
+    "name": "Ласточкино гнездо",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.654894,
+      "latitude": 55.762956
+    }
+  },
+  {
+    "name": "Сквер «Огородная слобода»",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642746,
+      "latitude": 55.764912
+    }
+  },
+  {
+    "name": "Шатёр",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "",
+      "amenity": "restaurant",
+      "tourism": ""
+    },
+    "address": "Чистопрудный бульвар, 12А",
+    "coordinates": {
+      "longitude": 37.644659,
+      "latitude": 55.760741
+    }
+  },
+  {
+    "name": "Малютинский сквер",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.670294,
+      "latitude": 55.772843
+    }
+  },
+  {
+    "name": "Елоховский сквер",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.672906,
+      "latitude": 55.771766
+    }
+  },
+  {
+    "name": "Даниловская аллейка",
+    "osm_type": "relation",
+    "tags": {
+      "leisure": "park",
+      "amenity": "",
+      "tourism": ""
+    },
+    "address": "",
+    "coordinates": {
+      "longitude": 37.642412,
+      "latitude": 55.756895
+    }
+  }
+]
