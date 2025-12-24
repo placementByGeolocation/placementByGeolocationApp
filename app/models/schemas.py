@@ -67,3 +67,28 @@ class HistoryRecord(BaseModel):
     output_data: Dict[str, Any]
     created_at: datetime
     status_code: int
+
+class HistoryResponse(BaseModel):
+    """Схема для ответа /history"""
+    id: int
+    endpoint: str
+    method: str
+    status_code: int
+    input_data: Dict[str, Any]
+    output_data: Optional[Dict[str, Any]]
+    error_message: Optional[str]
+    processing_time_ms: Optional[float]
+    created_at: datetime
+    
+    class Config:
+        from_attributes = True  # Для совместимости с SQLAlchemy
+        json_encoders = {
+            datetime: lambda v: v.isoformat()
+        }
+
+class HistoryListResponse(BaseModel):
+    """Схема для списка истории"""
+    count: int
+    total_pages: int
+    current_page: int
+    results: List[HistoryResponse]

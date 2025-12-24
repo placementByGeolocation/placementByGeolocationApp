@@ -5,7 +5,7 @@ import uvicorn
 
 from app.core.config import settings
 from app.core.database import Base, engine
-from app.api import routes
+from app.api import router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -36,7 +36,7 @@ app.add_middleware(
 )
 
 # Подключаем роутеры
-app.include_router(routes, prefix="/api/v1")
+app.include_router(router, prefix="/api/v1")
 
 @app.get("/")
 async def root():
