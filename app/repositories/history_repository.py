@@ -31,7 +31,6 @@ class HistoryRepository:
         if status_code:
             query = query.filter(RequestHistory.status_code == status_code)
         
-        # Получаем общее количество
         total_count = query.count()
         
         # Применяем сортировку и пагинацию
@@ -42,20 +41,3 @@ class HistoryRepository:
         
         return records, total_count
     
-    def get_by_id(self, record_id: int) -> Optional[RequestHistory]:
-        """Получение записи по ID"""
-        return self.db.query(RequestHistory)\
-            .filter(RequestHistory.id == record_id)\
-            .first()
-    
-    def delete_old_records(self, days_old: int = 30) -> int:
-        """Удаление старых записей (для cleanup)"""
-        from datetime import datetime, timedelta
-        cutoff_date = datetime.utcnow() - timedelta(days=days_old)
-        
-        deleted_count = self.db.query(RequestHistory)\
-            .filter(RequestHistory.created_at < cutoff_date)\
-            .delete()
-        
-        self.db.commit()
-        return deleted_count

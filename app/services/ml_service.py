@@ -1,5 +1,5 @@
 from app.ml.model_loader import MLModel
-from typing import Dict, Any, List, Tuple
+from typing import Dict, Any, List, Optional
 from datetime import datetime
 import numpy as np
 
@@ -9,8 +9,7 @@ class MLService:
     
     async def process_request(
         self, 
-        features: List[float], 
-        headers: Dict[str, str]
+        features: List[float]
     ) -> Dict[str, Any]:
         """Обработка запроса для /forward"""
         try:
@@ -21,21 +20,13 @@ class MLService:
             result = {
                 "success": True,
                 "prediction": float(prediction) if isinstance(prediction, (np.integer, np.floating)) else str(prediction),
-                "model_version": "1.0.0",
-                "model_type": self.ml_model.model_info["model_type"],
-                "timestamp": datetime.utcnow().isoformat(),
-                "features_used": self.ml_model.model_info["features"],
-                "features_count": len(features)
+                "timestamp": datetime.now().isoformat(),
             }
             
             # Добавляем вероятности если есть
             if probabilities is not None:
                 result["probabilities"] = probabilities.tolist() if hasattr(probabilities, 'tolist') else probabilities
                 result["confidence"] = float(np.max(probabilities))
-            
-            # Обрабатываем заголовки если нужно
-            if "X-Model-Version" in headers:
-                result["requested_version"] = headers["X-Model-Version"]
             
             return result
             
@@ -50,11 +41,64 @@ class MLService:
             
             # Определяем тип ошибки для правильного HTTP-кода
             if any(keyword in str(e).lower() for keyword in [
-                'failed', 'error', 'invalid', 'validation'
+                'failed', 'error', 'invalid', 'validation', 'модель'
             ]):
                 raise Exception("Модель не смогла обработать данные")
             raise Exception(error_msg)
     
-    def get_model_info(self) -> Dict[str, Any]:
-        """Информация о загруженной модели"""
-        return self.ml_model.get_model_info()
+    # TODO: фигня фигней, надо сделать нормальную обработку данных
+    def process_geolocation_request(
+        self,
+        lat: float,
+        lon: float,
+        establishment_type: str = "restaurant",
+        cuisine: str = "international",
+        brand: Optional[str] = None,
+        **kwargs
+    ) -> List[float]:
+        """
+        Преобразует геолокацию и параметры в 313 признаков
+        """
+        # Создаем список из 313 нулей
+        features = [0.0] * len(self.ml_model.feature_names)
+        
+        # Находим индексы нужных признаков
+        feature_names = self.ml_model.feature_names
+        
+        # Устанавливаем координаты
+        if 'lat' in feature_names:
+            idx = feature_names.index('lat')
+            features[idx] = float(lat)
+        
+        if 'lon' in feature_names:
+            idx = feature_names.index('lon')
+            features[idx] = float(lon)
+        
+        # Устанавливаем тип заведения
+        type_feature = f"type_{establishment_type.lower().replace(' ', '_')}"
+        if type_feature in feature_names:
+            idx = feature_names.index(type_feature)
+            features[idx] = 1.0
+        
+        # Устанавливаем кухню
+        cuisine_feature = f"cuisine_{cuisine.lower().replace(' ', '_')}"
+        if cuisine_feature in feature_names:
+            idx = feature_names.index(cuisine_feature)
+            features[idx] = 1.0
+        
+        # Устанавливаем бренд
+        if brand and 'brand' in feature_names:
+            idx = feature_names.index('brand')
+            features[idx] = 1.0
+        
+        # Обрабатываем дополнительные параметры
+        for key, value in kwargs.items():
+            if key in feature_names:
+                try:
+                    idx = feature_names.index(key)
+                    features[idx] = float(value)
+                except (ValueError, TypeError):
+                    features[idx] = 1.0 if value else 0.0
+        
+        return features
+    

@@ -12,10 +12,6 @@ class Settings(BaseSettings):
     # Database
     DATABASE_URL: str = f"sqlite:///{BASE_DIR}/ml_service.db"
     
-    # ML
-    ML_MODEL_PATH: str = f"{BASE_DIR}/app/ml/artifacts/model.pkl"
-    MODEL_VERSION: str = "1.0.0"
-    
     class Config:
         env_file = ".env"
 

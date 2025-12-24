@@ -1,38 +1,33 @@
-from pydantic import BaseModel, Field, validator
+import json
+from pydantic import BaseModel, Field, field_validator
 from typing import List, Optional, Dict, Any, Union
 from datetime import datetime
 
-class PredictionRequest(BaseModel):
-    """Схема для входных данных /forward"""
-    features: List[float] = Field(
-        ...,
-        description="Список признаков для модели",
-        example=[5.1, 3.5, 1.4, 0.2],
-        min_items=1
+class GeolocationRequest(BaseModel):
+    """Схема для входных данных с геолокацией"""
+    lat: float = Field(..., description="Широта", example=55.7558)
+    lon: float = Field(..., description="Долгота", example=37.6176)
+    establishment_type: Optional[str] = Field(
+        "restaurant", 
+        description="Тип заведения (например, 'restaurant', 'cafe')"
     )
-    
-    @validator('features')
-    def validate_features(cls, v):
-        if not v:
-            raise ValueError("Features list cannot be empty")
-        if any(not isinstance(x, (int, float)) for x in v):
-            raise ValueError("All features must be numbers")
-        return v
+    cuisine: Optional[str] = Field(
+        "international",
+        description="Тип кухни (например, 'italian', 'japanese;sushi')"
+    )
+    brand: Optional[str] = Field(None, description="Бренд заведения")
+    additional_params: Optional[Dict[str, Any]] = Field(
+        None,
+        description="Дополнительные параметры"
+    )
 
 class PredictionResponse(BaseModel):
     """Схема для ответа /forward"""
     success: bool
     prediction: Any
-    model_version: str
-    model_type: str
-    features_used: List[str]
-    features_count: int
     timestamp: datetime
-    request_id: Optional[int] = None
     processing_time_ms: Optional[float] = None
-    probabilities: Optional[List[float]] = None
-    confidence: Optional[float] = None
-    requested_version: Optional[str] = None
+    input_metadata: Optional[Dict[str, Any]] = None
     
     class Config:
         json_encoders = {
@@ -51,37 +46,30 @@ class ErrorResponse(BaseModel):
             datetime: lambda v: v.isoformat()
         }
 
-class ModelInfoResponse(BaseModel):
-    """Схема для информации о модели"""
-    model_type: str
-    n_features: int
-    features: List[str]
-    has_scaler: bool
-    version: str = "1.0.0"
-
-class HistoryRecord(BaseModel):
-    """Схема для записи истории"""
-    id: int
-    endpoint: str
-    input_data: Dict[str, Any]
-    output_data: Dict[str, Any]
-    created_at: datetime
-    status_code: int
-
 class HistoryResponse(BaseModel):
     """Схема для ответа /history"""
     id: int
     endpoint: str
     method: str
     status_code: int
-    input_data: Dict[str, Any]
-    output_data: Optional[Dict[str, Any]]
+    input_data: Union[Dict[str, Any], List[Any]]  # Может быть и словарем и списком
+    output_data: Optional[Union[Dict[str, Any], List[Any]]]
     error_message: Optional[str]
     processing_time_ms: Optional[float]
     created_at: datetime
     
+    @field_validator('input_data', 'output_data')
+    def validate_data(cls, v):
+        """Валидируем данные, преобразуя строки JSON в объекты"""
+        if isinstance(v, str):
+            try:
+                return json.loads(v)
+            except json.JSONDecodeError:
+                return v
+        return v
+    
     class Config:
-        from_attributes = True  # Для совместимости с SQLAlchemy
+        from_attributes = True
         json_encoders = {
             datetime: lambda v: v.isoformat()
         }
@@ -92,3 +80,20 @@ class HistoryListResponse(BaseModel):
     total_pages: int
     current_page: int
     results: List[HistoryResponse]
+
+class StatsResponse(BaseModel):
+    """Схема для ответа /stats"""
+    success: bool
+    timestamp: datetime
+    filters_applied: Dict[str, Any]
+    processing_time_stats: Optional[Dict[str, Any]] = None
+    input_size_stats: Optional[Dict[str, Any]] = None
+    input_field_stats: Optional[Dict[str, Any]] = None
+    status_codes_distribution: Dict[int, int]
+    parameter_distribution: Dict[str, Any]
+    request_statistics: Dict[str, Any]
+    
+    class Config:
+        json_encoders = {
+            datetime: lambda v: v.isoformat()
+        }

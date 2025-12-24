@@ -1,8 +1,10 @@
 from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlalchemy.orm import Session
 from typing import List, Optional
+import json
 
 from app.core.database import get_db
+from app.models.domain import RequestHistory
 from app.services.history_service import HistoryService
 from app.models.schemas import HistoryListResponse, HistoryResponse
 
@@ -19,14 +21,7 @@ async def get_history(
     endpoint: Optional[str] = Query(None, description="Фильтр по эндпоинту"),
     status_code: Optional[int] = Query(None, description="Фильтр по статусу")
 ):
-    """
-    Получение истории всех запросов
-    
-    - **limit**: ограничение количества записей (макс. 1000)
-    - **offset**: смещение для пагинации
-    - **endpoint**: фильтрация по конкретному эндпоинту
-    - **status_code**: фильтрация по коду ответа
-    """
+    """Получение истории всех запросов"""
     history_service = HistoryService(db)
     
     # Получаем записи с фильтрацией
@@ -37,15 +32,35 @@ async def get_history(
         status_code=status_code
     )
     
-    # Вычисляем общее количество страниц
     total_pages = (total_count + limit - 1) // limit if limit > 0 else 1
     current_page = (offset // limit) + 1 if limit > 0 else 1
     
-    # Преобразуем SQLAlchemy объекты в Pydantic модели
-    history_results = [
-        HistoryResponse.model_validate(record)
-        for record in records
-    ]
+    # Преобразуем SQLAlchemy объекты с обработкой JSON
+    history_results = []
+    for record in records:
+        # Парсим JSON строки в объекты
+        input_data = record.input_data
+        output_data = record.output_data
+
+        if isinstance(input_data, str):
+            input_data = json.loads(input_data)
+        
+        if isinstance(output_data, str):
+            output_data = json.loads(output_data)
+        
+        history_result = {
+            "id": record.id,
+            "endpoint": record.endpoint,
+            "method": record.method,
+            "status_code": record.status_code,
+            "input_data": input_data,
+            "output_data": output_data,
+            "error_message": record.error_message,
+            "processing_time_ms": record.processing_time_ms,
+            "created_at": record.created_at
+        }
+        
+        history_results.append(HistoryResponse(**history_result))
     
     return HistoryListResponse(
         count=len(records),
@@ -54,21 +69,20 @@ async def get_history(
         results=history_results
     )
 
-@router.get(
-    "/{record_id}",
-    response_model=HistoryResponse
-)
-async def get_history_record(
-    record_id: int,
-    db: Session = Depends(get_db)
-):
-    """
-    Получение конкретной записи из истории по ID
-    """
-    history_service = HistoryService(db)
-    
-    record = history_service.get_record_by_id(record_id)
-    if not record:
-        raise HTTPException(status_code=404, detail="Record not found")
-    
-    return HistoryResponse.model_validate(record)
+# TODO: я это добавила потому что надо было почистить себе бд, надо добавить сюда какой-то там токен
+# из задания, чтоб получить доп баллы
+@router.delete("/", status_code=200)
+async def clear_history(db: Session = Depends(get_db)):
+    """Очистка всей истории запросов"""
+    try:
+        deleted_count = db.query(RequestHistory).delete()
+        
+        db.commit()
+        return {
+            "success": True,
+            "message": f"Данные успешно очищены",
+            "deleted_records": deleted_count
+        }
+    except Exception as e:
+        db.rollback()
+        raise HTTPException(status_code=500, detail=f"Ошибка очистки данных: {str(e)}")

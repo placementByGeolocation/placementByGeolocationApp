@@ -1,16 +1,16 @@
+import json
 from fastapi import APIRouter, Depends, HTTPException, Request, Header
 from sqlalchemy.orm import Session
-from typing import Optional, Dict, Any
+from typing import Optional
 import time
-import json
+from datetime import datetime
 
 from app.core.database import get_db
 from app.services.ml_service import MLService
 from app.services.history_service import HistoryService
-from app.models.schemas import PredictionRequest, PredictionResponse, ErrorResponse
-from datetime import datetime
+from app.models.schemas import GeolocationRequest, PredictionResponse, ErrorResponse
 
-router = APIRouter(prefix="/forward", tags=["ML Inference"])
+router = APIRouter(prefix="/forward", tags=["ML"])
 
 @router.post(
     "/",
@@ -22,20 +22,27 @@ router = APIRouter(prefix="/forward", tags=["ML Inference"])
     }
 )
 async def forward_pass(
-    request: PredictionRequest,
+    request: GeolocationRequest,
     request_obj: Request,
-    db: Session = Depends(get_db),
-    x_custom_header: Optional[str] = Header(None),
-    x_model_version: Optional[str] = Header(None),
-    x_features_count: Optional[int] = Header(None)
+    db: Session = Depends(get_db)
 ):
     """
-    Эндпоинт для прогона данных через ML модель
+    Эндпоинт для прогона данных через ML модель (313 признаков)
     
-    Headers:
-    - X-Custom-Header: произвольный заголовок
-    - X-Model-Version: версия модели (опционально)
-    - X-Features-Count: ожидаемое количество фичей (для валидации)
+    Формат входных данных - геолокация:
+    ```json
+    {
+        "lat": 55.7558,
+        "lon": 37.6176,
+        "establishment_type": "restaurant",
+        "cuisine": "italian",
+        "brand": "Вкусно и точка",
+        "additional_params": {
+            "competitors_count": 5,
+            "distance_to_metro": 300
+        }
+    }
+    ```
     """
     start_time = time.time()
     history_service = HistoryService(db)
@@ -44,39 +51,60 @@ async def forward_pass(
         # Получаем все заголовки
         headers = dict(request_obj.headers)
         
-        # Дополнительная валидация через заголовки
-        if x_features_count and len(request.features) != x_features_count:
-            raise HTTPException(
-                status_code=400,
-                detail=f"Expected {x_features_count} features, got {len(request.features)}"
-            )
-        
         # Инициализируем ML сервис
         ml_service = MLService()
         
-        # Обработка через ML сервис
-        result = await ml_service.process_request(
-            features=request.features,
-            headers=headers
+        # Преобразуем геолокацию в 313 признаков
+        features = ml_service.process_geolocation_request(
+            lat=request.lat,
+            lon=request.lon,
+            establishment_type=request.establishment_type,
+            cuisine=request.cuisine,
+            brand=request.brand,
+            **(request.additional_params or {})
         )
+        
+        input_metadata = {
+            "type": "geolocation",
+            "lat": request.lat,
+            "lon": request.lon,
+            "establishment_type": request.establishment_type,
+            "cuisine": request.cuisine,
+            "brand": request.brand,
+            "additional_params": request.additional_params
+        }
+        
+        result = await ml_service.process_request(features=features)
         
         # Вычисляем время обработки
         processing_time_ms = round((time.time() - start_time) * 1000, 2)
         
+        # Добавляем недостающие поля в результат
+        result.update({
+            "input_format": "geolocation",
+            "features_count": len(features),
+            "model_type": ml_service.ml_model.model_info["model_type"],
+            "input_metadata": input_metadata,
+            "processing_time_ms": processing_time_ms
+        })
+        
         # Сохраняем успешный запрос в историю
-        history_record = history_service.save_request(
+        # При сохранении в историю, преобразуем данные в строку JSON, иначе плохо работало
+        request_data = request.model_dump()
+        input_data_to_save = json.dumps(request_data) if not isinstance(request_data, str) else request_data
+        
+        # Для response также
+        output_data_to_save = json.dumps(result) if not isinstance(result, str) else result
+        
+        history_service.save_request(
             endpoint="/forward",
             method="POST",
-            input_data=request.model_dump(),
-            output_data=result,
+            input_data=input_data_to_save,
+            output_data=output_data_to_save,
             headers=headers,
             status_code=200,
             processing_time_ms=processing_time_ms
         )
-        
-        # Добавляем ID запроса в ответ
-        result["request_id"] = history_record.id
-        result["processing_time_ms"] = processing_time_ms
         
         return PredictionResponse(**result)
         
@@ -86,26 +114,40 @@ async def forward_pass(
     except Exception as e:
         # Определяем код ошибки
         error_detail = str(e)
+        error_lower = error_detail.lower()
         
-        if "модель не смогла обработать данные" in error_detail:
+        if any(phrase in error_lower for phrase in [
+            'модель не смогла', 'model failed', 'prediction failed',
+            'validation error', 'data validation'
+        ]):
             status_code = 403
             error_message = "Модель не смогла обработать данные"
-        elif "validation" in error_detail.lower() or "expected" in error_detail.lower():
+        elif any(phrase in error_lower for phrase in [
+            'expected', 'validation', 'invalid', 'bad request'
+        ]):
             status_code = 400
             error_message = f"bad request: {error_detail}"
         else:
-            status_code = 400
-            error_message = "bad request"
+            status_code = 500
+            error_message = "Internal server error"
         
         # Вычисляем время обработки
         processing_time_ms = round((time.time() - start_time) * 1000, 2)
+        
+        # Создаем объект ошибки для ответа
+        error_response = ErrorResponse(
+            success=False,
+            error=error_message,
+            detail=error_detail if error_detail != error_message else None,
+            timestamp=datetime.now()
+        )
         
         # Сохраняем ошибку в историю
         history_service.save_request(
             endpoint="/forward",
             method="POST",
             input_data=request.model_dump(),
-            output_data={"error": error_detail},
+            output_data=error_response.model_dump(),
             headers=dict(request_obj.headers),
             status_code=status_code,
             error_message=error_detail,
@@ -116,3 +158,17 @@ async def forward_pass(
             status_code=status_code,
             detail=error_message
         )
+
+# ЧТОБ БЫЛО, ВДРУГ ПОНАДОБИТСЯ
+@router.get("/features-info")
+async def get_features_info():
+    """Получить информацию о требуемых признаках"""
+    try:
+        ml_service = MLService()
+        return {
+            "success": True,
+            "total_features": len(ml_service.ml_model.feature_names),
+            "feature_names": ml_service.ml_model.feature_names
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

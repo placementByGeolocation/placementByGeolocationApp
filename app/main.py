@@ -9,24 +9,32 @@ from app.api import router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Lifespan events для создания таблиц при старте"""
-    # Создаем таблицы при запуске (в продакшене используйте миграции!)
+    """Lifespan events"""
+    # Создаем таблицы
     Base.metadata.create_all(bind=engine)
-    print("✅ Database tables created")
+    
+    # Пробуем загрузить модель при старте
+    try:
+        from app.ml.model_loader import load_model
+        model, feature_names = load_model()
+        print(f"✅ ML Model loaded: {type(model).__name__}")
+    except Exception as e:
+        print(f"⚠️  ML Model not loaded: {e}")
+    
     yield
-    # Cleanup при завершении
-    print("👋 Shutting down...")
+    
+    print("Shutting down...")
 
 app = FastAPI(
-    # title=settings.APP_NAME,
-    # version=settings.MODEL_VERSION,
-    # debug=settings.DEBUG,
+    title=settings.APP_NAME,
+    version="1.0.0",
+    debug=settings.DEBUG,
     lifespan=lifespan,
     docs_url="/docs",
     redoc_url="/redoc"
 )
 
-# CORS middleware
+# CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -36,23 +44,7 @@ app.add_middleware(
 )
 
 # Подключаем роутеры
-app.include_router(router, prefix="/api/v1")
-
-@app.get("/")
-async def root():
-    return {
-        "service": "ML Inference API",
-        "version": settings.MODEL_VERSION,
-        "docs": "/docs",
-        "endpoints": {
-            "forward": "POST /api/v1/forward",
-            "history": "GET /api/v1/history"
-        }
-    }
-
-@app.get("/health")
-async def health_check():
-    return {"status": "healthy", "timestamp": "2024-01-15T10:30:00Z"}
+app.include_router(router)
 
 if __name__ == "__main__":
     uvicorn.run(
