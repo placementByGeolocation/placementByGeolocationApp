@@ -4,21 +4,33 @@ from typing import List, Optional, Dict, Any, Union
 from datetime import datetime
 
 class GeolocationRequest(BaseModel):
-    """Схема для входных данных с геолокацией"""
+    """
+    Схема для входных данных с геолокацией и инфраструктурой.
+    
+    **Обязательные поля:**
+    - lat, lon
+    
+    **Опциональные поля** (будут использованы значения по умолчанию, если не переданы):
+    - city (дефолт: Москва)
+    - infrastructure (дефолт: все 0)
+    - nearest_distances (дефолт: все NaN)
+    """
     lat: float = Field(..., description="Широта", example=55.7558)
     lon: float = Field(..., description="Долгота", example=37.6176)
-    establishment_type: Optional[str] = Field(
-        "restaurant", 
-        description="Тип заведения (например, 'restaurant', 'cafe')"
+    city: Optional[str] = Field(
+        "Москва",
+        description="Название города",
+        example="Москва"
     )
-    cuisine: Optional[str] = Field(
-        "international",
-        description="Тип кухни (например, 'italian', 'japanese;sushi')"
-    )
-    brand: Optional[str] = Field(None, description="Бренд заведения")
-    additional_params: Optional[Dict[str, Any]] = Field(
+    infrastructure: Optional[Dict[str, Dict[int, int]]] = Field(
         None,
-        description="Дополнительные параметры"
+        description="Кол-во объектов инфраструктуры в радиусах. Пример: {'metro': {500: 2, 1000: 5}, 'bus_stops': {500: 1, 1000: 3}}",
+        example={"metro": {500: 2, 1000: 5}, "bus_stops": {500: 1, 1000: 3}}
+    )
+    nearest_distances: Optional[Dict[str, float]] = Field(
+        None,
+        description="Расстояния до ближайших объектов инфраструктуры в метрах. Пример: {'metro': 150.5, 'bus_stops': 200.0}",
+        example={"metro": 150.5, "bus_stops": 200.0}
     )
 
 class PredictionResponse(BaseModel):

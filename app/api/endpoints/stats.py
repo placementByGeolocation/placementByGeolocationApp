@@ -86,8 +86,6 @@ async def get_stats(
     status_codes_dist = {}
     
     # Для анализа параметров
-    establishment_types = {}
-    cuisines = {}
     input_formats = {}
     
     for record in records:
@@ -107,20 +105,6 @@ async def get_stats(
             if isinstance(parsed_input, dict):
                 input_formats["dict"] = input_formats.get("dict", 0) + 1
                 field_counts.append(len(parsed_input))
-                
-                # Анализ параметров для геолокационных запросов
-                if "lat" in parsed_input or "lon" in parsed_input:
-                    # Геолокационный запрос
-                    if isinstance(parsed_input, dict):
-                        if "establishment_type" in parsed_input:
-                            est_type = parsed_input.get("establishment_type")
-                            if est_type:
-                                establishment_types[str(est_type)] = establishment_types.get(str(est_type), 0) + 1
-                        
-                        if "cuisine" in parsed_input:
-                            cuisine = parsed_input.get("cuisine")
-                            if cuisine:
-                                cuisines[str(cuisine)] = cuisines.get(str(cuisine), 0) + 1
             elif isinstance(parsed_input, list):
                 input_formats["list"] = input_formats.get("list", 0) + 1
                 field_counts.append(len(parsed_input))
@@ -164,19 +148,6 @@ async def get_stats(
             "percentiles_fields": calculate_percentiles(field_counts, [50, 75, 90, 95, 99])
         }
     
-    # Сортируем распределения
-    top_establishment_types = sorted(
-        establishment_types.items(), 
-        key=lambda x: x[1], 
-        reverse=True
-    )[:10]
-    
-    top_cuisines = sorted(
-        cuisines.items(), 
-        key=lambda x: x[1], 
-        reverse=True
-    )[:10]
-    
     # Общая статистика
     total_stats = {
         "total_requests": len(records),
@@ -198,9 +169,5 @@ async def get_stats(
         "input_size_stats": size_stats,
         "input_field_stats": field_stats,
         "status_codes_distribution": status_codes_dist,
-        "parameter_distribution": {
-            "top_establishment_types": dict(top_establishment_types),
-            "top_cuisines": dict(top_cuisines)
-        },
         "request_statistics": total_stats
     }

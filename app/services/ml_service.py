@@ -1,4 +1,5 @@
 from app.ml.model_loader import MLModel
+from app.ml.feature_processor import FeatureProcessor
 from typing import Dict, Any, List, Optional
 from datetime import datetime
 import numpy as np
@@ -6,6 +7,7 @@ import numpy as np
 class MLService:
     def __init__(self):
         self.ml_model = MLModel()
+        self.feature_processor = FeatureProcessor(self.ml_model.feature_names)
     
     async def process_request(
         self, 
@@ -46,59 +48,30 @@ class MLService:
                 raise Exception("Модель не смогла обработать данные")
             raise Exception(error_msg)
     
-    # TODO: фигня фигней, надо сделать нормальную обработку данных
     def process_geolocation_request(
         self,
         lat: float,
         lon: float,
-        establishment_type: str = "restaurant",
-        cuisine: str = "international",
-        brand: Optional[str] = None,
-        **kwargs
+        city: str,
     ) -> List[float]:
         """
-        Преобразует геолокацию и параметры в 313 признаков
+        Преобразует геолокацию и данные об инфраструктуре в вектор признаков.
+        
+        Args:
+            lat: Широта
+            lon: Долгота
+            city: Название города (Москва, Санкт-Петербург, и т.д.)
+            infrastructure: Dict вида {category: {radius: count}}
+                          Пример: {"metro": {500: 2, 1000: 5}, "bus_stops": {500: 1, 1000: 3}}
+            nearest_distances: Dict вида {category: distance_in_meters}
+                             Пример: {"metro": 150.5, "bus_stops": 200.0}
+        
+        Returns:
+            Вектор признаков в правильном порядке для модели
         """
-        # Создаем список из 313 нулей
-        features = [0.0] * len(self.ml_model.feature_names)
-        
-        # Находим индексы нужных признаков
-        feature_names = self.ml_model.feature_names
-        
-        # Устанавливаем координаты
-        if 'lat' in feature_names:
-            idx = feature_names.index('lat')
-            features[idx] = float(lat)
-        
-        if 'lon' in feature_names:
-            idx = feature_names.index('lon')
-            features[idx] = float(lon)
-        
-        # Устанавливаем тип заведения
-        type_feature = f"type_{establishment_type.lower().replace(' ', '_')}"
-        if type_feature in feature_names:
-            idx = feature_names.index(type_feature)
-            features[idx] = 1.0
-        
-        # Устанавливаем кухню
-        cuisine_feature = f"cuisine_{cuisine.lower().replace(' ', '_')}"
-        if cuisine_feature in feature_names:
-            idx = feature_names.index(cuisine_feature)
-            features[idx] = 1.0
-        
-        # Устанавливаем бренд
-        if brand and 'brand' in feature_names:
-            idx = feature_names.index('brand')
-            features[idx] = 1.0
-        
-        # Обрабатываем дополнительные параметры
-        for key, value in kwargs.items():
-            if key in feature_names:
-                try:
-                    idx = feature_names.index(key)
-                    features[idx] = float(value)
-                except (ValueError, TypeError):
-                    features[idx] = 1.0 if value else 0.0
-        
-        return features
+        return self.feature_processor.process_geolocation(
+            lat=lat,
+            lon=lon,
+            city=city,
+        )
     

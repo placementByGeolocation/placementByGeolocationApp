@@ -27,19 +27,31 @@ async def forward_pass(
     db: Session = Depends(get_db)
 ):
     """
-    Эндпоинт для прогона данных через ML модель (313 признаков)
+    Эндпоинт для прогона данных через ML модель CatBoost.
     
-    Формат входных данных - геолокация:
+    **Вариант 1: Только координаты** (всё остальное — дефолтные значения):
+    ```json
+    {
+        "lat": 55.7558,
+        "lon": 37.6176
+    }
+    ```
+    
+    **Вариант 2: С инфраструктурой**:
     ```json
     {
         "lat": 55.7558,
         "lon": 37.6176,
-        "establishment_type": "restaurant",
-        "cuisine": "italian",
-        "brand": "Вкусно и точка",
-        "additional_params": {
-            "competitors_count": 5,
-            "distance_to_metro": 300
+        "city": "Москва",
+        "infrastructure": {
+            "metro": {500: 2, 1000: 5},
+            "bus_stops": {500: 1, 1000: 3},
+            "malls": {500: 0, 1000: 1}
+        },
+        "nearest_distances": {
+            "metro": 150.5,
+            "bus_stops": 200.0,
+            "malls": 800.0
         }
     }
     ```
@@ -50,28 +62,24 @@ async def forward_pass(
     try:
         # Получаем все заголовки
         headers = dict(request_obj.headers)
-        
-        # Инициализируем ML сервис
+
+        # Инициализируем ML сервис (модель кэшируется внутри)
         ml_service = MLService()
         
-        # Преобразуем геолокацию в 313 признаков
+        # Преобразуем геолокацию и инфраструктуру в вектор признаков
         features = ml_service.process_geolocation_request(
             lat=request.lat,
             lon=request.lon,
-            establishment_type=request.establishment_type,
-            cuisine=request.cuisine,
-            brand=request.brand,
-            **(request.additional_params or {})
+            city=request.city,
         )
         
         input_metadata = {
             "type": "geolocation",
             "lat": request.lat,
             "lon": request.lon,
-            "establishment_type": request.establishment_type,
-            "cuisine": request.cuisine,
-            "brand": request.brand,
-            "additional_params": request.additional_params
+            "city": request.city,
+            "infrastructure": request.infrastructure,
+            "nearest_distances": request.nearest_distances,
         }
         
         result = await ml_service.process_request(features=features)
