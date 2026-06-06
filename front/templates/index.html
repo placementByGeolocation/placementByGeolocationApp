@@ -108,7 +108,7 @@ function init() {
 
             body: JSON.stringify({
                 lat: coords[0],
-                lng: coords[1]
+                lon: coords[1]
             })
         })
 
@@ -117,10 +117,12 @@ function init() {
         .then(data => {
 
             console.log("Received response: %o", data);
-            const lat = Number(data.lat).toFixed(6);
-            const lng = Number(data.lng).toFixed(6);
+            const lat = Number(data.prediction.input_metadata.lat).toFixed(6);
+            const lon = Number(data.prediction.input_metadata.lon).toFixed(6);
 
-            if (data.success) {
+            const predictionValue = parseFloat(data.prediction.prediction);
+
+            if (predictionValue > 0.65) {
 
                 resultDiv.innerHTML = `
                     <div class="success">
@@ -129,13 +131,13 @@ function init() {
 
                     <br>
 
-                    Причина:
-                    ${data.reason}
+                    Предсказание модели:
+                    ${predictionValue.toFixed(4)}
 
                     <br><br>
 
                     📍 Координаты:
-                    ${lat}, ${lng}
+                    ${lat}, ${lon}
                 `;
 
             } else {
@@ -147,13 +149,13 @@ function init() {
 
                     <br>
 
-                    Причина:
-                    ${data.reason}
+                    Предсказание модели:
+                    ${predictionValue.toFixed(4)}
 
                     <br><br>
 
                     📍 Координаты:
-                    ${lat}, ${lng}
+                    ${lat}, ${lon}
                 `;
             }
         })

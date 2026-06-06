@@ -23,7 +23,7 @@ def analyze():
         data = request.get_json()
 
         lat = data["lat"]
-        lng = data["lng"]
+        lon = data["lon"]
 
         # ---------------------------------------------------
         # ВЫЗОВ FASTAPI
@@ -35,7 +35,7 @@ def analyze():
 
             json={
                 "lat": lat,
-                "lon": lng
+                "lon": lon
             },
 
             timeout=10
