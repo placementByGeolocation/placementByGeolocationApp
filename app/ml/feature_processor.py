@@ -6,6 +6,7 @@
 """
 import numpy as np
 import pandas as pd
+import requests
 from scipy.spatial import cKDTree
 from typing import List, Optional, Any
 import os
@@ -36,14 +37,21 @@ class FeatureProcessor:
         self._load_grid_features()
         
     def _load_grid_features(self):
-        """Загружает grid_features.csv и создает KD-дерево для поиска"""
-        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-        grid_path = os.path.join(base_dir, "app/models/grid_features.csv")
+        """Загружает grid_features.csv из облака (Yandex Disk) и создает KD-дерево"""
+        url = "https://disk.360.yandex.ru/d/A1o6ewSGJZZbWg"
         
-        self.grid_df = pd.read_csv(grid_path)
+        os.makedirs("app/models", exist_ok=True)
+        local_path = "app/models/grid_features.csv"
         
-        # Создаем KD-дерево для быстрого поиска по координатам
-        # Нормализуем координаты для более точного поиска
+        if not os.path.exists(local_path):
+            response = requests.get(url, stream=True, timeout=300)
+            response.raise_for_status()
+            with open(local_path, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+        
+        self.grid_df = pd.read_csv(local_path)
+        
         coords = self.grid_df[['lat', 'lon']].values
         self.tree = cKDTree(coords)
         
