@@ -114,23 +114,22 @@ def load_model() -> Tuple[any, List[str]]:
         # ---------------------------------------------------
 
         if not feature_names:
-
-            print("⚠️ Feature names not found in model")
+            print("WARNING: Feature names not found in model")
 
             # пробуем достать из sklearn metadata
             if hasattr(model, 'feature_names_in_'):
 
                 feature_names = list(model.feature_names_in_)
 
-        print(f"✅ Model loaded")
-        print(f"✅ Features count: {len(feature_names)}")
-        print(f"✅ Features: {feature_names}")
+        print(f"Model loaded successfully")
+        print(f"Features count: {len(feature_names)}")
+        print(f"Features: {feature_names}")
 
         return model, feature_names
 
     except Exception as e:
 
-        print(f"❌ Error loading model: {e}")
+        print(f"Error loading model: {e}")
         raise
 
 class MLModel:

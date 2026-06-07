@@ -29,32 +29,10 @@ async def forward_pass(
     """
     Эндпоинт для прогона данных через ML модель CatBoost.
     
-    **Вариант 1: Только координаты** (всё остальное — дефолтные значения):
-    ```json
-    {
-        "lat": 55.7558,
-        "lon": 37.6176
-    }
-    ```
+    По координатам (lat, lon) ищет ближайший grid-квадрат в grid_features.csv
+    и подает готовые признаки в модель.
     
-    **Вариант 2: С инфраструктурой**:
-    ```json
-    {
-        "lat": 55.7558,
-        "lon": 37.6176,
-        "city": "Москва",
-        "infrastructure": {
-            "metro": {500: 2, 1000: 5},
-            "bus_stops": {500: 1, 1000: 3},
-            "malls": {500: 0, 1000: 1}
-        },
-        "nearest_distances": {
-            "metro": 150.5,
-            "bus_stops": 200.0,
-            "malls": 800.0
-        }
-    }
-    ```
+    Город определяется автоматически, если не указан.
     """
     start_time = time.time()
     history_service = HistoryService(db)
@@ -77,9 +55,7 @@ async def forward_pass(
             "type": "geolocation",
             "lat": request.lat,
             "lon": request.lon,
-            "city": request.city,
-            "infrastructure": request.infrastructure,
-            "nearest_distances": request.nearest_distances,
+            "city": request.city
         }
         
         result = await ml_service.process_request(features=features)

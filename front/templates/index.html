@@ -116,7 +116,6 @@ function init() {
 
         .then(data => {
 
-            console.log("Received response: %o", data);
             const lat = Number(data.prediction.input_metadata.lat).toFixed(6);
             const lon = Number(data.prediction.input_metadata.lon).toFixed(6);
 

@@ -15,17 +15,14 @@ class MLService:
     ) -> Dict[str, Any]:
         """Обработка запроса для /forward"""
         try:
-            # Предсказание модели
             prediction, probabilities = self.ml_model.predict(features)
             
-            # Форматируем результат
             result = {
                 "success": True,
-                "prediction": float(prediction) if isinstance(prediction, (np.integer, np.floating)) else str(prediction),
+                "prediction": float(probabilities[1]) if isinstance(probabilities[1], (np.integer, np.floating)) else str(probabilities[1]),
                 "timestamp": datetime.now().isoformat(),
             }
             
-            # Добавляем вероятности если есть
             if probabilities is not None:
                 result["probabilities"] = probabilities.tolist() if hasattr(probabilities, 'tolist') else probabilities
                 result["confidence"] = float(np.max(probabilities))
@@ -33,15 +30,12 @@ class MLService:
             return result
             
         except ValueError as e:
-            # Ошибка валидации (неправильное количество фичей и т.д.)
             error_msg = f"Validation error: {str(e)}"
             raise Exception(error_msg)
             
         except Exception as e:
-            # Ошибка модели
             error_msg = f"Model processing error: {str(e)}"
             
-            # Определяем тип ошибки для правильного HTTP-кода
             if any(keyword in str(e).lower() for keyword in [
                 'failed', 'error', 'invalid', 'validation', 'модель'
             ]):
@@ -52,19 +46,15 @@ class MLService:
         self,
         lat: float,
         lon: float,
-        city: str,
+        city: Optional[str] = None,
     ) -> List[float]:
         """
-        Преобразует геолокацию и данные об инфраструктуре в вектор признаков.
+        Находит ближайший grid-квадрат по координатам и возвращает вектор признаков.
         
         Args:
             lat: Широта
             lon: Долгота
-            city: Название города (Москва, Санкт-Петербург, и т.д.)
-            infrastructure: Dict вида {category: {radius: count}}
-                          Пример: {"metro": {500: 2, 1000: 5}, "bus_stops": {500: 1, 1000: 3}}
-            nearest_distances: Dict вида {category: distance_in_meters}
-                             Пример: {"metro": 150.5, "bus_stops": 200.0}
+            city: Название города (опционально, определяется автоматически если не указан)
         
         Returns:
             Вектор признаков в правильном порядке для модели
@@ -74,4 +64,3 @@ class MLService:
             lon=lon,
             city=city,
         )
-    
