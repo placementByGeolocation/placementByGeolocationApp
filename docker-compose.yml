@@ -1,0 +1,62 @@
+name: checkpoint7-mlflow
+
+services:
+  minio:
+    image: minio/minio:latest
+    container_name: cp7-minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${AWS_ACCESS_KEY_ID}
+      MINIO_ROOT_PASSWORD: ${AWS_SECRET_ACCESS_KEY}
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+
+  createbuckets:
+    image: minio/mc:latest
+    container_name: cp7-mc
+    depends_on:
+      - minio
+    environment:
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+      MLFLOW_BUCKET: ${MLFLOW_BUCKET}
+    entrypoint: >
+      /bin/sh -c "
+      until mc alias set local http://minio:9000 $${AWS_ACCESS_KEY_ID} $${AWS_SECRET_ACCESS_KEY}; do echo 'жду minio...'; sleep 2; done;
+      mc mb --ignore-existing local/$${MLFLOW_BUCKET};
+      echo 'bucket готов';
+      "
+
+  mlflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+    container_name: cp7-mlflow
+    depends_on:
+      - minio
+      - createbuckets
+    ports:
+      - "5000:5000"
+    environment:
+      MLFLOW_S3_ENDPOINT_URL: http://minio:9000
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+      GUNICORN_CMD_ARGS: "--timeout 300 --graceful-timeout 300"
+      MLFLOW_GUNICORN_OPTS: "--timeout 300"
+    volumes:
+      - mlflow_data:/mlflow
+    command: >
+      mlflow server
+      --host 0.0.0.0
+      --port 5000
+      --backend-store-uri sqlite:////mlflow/mlflow.db
+      --artifacts-destination s3://${MLFLOW_BUCKET}/
+      --serve-artifacts
+      --workers 1
+
+volumes:
+  minio_data:
+  mlflow_data:
